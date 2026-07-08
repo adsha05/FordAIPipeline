@@ -1,0 +1,5 @@
+
+Engine overheating may be caused by coolant leaks, radiator blockage, faulty thermostat,
+water pump failure, low oil levels, or prolonged high-load operation. 
+Recommended inspection steps include checking coolant level, radiator condition,
+oil level, thermostat behavior, and engine temperature sensor readings.

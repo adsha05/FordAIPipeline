@@ -1,0 +1,4 @@
+
+Transmission delay, slipping, or gear ratio errors may indicate low transmission fluid,
+sensor faults, clutch wear, or control module issues. Recommended steps include checking
+fluid level, diagnostic codes, transmission temperature, and prior service history.

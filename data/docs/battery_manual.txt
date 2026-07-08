@@ -1,0 +1,4 @@
+
+Low battery voltage may indicate battery degradation, alternator issues,
+loose connections, or excessive accessory load. Recommended inspection steps include
+checking battery voltage, alternator output, terminal corrosion, and charging history.

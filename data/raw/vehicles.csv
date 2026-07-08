@@ -1,0 +1,3001 @@
+vehicle_id,customer_id,model,year,fuel_type,industry,mileage,vehicle_age
+V00001,C0103,Transit,2018,Hybrid,Construction,125198,8
+V00002,C0436,F-150,2020,Gasoline,Government,79155,6
+V00003,C0349,Maverick,2020,Electric,Utilities,126449,6
+V00004,C0271,F-150,2021,Diesel,Delivery,81700,5
+V00005,C0107,Super Duty,2022,Hybrid,Utilities,11955,4
+V00006,C0072,Super Duty,2022,Diesel,Utilities,26662,4
+V00007,C0189,Super Duty,2016,Gasoline,Government,11408,10
+V00008,C0021,Transit,2017,Gasoline,Delivery,176475,9
+V00009,C0103,Super Duty,2024,Gasoline,Logistics,6225,2
+V00010,C0122,Maverick,2025,Electric,Delivery,148268,1
+V00011,C0467,F-150,2017,Electric,Logistics,151444,9
+V00012,C0215,E-Transit,2021,Hybrid,Delivery,22279,5
+V00013,C0331,Maverick,2016,Diesel,Construction,115401,10
+V00014,C0459,Maverick,2018,Gasoline,Delivery,97404,8
+V00015,C0088,Super Duty,2017,Gasoline,Government,174259,9
+V00016,C0373,Transit,2018,Gasoline,Logistics,53481,8
+V00017,C0100,F-150,2020,Gasoline,Utilities,164547,6
+V00018,C0360,Transit,2025,Electric,Government,49552,1
+V00019,C0152,F-150,2021,Diesel,Logistics,142930,5
+V00020,C0131,F-150,2024,Diesel,Logistics,79474,2
+V00021,C0150,Transit,2025,Hybrid,Utilities,30168,1
+V00022,C0309,Maverick,2019,Electric,Construction,37099,7
+V00023,C0258,F-150,2022,Gasoline,Government,66455,4
+V00024,C0344,Transit,2021,Diesel,Utilities,59240,5
+V00025,C0492,F-150,2017,Diesel,Utilities,79796,9
+V00026,C0414,E-Transit,2025,Electric,Construction,59592,1
+V00027,C0294,Maverick,2023,Hybrid,Government,127181,3
+V00028,C0386,Super Duty,2022,Hybrid,Utilities,106611,4
+V00029,C0192,F-150,2022,Gasoline,Construction,63046,4
+V00030,C0444,E-Transit,2023,Hybrid,Government,21488,3
+V00031,C0277,Super Duty,2016,Diesel,Delivery,123521,10
+V00032,C0161,Super Duty,2016,Hybrid,Logistics,136467,10
+V00033,C0460,F-150,2023,Gasoline,Construction,146917,3
+V00034,C0314,Transit,2019,Diesel,Logistics,172131,7
+V00035,C0022,F-150,2020,Hybrid,Delivery,23394,6
+V00036,C0253,E-Transit,2023,Hybrid,Utilities,98993,3
+V00037,C0236,Super Duty,2020,Electric,Utilities,64332,6
+V00038,C0345,F-150,2025,Gasoline,Government,173377,1
+V00039,C0049,Transit,2019,Hybrid,Construction,47628,7
+V00040,C0475,F-150,2021,Electric,Construction,26352,5
+V00041,C0059,Maverick,2020,Diesel,Government,87971,6
+V00042,C0170,Transit,2022,Electric,Logistics,56993,4
+V00043,C0476,E-Transit,2025,Electric,Utilities,175458,1
+V00044,C0188,Super Duty,2022,Hybrid,Utilities,108027,4
+V00045,C0464,F-150,2019,Hybrid,Construction,125212,7
+V00046,C0271,Transit,2020,Hybrid,Construction,13539,6
+V00047,C0190,Maverick,2018,Electric,Government,137335,8
+V00048,C0446,Transit,2019,Diesel,Delivery,149377,7
+V00049,C0175,Maverick,2019,Gasoline,Logistics,58817,7
+V00050,C0446,E-Transit,2018,Electric,Delivery,160470,8
+V00051,C0051,Super Duty,2025,Hybrid,Delivery,54107,1
+V00052,C0364,E-Transit,2020,Gasoline,Construction,168224,6
+V00053,C0055,F-150,2020,Diesel,Construction,166696,6
+V00054,C0244,Transit,2022,Gasoline,Construction,134240,4
+V00055,C0320,Maverick,2019,Hybrid,Delivery,104655,7
+V00056,C0131,Maverick,2019,Electric,Logistics,61132,7
+V00057,C0485,Transit,2024,Electric,Construction,130701,2
+V00058,C0307,Transit,2021,Hybrid,Utilities,110494,5
+V00059,C0135,F-150,2019,Electric,Logistics,57979,7
+V00060,C0021,E-Transit,2017,Hybrid,Utilities,63013,9
+V00061,C0329,Maverick,2021,Electric,Logistics,68797,5
+V00062,C0167,F-150,2017,Electric,Construction,56798,9
+V00063,C0274,E-Transit,2020,Electric,Government,152722,6
+V00064,C0388,F-150,2021,Diesel,Construction,162086,5
+V00065,C0089,Maverick,2019,Diesel,Delivery,81421,7
+V00066,C0316,Transit,2018,Hybrid,Delivery,12434,8
+V00067,C0014,Transit,2022,Diesel,Logistics,35028,4
+V00068,C0242,E-Transit,2017,Hybrid,Delivery,71558,9
+V00069,C0265,Super Duty,2021,Gasoline,Construction,29331,5
+V00070,C0346,E-Transit,2019,Gasoline,Utilities,72573,7
+V00071,C0053,Super Duty,2021,Diesel,Construction,134473,5
+V00072,C0386,F-150,2019,Gasoline,Logistics,87979,7
+V00073,C0340,F-150,2019,Gasoline,Delivery,9123,7
+V00074,C0092,Maverick,2019,Electric,Utilities,21603,7
+V00075,C0367,Super Duty,2024,Electric,Government,70941,2
+V00076,C0444,Maverick,2022,Hybrid,Utilities,47597,4
+V00077,C0455,Transit,2018,Gasoline,Utilities,89238,8
+V00078,C0428,Super Duty,2018,Hybrid,Construction,178791,8
+V00079,C0264,E-Transit,2021,Hybrid,Government,46751,5
+V00080,C0431,Transit,2021,Gasoline,Logistics,131462,5
+V00081,C0035,Transit,2019,Diesel,Logistics,91978,7
+V00082,C0206,E-Transit,2024,Gasoline,Utilities,22693,2
+V00083,C0081,Transit,2019,Electric,Utilities,173769,7
+V00084,C0420,Super Duty,2024,Gasoline,Delivery,99524,2
+V00085,C0050,Maverick,2019,Diesel,Government,102869,7
+V00086,C0360,Transit,2017,Hybrid,Utilities,166064,9
+V00087,C0388,Super Duty,2017,Hybrid,Delivery,68825,9
+V00088,C0002,F-150,2020,Electric,Government,145594,6
+V00089,C0390,Super Duty,2019,Electric,Logistics,135475,7
+V00090,C0054,Maverick,2022,Electric,Delivery,50406,4
+V00091,C0106,Super Duty,2020,Hybrid,Government,148193,6
+V00092,C0260,E-Transit,2021,Electric,Delivery,128371,5
+V00093,C0310,Maverick,2025,Gasoline,Utilities,150291,1
+V00094,C0477,F-150,2019,Hybrid,Construction,6617,7
+V00095,C0191,E-Transit,2017,Diesel,Logistics,48016,9
+V00096,C0402,Super Duty,2025,Hybrid,Utilities,29276,1
+V00097,C0218,Maverick,2024,Gasoline,Utilities,77240,2
+V00098,C0044,F-150,2025,Gasoline,Government,111292,1
+V00099,C0162,E-Transit,2022,Electric,Delivery,22959,4
+V00100,C0202,F-150,2019,Hybrid,Logistics,33522,7
+V00101,C0446,Super Duty,2018,Hybrid,Utilities,146025,8
+V00102,C0484,F-150,2025,Hybrid,Government,31567,1
+V00103,C0270,Transit,2018,Diesel,Logistics,67708,8
+V00104,C0351,E-Transit,2024,Electric,Delivery,131206,2
+V00105,C0304,F-150,2020,Gasoline,Utilities,27560,6
+V00106,C0271,Super Duty,2018,Gasoline,Utilities,63390,8
+V00107,C0456,Super Duty,2020,Electric,Utilities,130772,6
+V00108,C0462,F-150,2017,Gasoline,Logistics,172732,9
+V00109,C0215,Super Duty,2019,Gasoline,Logistics,50104,7
+V00110,C0252,Maverick,2025,Electric,Logistics,62805,1
+V00111,C0190,Maverick,2017,Gasoline,Logistics,29496,9
+V00112,C0296,Maverick,2017,Hybrid,Government,96257,9
+V00113,C0213,Transit,2023,Diesel,Construction,8515,3
+V00114,C0208,F-150,2016,Electric,Government,9454,10
+V00115,C0237,Transit,2022,Diesel,Utilities,27873,4
+V00116,C0338,Super Duty,2020,Gasoline,Government,78920,6
+V00117,C0367,Transit,2023,Gasoline,Delivery,18727,3
+V00118,C0053,Super Duty,2016,Hybrid,Logistics,133376,10
+V00119,C0280,Super Duty,2022,Electric,Delivery,74070,4
+V00120,C0410,E-Transit,2020,Gasoline,Delivery,104059,6
+V00121,C0217,Maverick,2019,Electric,Utilities,129564,7
+V00122,C0252,Super Duty,2022,Electric,Logistics,122213,4
+V00123,C0188,E-Transit,2025,Electric,Delivery,30465,1
+V00124,C0380,Maverick,2017,Electric,Utilities,64799,9
+V00125,C0493,Super Duty,2016,Electric,Logistics,101129,10
+V00126,C0041,Super Duty,2016,Diesel,Construction,157402,10
+V00127,C0157,Transit,2016,Hybrid,Utilities,144374,10
+V00128,C0015,Transit,2020,Electric,Government,112288,6
+V00129,C0301,Maverick,2025,Diesel,Logistics,17875,1
+V00130,C0065,Super Duty,2022,Gasoline,Delivery,32219,4
+V00131,C0345,F-150,2017,Electric,Delivery,41182,9
+V00132,C0327,Transit,2025,Gasoline,Government,178341,1
+V00133,C0009,Maverick,2023,Electric,Government,84781,3
+V00134,C0344,Super Duty,2019,Diesel,Delivery,11457,7
+V00135,C0129,Super Duty,2018,Diesel,Logistics,142821,8
+V00136,C0492,F-150,2025,Diesel,Utilities,38064,1
+V00137,C0136,Maverick,2023,Hybrid,Government,145893,3
+V00138,C0472,Super Duty,2017,Gasoline,Government,120256,9
+V00139,C0063,Transit,2018,Hybrid,Government,103297,8
+V00140,C0139,F-150,2018,Electric,Construction,143736,8
+V00141,C0499,Maverick,2025,Gasoline,Logistics,165353,1
+V00142,C0081,F-150,2016,Diesel,Logistics,167893,10
+V00143,C0392,Transit,2021,Gasoline,Logistics,160719,5
+V00144,C0163,Maverick,2017,Diesel,Logistics,74918,9
+V00145,C0419,F-150,2016,Hybrid,Logistics,95179,10
+V00146,C0289,E-Transit,2017,Hybrid,Delivery,79944,9
+V00147,C0379,Transit,2021,Diesel,Government,94142,5
+V00148,C0261,Transit,2019,Diesel,Delivery,32603,7
+V00149,C0490,Transit,2021,Electric,Construction,51458,5
+V00150,C0231,E-Transit,2024,Hybrid,Utilities,75605,2
+V00151,C0041,E-Transit,2025,Hybrid,Government,24623,1
+V00152,C0028,Super Duty,2025,Electric,Construction,49440,1
+V00153,C0135,F-150,2023,Hybrid,Delivery,87427,3
+V00154,C0201,Super Duty,2016,Diesel,Utilities,143776,10
+V00155,C0328,F-150,2023,Gasoline,Construction,98826,3
+V00156,C0268,E-Transit,2024,Gasoline,Utilities,32460,2
+V00157,C0418,E-Transit,2021,Hybrid,Construction,115373,5
+V00158,C0033,Super Duty,2025,Electric,Delivery,142637,1
+V00159,C0048,Maverick,2020,Diesel,Utilities,9870,6
+V00160,C0407,Super Duty,2021,Gasoline,Construction,23909,5
+V00161,C0062,F-150,2021,Diesel,Delivery,14117,5
+V00162,C0216,Super Duty,2024,Hybrid,Government,72474,2
+V00163,C0293,Transit,2019,Hybrid,Delivery,98926,7
+V00164,C0099,F-150,2017,Gasoline,Delivery,132463,9
+V00165,C0172,F-150,2024,Hybrid,Government,106536,2
+V00166,C0360,Maverick,2017,Electric,Delivery,25128,9
+V00167,C0214,E-Transit,2025,Hybrid,Government,74001,1
+V00168,C0475,F-150,2024,Hybrid,Government,5440,2
+V00169,C0035,E-Transit,2017,Hybrid,Government,128491,9
+V00170,C0449,Super Duty,2023,Diesel,Construction,147735,3
+V00171,C0227,Transit,2024,Diesel,Utilities,155619,2
+V00172,C0101,Maverick,2025,Gasoline,Construction,86662,1
+V00173,C0431,E-Transit,2024,Gasoline,Government,5005,2
+V00174,C0462,F-150,2025,Gasoline,Utilities,12038,1
+V00175,C0131,E-Transit,2024,Hybrid,Utilities,11414,2
+V00176,C0257,F-150,2017,Diesel,Government,74506,9
+V00177,C0005,E-Transit,2019,Electric,Utilities,81586,7
+V00178,C0218,F-150,2022,Hybrid,Utilities,138678,4
+V00179,C0255,Super Duty,2017,Hybrid,Construction,21482,9
+V00180,C0398,F-150,2016,Hybrid,Utilities,38948,10
+V00181,C0359,F-150,2018,Electric,Government,94987,8
+V00182,C0283,Transit,2019,Gasoline,Logistics,25875,7
+V00183,C0393,F-150,2023,Electric,Logistics,18057,3
+V00184,C0207,Transit,2021,Gasoline,Logistics,37400,5
+V00185,C0015,Maverick,2017,Electric,Government,73607,9
+V00186,C0346,Transit,2024,Diesel,Logistics,92561,2
+V00187,C0042,Super Duty,2017,Hybrid,Construction,32503,9
+V00188,C0380,Transit,2020,Hybrid,Government,159837,6
+V00189,C0461,Maverick,2019,Hybrid,Government,106096,7
+V00190,C0179,Super Duty,2022,Gasoline,Government,51612,4
+V00191,C0063,E-Transit,2023,Electric,Utilities,103318,3
+V00192,C0352,E-Transit,2020,Diesel,Utilities,89335,6
+V00193,C0231,Transit,2025,Electric,Utilities,105989,1
+V00194,C0241,Transit,2020,Hybrid,Delivery,98012,6
+V00195,C0052,Maverick,2017,Diesel,Construction,86748,9
+V00196,C0096,Maverick,2023,Diesel,Government,145500,3
+V00197,C0388,F-150,2017,Hybrid,Government,167491,9
+V00198,C0222,Maverick,2025,Electric,Utilities,70195,1
+V00199,C0485,F-150,2021,Hybrid,Government,94846,5
+V00200,C0407,Super Duty,2023,Electric,Government,107404,3
+V00201,C0231,Transit,2021,Diesel,Logistics,44142,5
+V00202,C0237,Super Duty,2019,Diesel,Government,76540,7
+V00203,C0143,Maverick,2019,Hybrid,Delivery,174361,7
+V00204,C0171,Super Duty,2021,Diesel,Utilities,81948,5
+V00205,C0029,Super Duty,2019,Gasoline,Construction,63951,7
+V00206,C0036,Super Duty,2023,Diesel,Construction,16755,3
+V00207,C0013,Maverick,2024,Gasoline,Logistics,122985,2
+V00208,C0160,Super Duty,2016,Diesel,Construction,89553,10
+V00209,C0327,F-150,2019,Hybrid,Construction,139962,7
+V00210,C0187,Maverick,2019,Hybrid,Utilities,99376,7
+V00211,C0243,Super Duty,2017,Gasoline,Utilities,22175,9
+V00212,C0086,Maverick,2021,Hybrid,Delivery,70687,5
+V00213,C0284,E-Transit,2018,Diesel,Logistics,89983,8
+V00214,C0066,F-150,2022,Diesel,Construction,160360,4
+V00215,C0170,Super Duty,2020,Hybrid,Delivery,51629,6
+V00216,C0045,E-Transit,2019,Diesel,Logistics,121779,7
+V00217,C0062,E-Transit,2020,Electric,Construction,173439,6
+V00218,C0441,Maverick,2023,Electric,Construction,73513,3
+V00219,C0134,E-Transit,2018,Diesel,Utilities,87762,8
+V00220,C0284,F-150,2022,Hybrid,Government,165094,4
+V00221,C0028,F-150,2021,Gasoline,Logistics,137731,5
+V00222,C0108,Transit,2016,Hybrid,Construction,62941,10
+V00223,C0044,F-150,2022,Gasoline,Logistics,174002,4
+V00224,C0340,E-Transit,2022,Hybrid,Delivery,48473,4
+V00225,C0286,F-150,2016,Diesel,Delivery,21040,10
+V00226,C0446,Maverick,2024,Electric,Government,74806,2
+V00227,C0331,Transit,2021,Hybrid,Construction,149358,5
+V00228,C0128,E-Transit,2017,Gasoline,Utilities,117076,9
+V00229,C0348,Transit,2020,Electric,Construction,60916,6
+V00230,C0473,E-Transit,2019,Gasoline,Logistics,153672,7
+V00231,C0231,Maverick,2022,Diesel,Delivery,138363,4
+V00232,C0190,Transit,2023,Electric,Logistics,149195,3
+V00233,C0225,Super Duty,2016,Gasoline,Government,8811,10
+V00234,C0385,E-Transit,2020,Hybrid,Delivery,36276,6
+V00235,C0377,Super Duty,2018,Diesel,Utilities,86049,8
+V00236,C0283,Transit,2016,Diesel,Delivery,162786,10
+V00237,C0446,Super Duty,2018,Diesel,Construction,148266,8
+V00238,C0121,Super Duty,2021,Hybrid,Construction,78062,5
+V00239,C0116,Transit,2022,Hybrid,Delivery,155434,4
+V00240,C0461,Maverick,2023,Electric,Government,59499,3
+V00241,C0233,Super Duty,2019,Hybrid,Construction,51281,7
+V00242,C0259,Super Duty,2018,Electric,Construction,49852,8
+V00243,C0359,Maverick,2020,Diesel,Utilities,9595,6
+V00244,C0198,Super Duty,2024,Electric,Delivery,100930,2
+V00245,C0456,Super Duty,2021,Gasoline,Construction,151474,5
+V00246,C0411,Super Duty,2024,Diesel,Government,97676,2
+V00247,C0137,F-150,2021,Diesel,Logistics,178795,5
+V00248,C0318,Maverick,2017,Electric,Delivery,160983,9
+V00249,C0165,Super Duty,2020,Diesel,Utilities,24405,6
+V00250,C0225,Maverick,2024,Hybrid,Construction,63122,2
+V00251,C0307,E-Transit,2023,Gasoline,Government,133909,3
+V00252,C0234,E-Transit,2022,Electric,Delivery,8447,4
+V00253,C0172,Super Duty,2016,Electric,Government,15662,10
+V00254,C0152,Maverick,2019,Diesel,Government,63282,7
+V00255,C0463,Maverick,2022,Hybrid,Utilities,140971,4
+V00256,C0315,Maverick,2022,Diesel,Delivery,33582,4
+V00257,C0374,F-150,2021,Diesel,Construction,72471,5
+V00258,C0160,E-Transit,2023,Electric,Utilities,128513,3
+V00259,C0096,Maverick,2021,Diesel,Construction,178285,5
+V00260,C0472,Maverick,2025,Gasoline,Logistics,112578,1
+V00261,C0233,F-150,2018,Diesel,Government,80871,8
+V00262,C0180,F-150,2019,Diesel,Logistics,88205,7
+V00263,C0113,Maverick,2018,Electric,Government,79081,8
+V00264,C0318,Transit,2016,Diesel,Utilities,110783,10
+V00265,C0497,Maverick,2025,Hybrid,Construction,88805,1
+V00266,C0442,Maverick,2020,Electric,Construction,129698,6
+V00267,C0052,F-150,2016,Diesel,Utilities,173902,10
+V00268,C0268,F-150,2016,Gasoline,Delivery,143138,10
+V00269,C0295,Maverick,2017,Gasoline,Logistics,15712,9
+V00270,C0386,Maverick,2019,Electric,Logistics,86527,7
+V00271,C0387,Maverick,2021,Electric,Construction,134453,5
+V00272,C0113,F-150,2023,Diesel,Construction,131888,3
+V00273,C0101,Maverick,2018,Hybrid,Construction,92185,8
+V00274,C0113,Maverick,2016,Diesel,Utilities,104851,10
+V00275,C0440,Super Duty,2018,Gasoline,Delivery,166878,8
+V00276,C0081,Transit,2018,Hybrid,Logistics,17210,8
+V00277,C0187,E-Transit,2020,Hybrid,Government,41972,6
+V00278,C0113,Transit,2019,Hybrid,Utilities,39136,7
+V00279,C0002,Super Duty,2019,Diesel,Logistics,121445,7
+V00280,C0130,E-Transit,2024,Gasoline,Delivery,20945,2
+V00281,C0220,Maverick,2022,Electric,Utilities,178549,4
+V00282,C0054,Super Duty,2019,Diesel,Logistics,84180,7
+V00283,C0343,Maverick,2018,Electric,Utilities,75453,8
+V00284,C0485,F-150,2021,Hybrid,Logistics,90404,5
+V00285,C0224,Super Duty,2018,Hybrid,Logistics,149296,8
+V00286,C0225,F-150,2021,Diesel,Delivery,8052,5
+V00287,C0385,Super Duty,2024,Gasoline,Government,32272,2
+V00288,C0403,Super Duty,2021,Hybrid,Delivery,46150,5
+V00289,C0126,F-150,2019,Electric,Logistics,153388,7
+V00290,C0130,E-Transit,2020,Electric,Utilities,143312,6
+V00291,C0053,Transit,2021,Diesel,Delivery,102095,5
+V00292,C0172,Maverick,2018,Electric,Government,73774,8
+V00293,C0218,Super Duty,2023,Gasoline,Logistics,48175,3
+V00294,C0160,Maverick,2019,Hybrid,Delivery,136637,7
+V00295,C0198,F-150,2023,Electric,Delivery,21375,3
+V00296,C0416,Maverick,2025,Electric,Delivery,30710,1
+V00297,C0247,F-150,2025,Hybrid,Delivery,151246,1
+V00298,C0324,Maverick,2018,Diesel,Utilities,112026,8
+V00299,C0439,Transit,2025,Electric,Government,32597,1
+V00300,C0203,Transit,2022,Diesel,Government,79289,4
+V00301,C0184,Transit,2024,Diesel,Logistics,174469,2
+V00302,C0123,Transit,2019,Electric,Construction,169141,7
+V00303,C0401,Transit,2023,Gasoline,Utilities,90687,3
+V00304,C0255,Transit,2018,Diesel,Logistics,123968,8
+V00305,C0294,F-150,2022,Electric,Logistics,45274,4
+V00306,C0280,Super Duty,2018,Diesel,Delivery,174269,8
+V00307,C0325,Maverick,2022,Hybrid,Construction,53634,4
+V00308,C0372,Transit,2025,Gasoline,Construction,35041,1
+V00309,C0098,F-150,2025,Gasoline,Utilities,143320,1
+V00310,C0198,F-150,2021,Hybrid,Construction,90365,5
+V00311,C0470,F-150,2017,Hybrid,Logistics,138275,9
+V00312,C0395,Super Duty,2018,Diesel,Construction,56986,8
+V00313,C0240,Maverick,2021,Hybrid,Construction,30370,5
+V00314,C0144,Super Duty,2019,Gasoline,Government,40247,7
+V00315,C0097,E-Transit,2021,Hybrid,Logistics,129403,5
+V00316,C0201,F-150,2016,Electric,Construction,124544,10
+V00317,C0124,E-Transit,2025,Electric,Construction,136506,1
+V00318,C0187,Transit,2016,Diesel,Delivery,67982,10
+V00319,C0326,Transit,2018,Gasoline,Construction,70180,8
+V00320,C0464,Super Duty,2023,Electric,Construction,113534,3
+V00321,C0349,Maverick,2023,Hybrid,Government,170546,3
+V00322,C0259,E-Transit,2019,Electric,Logistics,29644,7
+V00323,C0148,Maverick,2021,Electric,Utilities,43493,5
+V00324,C0252,Super Duty,2023,Diesel,Logistics,88824,3
+V00325,C0443,Transit,2022,Hybrid,Delivery,140031,4
+V00326,C0420,Maverick,2022,Hybrid,Logistics,52289,4
+V00327,C0403,Maverick,2019,Hybrid,Construction,147215,7
+V00328,C0346,Transit,2024,Diesel,Delivery,175665,2
+V00329,C0451,E-Transit,2025,Hybrid,Logistics,175187,1
+V00330,C0147,Transit,2021,Hybrid,Delivery,158612,5
+V00331,C0148,Maverick,2018,Electric,Utilities,40481,8
+V00332,C0352,E-Transit,2020,Electric,Logistics,82097,6
+V00333,C0199,E-Transit,2020,Hybrid,Construction,27578,6
+V00334,C0308,Transit,2020,Gasoline,Delivery,148859,6
+V00335,C0489,Maverick,2023,Gasoline,Government,77048,3
+V00336,C0417,Super Duty,2024,Hybrid,Delivery,146668,2
+V00337,C0424,Maverick,2024,Gasoline,Government,156002,2
+V00338,C0128,F-150,2021,Diesel,Construction,100737,5
+V00339,C0039,Super Duty,2021,Electric,Utilities,23687,5
+V00340,C0338,E-Transit,2024,Diesel,Government,127540,2
+V00341,C0360,Super Duty,2019,Electric,Utilities,172061,7
+V00342,C0129,E-Transit,2021,Gasoline,Delivery,35183,5
+V00343,C0267,E-Transit,2019,Gasoline,Construction,25758,7
+V00344,C0476,Super Duty,2016,Hybrid,Government,137154,10
+V00345,C0441,E-Transit,2022,Gasoline,Delivery,101368,4
+V00346,C0473,E-Transit,2025,Gasoline,Logistics,50891,1
+V00347,C0434,F-150,2021,Hybrid,Delivery,51901,5
+V00348,C0151,Maverick,2024,Hybrid,Utilities,108912,2
+V00349,C0415,Maverick,2022,Electric,Construction,76062,4
+V00350,C0478,F-150,2022,Gasoline,Construction,157635,4
+V00351,C0298,Super Duty,2017,Electric,Delivery,77008,9
+V00352,C0099,Transit,2024,Electric,Logistics,138847,2
+V00353,C0263,Transit,2025,Diesel,Utilities,151900,1
+V00354,C0252,Transit,2024,Gasoline,Delivery,22974,2
+V00355,C0144,F-150,2021,Gasoline,Delivery,158460,5
+V00356,C0346,F-150,2018,Diesel,Construction,85591,8
+V00357,C0112,E-Transit,2016,Electric,Utilities,23615,10
+V00358,C0500,Transit,2019,Gasoline,Logistics,173958,7
+V00359,C0060,Super Duty,2018,Electric,Construction,27838,8
+V00360,C0369,Super Duty,2016,Diesel,Delivery,45728,10
+V00361,C0002,Transit,2018,Hybrid,Construction,121249,8
+V00362,C0385,Transit,2019,Electric,Construction,83000,7
+V00363,C0304,Transit,2023,Gasoline,Government,57798,3
+V00364,C0254,F-150,2024,Hybrid,Construction,155694,2
+V00365,C0140,F-150,2018,Electric,Construction,149608,8
+V00366,C0453,F-150,2021,Electric,Utilities,141772,5
+V00367,C0037,Maverick,2025,Hybrid,Construction,174911,1
+V00368,C0160,Super Duty,2020,Hybrid,Logistics,15248,6
+V00369,C0009,Super Duty,2021,Hybrid,Delivery,50291,5
+V00370,C0233,E-Transit,2019,Gasoline,Utilities,87629,7
+V00371,C0099,F-150,2025,Gasoline,Construction,130612,1
+V00372,C0147,Maverick,2021,Electric,Logistics,22177,5
+V00373,C0304,Maverick,2022,Electric,Delivery,155555,4
+V00374,C0208,Super Duty,2024,Diesel,Utilities,48815,2
+V00375,C0131,F-150,2025,Gasoline,Logistics,43533,1
+V00376,C0404,E-Transit,2022,Electric,Construction,5026,4
+V00377,C0152,F-150,2021,Hybrid,Government,109997,5
+V00378,C0054,Transit,2016,Hybrid,Government,65611,10
+V00379,C0120,F-150,2017,Gasoline,Utilities,92242,9
+V00380,C0161,Transit,2016,Hybrid,Logistics,160732,10
+V00381,C0408,Transit,2024,Diesel,Delivery,109913,2
+V00382,C0116,E-Transit,2025,Electric,Logistics,47082,1
+V00383,C0075,Super Duty,2025,Electric,Government,152330,1
+V00384,C0113,F-150,2024,Electric,Utilities,108613,2
+V00385,C0456,Transit,2022,Gasoline,Construction,103315,4
+V00386,C0420,F-150,2017,Hybrid,Logistics,94690,9
+V00387,C0422,Super Duty,2021,Diesel,Government,100220,5
+V00388,C0104,Super Duty,2019,Gasoline,Delivery,20389,7
+V00389,C0340,Maverick,2016,Electric,Utilities,96860,10
+V00390,C0254,Super Duty,2016,Diesel,Construction,163757,10
+V00391,C0227,E-Transit,2020,Electric,Logistics,163267,6
+V00392,C0112,Transit,2017,Electric,Delivery,26797,9
+V00393,C0473,Maverick,2019,Gasoline,Construction,116975,7
+V00394,C0099,E-Transit,2016,Electric,Government,102169,10
+V00395,C0153,F-150,2019,Diesel,Government,71332,7
+V00396,C0349,Transit,2021,Electric,Delivery,143260,5
+V00397,C0402,Super Duty,2025,Hybrid,Government,28696,1
+V00398,C0384,Transit,2019,Electric,Utilities,7024,7
+V00399,C0366,F-150,2016,Gasoline,Delivery,172057,10
+V00400,C0338,Maverick,2022,Diesel,Government,142656,4
+V00401,C0194,Maverick,2017,Gasoline,Logistics,95998,9
+V00402,C0310,Maverick,2024,Hybrid,Government,163116,2
+V00403,C0163,Super Duty,2018,Electric,Utilities,10285,8
+V00404,C0208,E-Transit,2023,Gasoline,Construction,12370,3
+V00405,C0445,E-Transit,2023,Gasoline,Construction,22903,3
+V00406,C0169,Transit,2018,Gasoline,Government,168571,8
+V00407,C0484,Super Duty,2019,Gasoline,Construction,102904,7
+V00408,C0161,Maverick,2017,Hybrid,Government,27995,9
+V00409,C0068,Maverick,2019,Hybrid,Utilities,110160,7
+V00410,C0289,F-150,2024,Electric,Construction,171272,2
+V00411,C0398,F-150,2017,Electric,Logistics,93377,9
+V00412,C0277,Maverick,2018,Diesel,Government,149638,8
+V00413,C0304,Maverick,2019,Hybrid,Construction,42822,7
+V00414,C0404,Super Duty,2020,Gasoline,Utilities,112412,6
+V00415,C0384,E-Transit,2016,Gasoline,Utilities,56222,10
+V00416,C0392,F-150,2022,Diesel,Logistics,99088,4
+V00417,C0135,E-Transit,2025,Gasoline,Utilities,95450,1
+V00418,C0195,Super Duty,2022,Diesel,Utilities,114366,4
+V00419,C0401,Maverick,2024,Electric,Construction,115078,2
+V00420,C0128,E-Transit,2019,Hybrid,Government,68853,7
+V00421,C0033,Maverick,2021,Diesel,Delivery,128794,5
+V00422,C0176,Maverick,2017,Gasoline,Utilities,158405,9
+V00423,C0460,Transit,2019,Diesel,Utilities,152030,7
+V00424,C0443,E-Transit,2017,Electric,Delivery,57442,9
+V00425,C0371,E-Transit,2025,Gasoline,Utilities,157026,1
+V00426,C0470,Maverick,2020,Electric,Construction,14675,6
+V00427,C0375,Super Duty,2022,Electric,Construction,94590,4
+V00428,C0022,Transit,2016,Diesel,Delivery,113570,10
+V00429,C0238,Maverick,2025,Electric,Utilities,36661,1
+V00430,C0158,F-150,2025,Gasoline,Utilities,69289,1
+V00431,C0038,F-150,2022,Electric,Government,22184,4
+V00432,C0230,Transit,2025,Electric,Utilities,52963,1
+V00433,C0365,Super Duty,2021,Diesel,Construction,161894,5
+V00434,C0051,Maverick,2021,Electric,Logistics,10267,5
+V00435,C0438,E-Transit,2023,Hybrid,Logistics,67814,3
+V00436,C0264,Transit,2023,Diesel,Logistics,41025,3
+V00437,C0283,Super Duty,2021,Diesel,Logistics,126246,5
+V00438,C0027,E-Transit,2018,Gasoline,Utilities,82605,8
+V00439,C0226,F-150,2020,Gasoline,Utilities,137053,6
+V00440,C0277,F-150,2017,Gasoline,Government,48436,9
+V00441,C0286,E-Transit,2020,Gasoline,Utilities,154544,6
+V00442,C0097,Transit,2024,Hybrid,Logistics,155408,2
+V00443,C0284,F-150,2025,Diesel,Delivery,161659,1
+V00444,C0367,Maverick,2016,Electric,Delivery,82192,10
+V00445,C0448,E-Transit,2025,Gasoline,Construction,125591,1
+V00446,C0481,E-Transit,2020,Gasoline,Construction,89511,6
+V00447,C0453,F-150,2021,Gasoline,Utilities,14665,5
+V00448,C0317,Transit,2022,Electric,Delivery,163169,4
+V00449,C0304,Maverick,2024,Gasoline,Logistics,96277,2
+V00450,C0147,Transit,2021,Electric,Logistics,57474,5
+V00451,C0004,Super Duty,2020,Diesel,Logistics,161257,6
+V00452,C0035,Super Duty,2022,Diesel,Utilities,80911,4
+V00453,C0192,F-150,2016,Diesel,Utilities,97643,10
+V00454,C0049,F-150,2020,Hybrid,Government,35484,6
+V00455,C0017,F-150,2017,Electric,Logistics,106165,9
+V00456,C0172,Super Duty,2019,Gasoline,Logistics,30835,7
+V00457,C0220,Transit,2022,Gasoline,Utilities,101453,4
+V00458,C0158,Transit,2020,Gasoline,Utilities,58790,6
+V00459,C0477,F-150,2021,Gasoline,Government,14643,5
+V00460,C0046,Maverick,2017,Hybrid,Government,80846,9
+V00461,C0373,Transit,2018,Gasoline,Construction,155023,8
+V00462,C0006,Super Duty,2022,Hybrid,Delivery,151305,4
+V00463,C0099,E-Transit,2017,Electric,Logistics,18200,9
+V00464,C0380,E-Transit,2021,Diesel,Logistics,57275,5
+V00465,C0233,E-Transit,2020,Gasoline,Government,94001,6
+V00466,C0037,Maverick,2025,Diesel,Government,157363,1
+V00467,C0280,F-150,2016,Electric,Construction,47448,10
+V00468,C0349,Super Duty,2025,Electric,Delivery,166652,1
+V00469,C0497,Maverick,2019,Gasoline,Construction,96685,7
+V00470,C0302,Super Duty,2017,Electric,Delivery,157418,9
+V00471,C0181,Super Duty,2019,Diesel,Logistics,15619,7
+V00472,C0095,F-150,2016,Gasoline,Construction,110454,10
+V00473,C0099,E-Transit,2017,Hybrid,Government,6766,9
+V00474,C0188,F-150,2023,Gasoline,Construction,8549,3
+V00475,C0481,Maverick,2021,Diesel,Construction,154765,5
+V00476,C0116,Maverick,2017,Gasoline,Logistics,112938,9
+V00477,C0191,Maverick,2021,Gasoline,Government,132673,5
+V00478,C0253,F-150,2025,Diesel,Government,53328,1
+V00479,C0469,Super Duty,2024,Gasoline,Utilities,30301,2
+V00480,C0416,Super Duty,2022,Gasoline,Utilities,49763,4
+V00481,C0471,Transit,2024,Diesel,Utilities,156837,2
+V00482,C0161,Maverick,2020,Electric,Logistics,49787,6
+V00483,C0256,Super Duty,2022,Diesel,Construction,125675,4
+V00484,C0323,Transit,2022,Gasoline,Government,12425,4
+V00485,C0128,Super Duty,2018,Hybrid,Government,17857,8
+V00486,C0018,Maverick,2022,Hybrid,Construction,97999,4
+V00487,C0281,E-Transit,2016,Diesel,Government,158516,10
+V00488,C0490,Maverick,2024,Hybrid,Construction,46457,2
+V00489,C0223,F-150,2025,Gasoline,Logistics,136776,1
+V00490,C0054,Super Duty,2021,Gasoline,Logistics,10452,5
+V00491,C0058,Super Duty,2020,Diesel,Logistics,116153,6
+V00492,C0323,F-150,2022,Gasoline,Construction,43862,4
+V00493,C0360,F-150,2020,Electric,Construction,23300,6
+V00494,C0174,E-Transit,2025,Gasoline,Delivery,145638,1
+V00495,C0280,Super Duty,2020,Diesel,Government,143573,6
+V00496,C0114,Super Duty,2025,Electric,Government,6845,1
+V00497,C0288,E-Transit,2022,Electric,Delivery,124342,4
+V00498,C0431,Transit,2025,Hybrid,Delivery,44181,1
+V00499,C0342,E-Transit,2022,Gasoline,Logistics,39404,4
+V00500,C0151,Maverick,2018,Diesel,Delivery,27564,8
+V00501,C0450,Super Duty,2018,Hybrid,Construction,102898,8
+V00502,C0127,F-150,2025,Hybrid,Utilities,23227,1
+V00503,C0155,Maverick,2018,Gasoline,Construction,100259,8
+V00504,C0490,Super Duty,2021,Gasoline,Delivery,129451,5
+V00505,C0386,E-Transit,2021,Diesel,Government,22215,5
+V00506,C0474,Maverick,2018,Hybrid,Construction,135577,8
+V00507,C0273,Super Duty,2018,Diesel,Government,76074,8
+V00508,C0104,Transit,2023,Hybrid,Construction,157771,3
+V00509,C0417,Transit,2023,Hybrid,Government,113621,3
+V00510,C0393,F-150,2022,Hybrid,Construction,148526,4
+V00511,C0299,Super Duty,2025,Gasoline,Government,111759,1
+V00512,C0246,Transit,2019,Hybrid,Utilities,133471,7
+V00513,C0176,E-Transit,2019,Hybrid,Logistics,26711,7
+V00514,C0039,Super Duty,2018,Hybrid,Construction,151131,8
+V00515,C0477,E-Transit,2020,Electric,Utilities,53398,6
+V00516,C0170,E-Transit,2018,Gasoline,Logistics,6286,8
+V00517,C0247,Transit,2023,Electric,Construction,170369,3
+V00518,C0026,Super Duty,2022,Gasoline,Utilities,113304,4
+V00519,C0355,Maverick,2018,Diesel,Utilities,109959,8
+V00520,C0306,Transit,2024,Electric,Utilities,162557,2
+V00521,C0409,Transit,2020,Diesel,Delivery,64967,6
+V00522,C0408,Super Duty,2024,Hybrid,Government,102803,2
+V00523,C0013,Super Duty,2022,Diesel,Logistics,134745,4
+V00524,C0316,E-Transit,2022,Diesel,Government,59583,4
+V00525,C0391,Super Duty,2021,Diesel,Government,129077,5
+V00526,C0313,E-Transit,2017,Diesel,Government,116359,9
+V00527,C0036,Transit,2024,Gasoline,Utilities,32086,2
+V00528,C0173,F-150,2021,Electric,Government,152556,5
+V00529,C0020,Maverick,2023,Gasoline,Delivery,109132,3
+V00530,C0321,Transit,2016,Gasoline,Construction,64263,10
+V00531,C0264,Super Duty,2020,Gasoline,Utilities,154747,6
+V00532,C0494,Maverick,2016,Diesel,Logistics,125155,10
+V00533,C0400,F-150,2025,Gasoline,Construction,65664,1
+V00534,C0142,F-150,2023,Electric,Construction,160752,3
+V00535,C0460,E-Transit,2023,Gasoline,Construction,153149,3
+V00536,C0371,Maverick,2016,Hybrid,Government,125474,10
+V00537,C0471,E-Transit,2024,Diesel,Government,174246,2
+V00538,C0143,Transit,2017,Hybrid,Utilities,81968,9
+V00539,C0092,Maverick,2024,Electric,Government,139563,2
+V00540,C0354,Transit,2016,Electric,Government,139464,10
+V00541,C0322,E-Transit,2025,Electric,Government,72804,1
+V00542,C0288,Maverick,2024,Electric,Utilities,43400,2
+V00543,C0215,E-Transit,2019,Gasoline,Utilities,172623,7
+V00544,C0447,Maverick,2024,Diesel,Delivery,33088,2
+V00545,C0342,E-Transit,2022,Electric,Delivery,161537,4
+V00546,C0051,F-150,2021,Hybrid,Delivery,92893,5
+V00547,C0153,E-Transit,2020,Electric,Delivery,10969,6
+V00548,C0186,F-150,2024,Diesel,Construction,13981,2
+V00549,C0063,E-Transit,2017,Hybrid,Construction,157104,9
+V00550,C0190,Maverick,2017,Hybrid,Delivery,59091,9
+V00551,C0125,Maverick,2024,Hybrid,Delivery,112154,2
+V00552,C0150,Maverick,2018,Gasoline,Logistics,29408,8
+V00553,C0314,Super Duty,2023,Electric,Construction,160313,3
+V00554,C0058,Transit,2024,Gasoline,Logistics,52940,2
+V00555,C0342,Maverick,2023,Hybrid,Logistics,8657,3
+V00556,C0305,F-150,2019,Gasoline,Government,26230,7
+V00557,C0180,Maverick,2016,Gasoline,Utilities,154752,10
+V00558,C0170,Super Duty,2019,Gasoline,Construction,89731,7
+V00559,C0326,F-150,2024,Electric,Delivery,178412,2
+V00560,C0271,Super Duty,2017,Hybrid,Delivery,172022,9
+V00561,C0054,F-150,2018,Hybrid,Utilities,143939,8
+V00562,C0491,E-Transit,2025,Electric,Construction,9329,1
+V00563,C0444,Transit,2023,Gasoline,Delivery,40865,3
+V00564,C0101,Transit,2021,Gasoline,Delivery,42869,5
+V00565,C0481,Super Duty,2023,Diesel,Government,125185,3
+V00566,C0264,Transit,2022,Diesel,Logistics,88984,4
+V00567,C0053,Super Duty,2020,Diesel,Delivery,130172,6
+V00568,C0060,Super Duty,2024,Electric,Construction,106069,2
+V00569,C0492,Super Duty,2019,Hybrid,Utilities,94711,7
+V00570,C0108,Transit,2021,Diesel,Government,71252,5
+V00571,C0005,Super Duty,2017,Hybrid,Construction,84386,9
+V00572,C0103,Transit,2017,Hybrid,Government,123728,9
+V00573,C0196,Super Duty,2017,Hybrid,Logistics,137783,9
+V00574,C0262,Maverick,2025,Electric,Delivery,30801,1
+V00575,C0365,Super Duty,2022,Electric,Construction,95709,4
+V00576,C0480,F-150,2017,Electric,Utilities,58270,9
+V00577,C0372,Super Duty,2017,Electric,Logistics,60535,9
+V00578,C0350,E-Transit,2024,Diesel,Logistics,21220,2
+V00579,C0047,Super Duty,2022,Gasoline,Government,18392,4
+V00580,C0355,F-150,2018,Gasoline,Logistics,138318,8
+V00581,C0311,F-150,2018,Gasoline,Construction,25010,8
+V00582,C0424,Transit,2022,Diesel,Government,131951,4
+V00583,C0308,Maverick,2020,Gasoline,Logistics,73358,6
+V00584,C0144,Super Duty,2025,Diesel,Utilities,153306,1
+V00585,C0269,Transit,2021,Diesel,Construction,101190,5
+V00586,C0370,Maverick,2023,Diesel,Utilities,120795,3
+V00587,C0124,Super Duty,2024,Gasoline,Utilities,127790,2
+V00588,C0106,E-Transit,2016,Hybrid,Government,130223,10
+V00589,C0158,Super Duty,2018,Gasoline,Delivery,80205,8
+V00590,C0147,F-150,2022,Gasoline,Government,157856,4
+V00591,C0145,F-150,2021,Electric,Construction,165744,5
+V00592,C0120,E-Transit,2022,Diesel,Construction,6082,4
+V00593,C0319,Transit,2023,Hybrid,Government,147220,3
+V00594,C0275,Maverick,2021,Electric,Delivery,163566,5
+V00595,C0092,Super Duty,2018,Hybrid,Government,80093,8
+V00596,C0058,F-150,2017,Hybrid,Construction,56952,9
+V00597,C0439,Transit,2022,Diesel,Delivery,41719,4
+V00598,C0346,E-Transit,2016,Gasoline,Construction,53737,10
+V00599,C0229,F-150,2018,Diesel,Delivery,112271,8
+V00600,C0474,E-Transit,2019,Diesel,Delivery,175608,7
+V00601,C0117,Super Duty,2016,Electric,Government,150111,10
+V00602,C0318,Maverick,2020,Diesel,Government,72839,6
+V00603,C0279,F-150,2025,Gasoline,Government,52931,1
+V00604,C0127,F-150,2018,Hybrid,Delivery,44925,8
+V00605,C0393,Super Duty,2017,Diesel,Delivery,92745,9
+V00606,C0396,Transit,2018,Hybrid,Construction,131298,8
+V00607,C0129,Maverick,2023,Diesel,Utilities,98709,3
+V00608,C0058,F-150,2021,Hybrid,Government,47287,5
+V00609,C0122,Maverick,2022,Diesel,Construction,169084,4
+V00610,C0001,F-150,2021,Electric,Construction,112252,5
+V00611,C0239,Maverick,2021,Hybrid,Logistics,177855,5
+V00612,C0290,E-Transit,2018,Diesel,Government,114323,8
+V00613,C0096,F-150,2023,Diesel,Construction,17803,3
+V00614,C0126,Maverick,2022,Electric,Logistics,123819,4
+V00615,C0118,Transit,2022,Electric,Government,98361,4
+V00616,C0048,E-Transit,2021,Electric,Delivery,18698,5
+V00617,C0089,E-Transit,2020,Hybrid,Logistics,170632,6
+V00618,C0488,Transit,2025,Hybrid,Delivery,20376,1
+V00619,C0237,Maverick,2023,Electric,Utilities,18117,3
+V00620,C0373,Super Duty,2020,Gasoline,Utilities,174028,6
+V00621,C0385,Transit,2024,Gasoline,Utilities,53786,2
+V00622,C0272,Maverick,2024,Diesel,Utilities,118005,2
+V00623,C0189,Transit,2016,Gasoline,Construction,71480,10
+V00624,C0487,Transit,2021,Diesel,Utilities,167767,5
+V00625,C0192,F-150,2022,Hybrid,Construction,137583,4
+V00626,C0447,Maverick,2018,Hybrid,Construction,58233,8
+V00627,C0069,Super Duty,2022,Gasoline,Government,116022,4
+V00628,C0278,F-150,2022,Hybrid,Construction,158574,4
+V00629,C0349,Transit,2017,Electric,Construction,97529,9
+V00630,C0247,Transit,2022,Electric,Utilities,105919,4
+V00631,C0451,Transit,2016,Gasoline,Construction,88533,10
+V00632,C0076,Maverick,2020,Gasoline,Delivery,168021,6
+V00633,C0154,Maverick,2024,Diesel,Utilities,74407,2
+V00634,C0144,F-150,2022,Hybrid,Logistics,78809,4
+V00635,C0435,Super Duty,2022,Diesel,Utilities,22229,4
+V00636,C0485,F-150,2017,Diesel,Construction,163457,9
+V00637,C0086,E-Transit,2023,Electric,Delivery,47176,3
+V00638,C0185,Transit,2018,Electric,Utilities,99825,8
+V00639,C0285,Transit,2023,Electric,Delivery,139332,3
+V00640,C0462,Transit,2018,Electric,Logistics,102555,8
+V00641,C0220,F-150,2025,Diesel,Logistics,8145,1
+V00642,C0069,F-150,2022,Electric,Government,102289,4
+V00643,C0047,Transit,2017,Hybrid,Government,143874,9
+V00644,C0497,F-150,2019,Electric,Utilities,7263,7
+V00645,C0094,Maverick,2021,Electric,Government,162985,5
+V00646,C0238,Maverick,2024,Electric,Delivery,62788,2
+V00647,C0446,F-150,2020,Gasoline,Government,144227,6
+V00648,C0500,Transit,2024,Hybrid,Delivery,136994,2
+V00649,C0453,F-150,2020,Hybrid,Government,156744,6
+V00650,C0204,F-150,2025,Diesel,Government,174598,1
+V00651,C0400,F-150,2023,Diesel,Government,50344,3
+V00652,C0218,E-Transit,2016,Electric,Construction,127819,10
+V00653,C0474,Maverick,2022,Gasoline,Construction,155086,4
+V00654,C0432,Super Duty,2019,Diesel,Government,78352,7
+V00655,C0341,Super Duty,2020,Diesel,Delivery,45324,6
+V00656,C0039,E-Transit,2021,Electric,Utilities,99075,5
+V00657,C0100,F-150,2020,Electric,Logistics,174770,6
+V00658,C0289,E-Transit,2016,Diesel,Construction,82169,10
+V00659,C0254,E-Transit,2024,Diesel,Government,28384,2
+V00660,C0222,Transit,2017,Hybrid,Logistics,8512,9
+V00661,C0357,Maverick,2024,Gasoline,Construction,142138,2
+V00662,C0023,Super Duty,2025,Hybrid,Utilities,167572,1
+V00663,C0250,F-150,2017,Diesel,Delivery,128775,9
+V00664,C0010,Super Duty,2024,Hybrid,Government,83743,2
+V00665,C0246,Super Duty,2021,Hybrid,Utilities,90642,5
+V00666,C0325,Maverick,2024,Diesel,Construction,134587,2
+V00667,C0100,Super Duty,2021,Electric,Government,84858,5
+V00668,C0290,Super Duty,2021,Diesel,Logistics,59800,5
+V00669,C0180,E-Transit,2017,Electric,Delivery,105364,9
+V00670,C0223,Maverick,2023,Diesel,Construction,7387,3
+V00671,C0394,Transit,2018,Diesel,Delivery,137871,8
+V00672,C0250,F-150,2022,Diesel,Government,124095,4
+V00673,C0147,Super Duty,2020,Gasoline,Utilities,40548,6
+V00674,C0442,F-150,2018,Electric,Delivery,169967,8
+V00675,C0096,Transit,2016,Gasoline,Logistics,95450,10
+V00676,C0257,F-150,2023,Diesel,Construction,110669,3
+V00677,C0325,Transit,2018,Hybrid,Logistics,85171,8
+V00678,C0493,E-Transit,2017,Gasoline,Delivery,176451,9
+V00679,C0004,Super Duty,2016,Electric,Utilities,50414,10
+V00680,C0016,Transit,2019,Diesel,Utilities,78071,7
+V00681,C0280,F-150,2023,Gasoline,Logistics,117808,3
+V00682,C0336,Super Duty,2018,Hybrid,Government,83591,8
+V00683,C0247,E-Transit,2016,Gasoline,Government,9297,10
+V00684,C0258,Super Duty,2019,Electric,Utilities,114513,7
+V00685,C0497,Transit,2024,Gasoline,Logistics,133668,2
+V00686,C0476,E-Transit,2016,Hybrid,Logistics,91479,10
+V00687,C0384,F-150,2017,Hybrid,Logistics,103752,9
+V00688,C0160,E-Transit,2024,Electric,Delivery,141080,2
+V00689,C0475,E-Transit,2017,Hybrid,Government,120481,9
+V00690,C0340,Maverick,2018,Diesel,Government,152892,8
+V00691,C0152,E-Transit,2022,Hybrid,Delivery,158325,4
+V00692,C0396,E-Transit,2018,Diesel,Construction,165274,8
+V00693,C0178,Super Duty,2024,Gasoline,Delivery,165308,2
+V00694,C0163,F-150,2021,Diesel,Logistics,72156,5
+V00695,C0380,Super Duty,2018,Diesel,Delivery,65263,8
+V00696,C0033,Super Duty,2024,Gasoline,Logistics,123996,2
+V00697,C0417,Transit,2016,Hybrid,Utilities,104252,10
+V00698,C0445,Super Duty,2025,Diesel,Logistics,123632,1
+V00699,C0179,Maverick,2018,Hybrid,Government,79855,8
+V00700,C0427,Maverick,2016,Gasoline,Delivery,21575,10
+V00701,C0101,Transit,2017,Electric,Logistics,17204,9
+V00702,C0268,F-150,2023,Hybrid,Construction,16952,3
+V00703,C0323,F-150,2022,Hybrid,Utilities,88323,4
+V00704,C0065,Super Duty,2017,Electric,Construction,169944,9
+V00705,C0417,Super Duty,2017,Electric,Construction,165448,9
+V00706,C0168,Super Duty,2024,Gasoline,Construction,147712,2
+V00707,C0330,F-150,2021,Hybrid,Utilities,31437,5
+V00708,C0043,E-Transit,2020,Hybrid,Utilities,132129,6
+V00709,C0044,Maverick,2025,Gasoline,Utilities,92681,1
+V00710,C0285,E-Transit,2021,Hybrid,Utilities,12903,5
+V00711,C0397,E-Transit,2024,Diesel,Construction,31863,2
+V00712,C0012,F-150,2022,Diesel,Government,48381,4
+V00713,C0095,E-Transit,2025,Diesel,Government,33548,1
+V00714,C0302,Transit,2025,Hybrid,Utilities,16467,1
+V00715,C0386,Super Duty,2024,Diesel,Delivery,62954,2
+V00716,C0253,Transit,2019,Diesel,Logistics,28901,7
+V00717,C0499,Maverick,2017,Gasoline,Delivery,28301,9
+V00718,C0242,Super Duty,2023,Gasoline,Delivery,129686,3
+V00719,C0035,E-Transit,2019,Electric,Delivery,90180,7
+V00720,C0215,Maverick,2024,Electric,Government,74903,2
+V00721,C0337,Super Duty,2019,Electric,Logistics,108955,7
+V00722,C0090,E-Transit,2023,Electric,Delivery,152276,3
+V00723,C0264,Transit,2024,Gasoline,Utilities,24755,2
+V00724,C0093,Super Duty,2024,Gasoline,Government,64817,2
+V00725,C0410,E-Transit,2025,Gasoline,Utilities,7093,1
+V00726,C0458,Transit,2019,Diesel,Utilities,101319,7
+V00727,C0090,Maverick,2016,Diesel,Delivery,27940,10
+V00728,C0418,Maverick,2018,Electric,Utilities,173394,8
+V00729,C0115,Maverick,2024,Diesel,Logistics,133714,2
+V00730,C0105,Maverick,2019,Hybrid,Utilities,96544,7
+V00731,C0391,F-150,2020,Gasoline,Delivery,89437,6
+V00732,C0196,Super Duty,2022,Electric,Utilities,97969,4
+V00733,C0314,Super Duty,2020,Electric,Government,112001,6
+V00734,C0114,F-150,2019,Hybrid,Government,92725,7
+V00735,C0493,E-Transit,2017,Diesel,Government,120784,9
+V00736,C0075,E-Transit,2017,Electric,Construction,115675,9
+V00737,C0413,Maverick,2019,Diesel,Government,99266,7
+V00738,C0376,Transit,2025,Diesel,Government,14236,1
+V00739,C0420,E-Transit,2025,Hybrid,Construction,77597,1
+V00740,C0217,Transit,2024,Electric,Government,139974,2
+V00741,C0277,Super Duty,2023,Diesel,Delivery,104656,3
+V00742,C0249,Transit,2018,Diesel,Government,39364,8
+V00743,C0164,Super Duty,2024,Hybrid,Government,112071,2
+V00744,C0394,F-150,2020,Hybrid,Construction,99410,6
+V00745,C0357,F-150,2018,Diesel,Delivery,156168,8
+V00746,C0457,Maverick,2020,Hybrid,Utilities,148092,6
+V00747,C0408,E-Transit,2025,Diesel,Logistics,63473,1
+V00748,C0192,Maverick,2019,Electric,Delivery,49153,7
+V00749,C0227,Super Duty,2023,Gasoline,Utilities,177349,3
+V00750,C0177,Maverick,2020,Hybrid,Delivery,43502,6
+V00751,C0099,Transit,2025,Gasoline,Utilities,20675,1
+V00752,C0496,Super Duty,2023,Diesel,Utilities,160437,3
+V00753,C0036,F-150,2024,Diesel,Delivery,123384,2
+V00754,C0466,E-Transit,2019,Diesel,Construction,83229,7
+V00755,C0497,Super Duty,2022,Gasoline,Delivery,94049,4
+V00756,C0487,Super Duty,2017,Diesel,Delivery,94157,9
+V00757,C0096,Transit,2021,Hybrid,Utilities,110711,5
+V00758,C0152,E-Transit,2023,Electric,Logistics,115090,3
+V00759,C0151,F-150,2022,Electric,Utilities,98321,4
+V00760,C0190,Super Duty,2022,Hybrid,Government,31465,4
+V00761,C0224,Super Duty,2023,Electric,Delivery,37286,3
+V00762,C0037,Transit,2022,Gasoline,Delivery,59795,4
+V00763,C0268,Maverick,2020,Diesel,Construction,176250,6
+V00764,C0369,F-150,2022,Diesel,Utilities,113139,4
+V00765,C0183,E-Transit,2025,Diesel,Construction,108845,1
+V00766,C0013,Super Duty,2018,Gasoline,Delivery,54986,8
+V00767,C0279,Super Duty,2020,Gasoline,Utilities,179273,6
+V00768,C0217,F-150,2022,Gasoline,Utilities,179387,4
+V00769,C0355,Maverick,2024,Hybrid,Government,80396,2
+V00770,C0361,Super Duty,2017,Gasoline,Government,60178,9
+V00771,C0286,F-150,2019,Electric,Logistics,15745,7
+V00772,C0273,Transit,2022,Hybrid,Government,84637,4
+V00773,C0369,Maverick,2016,Hybrid,Utilities,141100,10
+V00774,C0062,E-Transit,2017,Hybrid,Government,53566,9
+V00775,C0084,Super Duty,2024,Gasoline,Logistics,48722,2
+V00776,C0368,F-150,2025,Hybrid,Delivery,91623,1
+V00777,C0217,Transit,2022,Gasoline,Government,116074,4
+V00778,C0342,E-Transit,2025,Gasoline,Utilities,79974,1
+V00779,C0397,F-150,2022,Hybrid,Delivery,89084,4
+V00780,C0187,F-150,2021,Diesel,Utilities,175951,5
+V00781,C0019,E-Transit,2018,Diesel,Delivery,160839,8
+V00782,C0177,Transit,2025,Hybrid,Utilities,122353,1
+V00783,C0100,Transit,2018,Diesel,Government,109417,8
+V00784,C0396,Maverick,2017,Electric,Government,73099,9
+V00785,C0445,Super Duty,2021,Electric,Logistics,144570,5
+V00786,C0233,E-Transit,2019,Gasoline,Delivery,30107,7
+V00787,C0403,E-Transit,2020,Diesel,Logistics,164865,6
+V00788,C0076,E-Transit,2018,Electric,Construction,138768,8
+V00789,C0265,Transit,2021,Hybrid,Government,58839,5
+V00790,C0455,Super Duty,2018,Diesel,Delivery,94241,8
+V00791,C0284,Maverick,2023,Electric,Logistics,28397,3
+V00792,C0206,F-150,2024,Electric,Logistics,12704,2
+V00793,C0223,F-150,2019,Hybrid,Construction,21442,7
+V00794,C0384,E-Transit,2024,Gasoline,Logistics,134576,2
+V00795,C0052,Super Duty,2022,Hybrid,Utilities,14765,4
+V00796,C0339,Transit,2018,Gasoline,Government,120828,8
+V00797,C0367,Super Duty,2022,Electric,Logistics,15002,4
+V00798,C0144,Super Duty,2016,Gasoline,Logistics,16390,10
+V00799,C0373,Transit,2018,Electric,Construction,11641,8
+V00800,C0069,E-Transit,2021,Electric,Utilities,169781,5
+V00801,C0099,Super Duty,2019,Diesel,Logistics,116119,7
+V00802,C0396,F-150,2022,Gasoline,Government,175381,4
+V00803,C0025,Transit,2018,Gasoline,Government,20624,8
+V00804,C0436,Maverick,2016,Gasoline,Logistics,14966,10
+V00805,C0379,E-Transit,2024,Hybrid,Utilities,170261,2
+V00806,C0469,Transit,2021,Diesel,Government,76301,5
+V00807,C0484,Maverick,2023,Diesel,Government,120123,3
+V00808,C0053,Maverick,2018,Diesel,Utilities,153295,8
+V00809,C0151,Super Duty,2023,Hybrid,Utilities,83183,3
+V00810,C0144,Super Duty,2017,Gasoline,Logistics,9959,9
+V00811,C0057,Super Duty,2019,Gasoline,Delivery,163329,7
+V00812,C0039,Transit,2018,Gasoline,Construction,55802,8
+V00813,C0109,Transit,2025,Diesel,Delivery,129125,1
+V00814,C0181,E-Transit,2016,Diesel,Delivery,128795,10
+V00815,C0042,Super Duty,2022,Electric,Government,32215,4
+V00816,C0186,Maverick,2025,Hybrid,Utilities,60046,1
+V00817,C0423,F-150,2017,Hybrid,Government,99593,9
+V00818,C0398,E-Transit,2019,Diesel,Construction,170166,7
+V00819,C0223,Transit,2024,Electric,Logistics,174741,2
+V00820,C0122,E-Transit,2021,Gasoline,Construction,172198,5
+V00821,C0133,E-Transit,2023,Diesel,Government,84036,3
+V00822,C0163,E-Transit,2017,Hybrid,Government,114864,9
+V00823,C0215,E-Transit,2022,Hybrid,Government,125333,4
+V00824,C0221,F-150,2021,Hybrid,Government,21772,5
+V00825,C0235,Super Duty,2024,Gasoline,Delivery,56943,2
+V00826,C0331,Maverick,2022,Hybrid,Logistics,73868,4
+V00827,C0146,E-Transit,2016,Gasoline,Delivery,54855,10
+V00828,C0239,E-Transit,2023,Gasoline,Government,158290,3
+V00829,C0076,E-Transit,2025,Gasoline,Utilities,106124,1
+V00830,C0009,Super Duty,2018,Diesel,Delivery,62205,8
+V00831,C0074,Transit,2017,Gasoline,Government,141031,9
+V00832,C0442,Transit,2018,Electric,Government,30874,8
+V00833,C0492,F-150,2021,Hybrid,Logistics,136007,5
+V00834,C0401,Transit,2018,Diesel,Construction,6301,8
+V00835,C0253,E-Transit,2025,Hybrid,Delivery,63017,1
+V00836,C0230,E-Transit,2020,Gasoline,Delivery,48319,6
+V00837,C0007,E-Transit,2021,Diesel,Delivery,27455,5
+V00838,C0174,F-150,2023,Electric,Government,140184,3
+V00839,C0141,E-Transit,2022,Gasoline,Logistics,62033,4
+V00840,C0168,Transit,2023,Hybrid,Government,168217,3
+V00841,C0170,Super Duty,2018,Electric,Government,111924,8
+V00842,C0393,Super Duty,2019,Gasoline,Utilities,37735,7
+V00843,C0434,Maverick,2021,Electric,Logistics,77781,5
+V00844,C0283,Transit,2022,Gasoline,Delivery,131031,4
+V00845,C0122,E-Transit,2024,Diesel,Construction,133305,2
+V00846,C0194,Super Duty,2016,Gasoline,Delivery,113049,10
+V00847,C0005,Transit,2023,Diesel,Government,157783,3
+V00848,C0029,Super Duty,2023,Gasoline,Logistics,10630,3
+V00849,C0165,E-Transit,2021,Gasoline,Logistics,70488,5
+V00850,C0422,Super Duty,2019,Hybrid,Logistics,139278,7
+V00851,C0339,Maverick,2018,Electric,Utilities,61289,8
+V00852,C0136,Maverick,2018,Electric,Delivery,23953,8
+V00853,C0496,Super Duty,2021,Electric,Utilities,105932,5
+V00854,C0365,Transit,2023,Gasoline,Construction,146140,3
+V00855,C0321,Transit,2022,Gasoline,Government,83930,4
+V00856,C0342,Transit,2016,Gasoline,Utilities,6067,10
+V00857,C0500,Super Duty,2021,Diesel,Utilities,55658,5
+V00858,C0145,Transit,2022,Diesel,Government,57165,4
+V00859,C0327,E-Transit,2022,Hybrid,Logistics,85781,4
+V00860,C0217,Maverick,2024,Gasoline,Government,145931,2
+V00861,C0301,E-Transit,2025,Electric,Delivery,34164,1
+V00862,C0132,Transit,2020,Electric,Government,109946,6
+V00863,C0292,E-Transit,2016,Hybrid,Logistics,132580,10
+V00864,C0070,Transit,2017,Electric,Government,104251,9
+V00865,C0252,Super Duty,2019,Hybrid,Utilities,25773,7
+V00866,C0415,E-Transit,2020,Gasoline,Construction,38939,6
+V00867,C0275,Super Duty,2024,Electric,Utilities,142186,2
+V00868,C0445,Super Duty,2016,Gasoline,Construction,103475,10
+V00869,C0364,F-150,2018,Diesel,Government,17818,8
+V00870,C0182,Transit,2020,Electric,Delivery,14335,6
+V00871,C0167,Maverick,2018,Diesel,Government,60008,8
+V00872,C0091,Transit,2019,Electric,Logistics,76745,7
+V00873,C0202,Maverick,2018,Gasoline,Government,179220,8
+V00874,C0346,Transit,2019,Hybrid,Construction,8577,7
+V00875,C0019,Super Duty,2016,Gasoline,Utilities,78916,10
+V00876,C0039,E-Transit,2023,Gasoline,Delivery,140148,3
+V00877,C0126,E-Transit,2019,Gasoline,Government,168997,7
+V00878,C0451,F-150,2022,Electric,Government,64314,4
+V00879,C0173,Maverick,2017,Hybrid,Utilities,46205,9
+V00880,C0141,Maverick,2017,Diesel,Delivery,147167,9
+V00881,C0242,Maverick,2021,Gasoline,Government,118583,5
+V00882,C0220,Super Duty,2017,Electric,Government,89715,9
+V00883,C0126,Maverick,2021,Diesel,Construction,61680,5
+V00884,C0058,E-Transit,2017,Gasoline,Construction,33400,9
+V00885,C0148,Super Duty,2019,Diesel,Logistics,112345,7
+V00886,C0476,Transit,2022,Gasoline,Utilities,92110,4
+V00887,C0456,Maverick,2023,Diesel,Delivery,125120,3
+V00888,C0317,Maverick,2018,Diesel,Government,33562,8
+V00889,C0383,Transit,2024,Hybrid,Government,176735,2
+V00890,C0361,Maverick,2017,Hybrid,Logistics,23510,9
+V00891,C0423,Transit,2023,Gasoline,Government,66608,3
+V00892,C0001,Super Duty,2023,Electric,Utilities,57182,3
+V00893,C0387,E-Transit,2019,Hybrid,Logistics,31883,7
+V00894,C0461,Transit,2016,Diesel,Utilities,171916,10
+V00895,C0348,F-150,2016,Hybrid,Logistics,154800,10
+V00896,C0190,Transit,2017,Hybrid,Government,16094,9
+V00897,C0191,Maverick,2024,Gasoline,Logistics,138479,2
+V00898,C0369,Super Duty,2017,Hybrid,Construction,17644,9
+V00899,C0409,Super Duty,2017,Hybrid,Delivery,90834,9
+V00900,C0312,Transit,2021,Diesel,Government,113982,5
+V00901,C0417,E-Transit,2022,Hybrid,Delivery,57748,4
+V00902,C0422,F-150,2022,Diesel,Government,64021,4
+V00903,C0117,Super Duty,2024,Hybrid,Delivery,67651,2
+V00904,C0134,Maverick,2021,Hybrid,Construction,41807,5
+V00905,C0058,Maverick,2023,Electric,Delivery,170144,3
+V00906,C0044,E-Transit,2021,Hybrid,Logistics,174470,5
+V00907,C0173,Super Duty,2017,Diesel,Delivery,33669,9
+V00908,C0160,Transit,2016,Diesel,Government,166233,10
+V00909,C0173,Maverick,2020,Gasoline,Utilities,143354,6
+V00910,C0317,E-Transit,2024,Gasoline,Delivery,31539,2
+V00911,C0303,Super Duty,2023,Electric,Delivery,139379,3
+V00912,C0149,Super Duty,2019,Diesel,Delivery,22745,7
+V00913,C0080,Super Duty,2020,Diesel,Government,175505,6
+V00914,C0374,Super Duty,2020,Diesel,Delivery,39555,6
+V00915,C0213,Super Duty,2021,Electric,Government,137145,5
+V00916,C0203,Maverick,2018,Diesel,Government,37683,8
+V00917,C0252,E-Transit,2020,Gasoline,Utilities,30741,6
+V00918,C0229,Super Duty,2017,Electric,Logistics,158358,9
+V00919,C0164,F-150,2025,Gasoline,Government,8599,1
+V00920,C0227,F-150,2016,Gasoline,Construction,133513,10
+V00921,C0147,E-Transit,2016,Electric,Delivery,32293,10
+V00922,C0020,Transit,2025,Hybrid,Construction,20389,1
+V00923,C0441,Transit,2022,Hybrid,Delivery,17318,4
+V00924,C0402,Transit,2017,Gasoline,Utilities,8055,9
+V00925,C0047,F-150,2019,Hybrid,Government,126164,7
+V00926,C0233,Transit,2020,Diesel,Logistics,87579,6
+V00927,C0305,Maverick,2022,Electric,Government,142392,4
+V00928,C0014,Super Duty,2017,Gasoline,Delivery,109817,9
+V00929,C0143,F-150,2021,Diesel,Logistics,9642,5
+V00930,C0415,E-Transit,2016,Hybrid,Government,14321,10
+V00931,C0001,E-Transit,2022,Diesel,Logistics,84968,4
+V00932,C0373,Super Duty,2024,Hybrid,Delivery,107770,2
+V00933,C0054,F-150,2020,Gasoline,Utilities,162116,6
+V00934,C0374,Transit,2020,Diesel,Utilities,158043,6
+V00935,C0259,Transit,2019,Electric,Government,114762,7
+V00936,C0144,Maverick,2018,Gasoline,Construction,119183,8
+V00937,C0471,Maverick,2024,Diesel,Delivery,122159,2
+V00938,C0441,Transit,2020,Diesel,Government,30727,6
+V00939,C0459,E-Transit,2023,Hybrid,Government,158631,3
+V00940,C0012,E-Transit,2024,Gasoline,Utilities,78820,2
+V00941,C0330,Maverick,2020,Gasoline,Logistics,114062,6
+V00942,C0224,Super Duty,2025,Gasoline,Delivery,32476,1
+V00943,C0272,Transit,2024,Gasoline,Logistics,147063,2
+V00944,C0456,Maverick,2017,Hybrid,Delivery,125355,9
+V00945,C0358,Maverick,2024,Electric,Construction,75047,2
+V00946,C0460,Transit,2019,Gasoline,Utilities,146868,7
+V00947,C0408,Transit,2021,Hybrid,Construction,8881,5
+V00948,C0156,E-Transit,2021,Electric,Government,20668,5
+V00949,C0373,Super Duty,2021,Electric,Utilities,170384,5
+V00950,C0008,Super Duty,2017,Hybrid,Government,33106,9
+V00951,C0122,Transit,2022,Gasoline,Construction,20729,4
+V00952,C0348,F-150,2021,Electric,Delivery,134354,5
+V00953,C0164,Maverick,2016,Gasoline,Government,75320,10
+V00954,C0090,Maverick,2017,Gasoline,Logistics,59913,9
+V00955,C0136,Transit,2022,Diesel,Delivery,64402,4
+V00956,C0186,F-150,2016,Gasoline,Delivery,126649,10
+V00957,C0316,E-Transit,2016,Diesel,Construction,108930,10
+V00958,C0178,Transit,2016,Electric,Construction,173354,10
+V00959,C0028,Transit,2023,Hybrid,Utilities,174290,3
+V00960,C0220,Maverick,2019,Diesel,Utilities,154022,7
+V00961,C0357,Transit,2019,Hybrid,Logistics,64739,7
+V00962,C0041,Transit,2017,Electric,Delivery,9507,9
+V00963,C0228,Transit,2016,Gasoline,Logistics,107552,10
+V00964,C0192,Maverick,2025,Electric,Logistics,84059,1
+V00965,C0411,E-Transit,2024,Hybrid,Construction,160739,2
+V00966,C0447,E-Transit,2022,Electric,Logistics,140064,4
+V00967,C0145,Transit,2019,Gasoline,Logistics,135514,7
+V00968,C0201,Maverick,2021,Electric,Government,92680,5
+V00969,C0417,E-Transit,2017,Gasoline,Utilities,30530,9
+V00970,C0212,E-Transit,2022,Diesel,Utilities,20305,4
+V00971,C0461,E-Transit,2017,Hybrid,Delivery,114097,9
+V00972,C0220,Maverick,2025,Gasoline,Utilities,57044,1
+V00973,C0240,Maverick,2023,Gasoline,Delivery,135436,3
+V00974,C0413,Transit,2023,Electric,Government,94363,3
+V00975,C0397,Super Duty,2016,Diesel,Utilities,63817,10
+V00976,C0046,E-Transit,2023,Gasoline,Government,108038,3
+V00977,C0035,Super Duty,2017,Diesel,Utilities,51666,9
+V00978,C0253,Maverick,2021,Diesel,Utilities,162245,5
+V00979,C0390,Maverick,2016,Electric,Government,23909,10
+V00980,C0082,Maverick,2020,Gasoline,Logistics,167079,6
+V00981,C0371,Super Duty,2022,Electric,Logistics,149057,4
+V00982,C0256,Maverick,2025,Hybrid,Logistics,27525,1
+V00983,C0197,Transit,2016,Hybrid,Logistics,117293,10
+V00984,C0303,Maverick,2017,Gasoline,Utilities,106046,9
+V00985,C0409,F-150,2022,Diesel,Construction,42403,4
+V00986,C0450,Super Duty,2021,Gasoline,Government,173265,5
+V00987,C0010,F-150,2018,Gasoline,Construction,139902,8
+V00988,C0312,Maverick,2025,Hybrid,Construction,136605,1
+V00989,C0286,Transit,2017,Hybrid,Delivery,157018,9
+V00990,C0242,E-Transit,2025,Diesel,Logistics,28504,1
+V00991,C0251,Maverick,2019,Diesel,Utilities,115551,7
+V00992,C0365,Transit,2018,Gasoline,Logistics,60715,8
+V00993,C0005,Super Duty,2022,Electric,Logistics,164327,4
+V00994,C0119,F-150,2023,Gasoline,Construction,41855,3
+V00995,C0289,F-150,2017,Diesel,Delivery,46721,9
+V00996,C0374,F-150,2025,Electric,Logistics,116597,1
+V00997,C0065,Super Duty,2022,Hybrid,Government,177922,4
+V00998,C0146,Transit,2023,Diesel,Government,105659,3
+V00999,C0224,Super Duty,2021,Diesel,Logistics,39723,5
+V01000,C0239,F-150,2021,Electric,Construction,171811,5
+V01001,C0177,Maverick,2025,Diesel,Construction,10539,1
+V01002,C0267,E-Transit,2016,Diesel,Utilities,121360,10
+V01003,C0341,Super Duty,2019,Diesel,Delivery,106140,7
+V01004,C0282,Super Duty,2016,Diesel,Construction,157383,10
+V01005,C0063,Transit,2019,Diesel,Utilities,74180,7
+V01006,C0217,Transit,2017,Diesel,Government,121985,9
+V01007,C0342,Super Duty,2020,Diesel,Government,90981,6
+V01008,C0315,F-150,2025,Diesel,Government,40934,1
+V01009,C0283,E-Transit,2024,Hybrid,Logistics,145583,2
+V01010,C0177,Transit,2025,Diesel,Delivery,136255,1
+V01011,C0461,F-150,2018,Hybrid,Utilities,14475,8
+V01012,C0417,Maverick,2023,Hybrid,Delivery,64577,3
+V01013,C0098,Transit,2018,Gasoline,Logistics,31008,8
+V01014,C0105,F-150,2021,Gasoline,Utilities,47756,5
+V01015,C0099,F-150,2019,Hybrid,Utilities,85730,7
+V01016,C0385,E-Transit,2023,Hybrid,Construction,163984,3
+V01017,C0405,E-Transit,2021,Diesel,Delivery,87702,5
+V01018,C0496,Maverick,2023,Gasoline,Delivery,51840,3
+V01019,C0311,F-150,2016,Electric,Construction,43623,10
+V01020,C0006,F-150,2021,Gasoline,Government,68303,5
+V01021,C0476,E-Transit,2016,Hybrid,Logistics,51062,10
+V01022,C0465,Transit,2016,Hybrid,Delivery,61690,10
+V01023,C0197,Transit,2023,Diesel,Construction,103980,3
+V01024,C0351,Super Duty,2022,Diesel,Utilities,159706,4
+V01025,C0133,E-Transit,2018,Gasoline,Construction,140162,8
+V01026,C0358,Super Duty,2021,Diesel,Government,50266,5
+V01027,C0259,E-Transit,2024,Electric,Logistics,166080,2
+V01028,C0437,Maverick,2022,Electric,Government,92643,4
+V01029,C0023,F-150,2018,Diesel,Utilities,63704,8
+V01030,C0485,Maverick,2021,Electric,Utilities,122374,5
+V01031,C0053,E-Transit,2019,Electric,Utilities,13382,7
+V01032,C0165,F-150,2018,Gasoline,Utilities,94609,8
+V01033,C0202,Transit,2024,Electric,Construction,51698,2
+V01034,C0458,Transit,2025,Hybrid,Utilities,6110,1
+V01035,C0083,Super Duty,2017,Hybrid,Utilities,120266,9
+V01036,C0145,E-Transit,2016,Gasoline,Construction,136458,10
+V01037,C0085,E-Transit,2017,Diesel,Utilities,52801,9
+V01038,C0078,Transit,2022,Gasoline,Government,119012,4
+V01039,C0457,Maverick,2025,Diesel,Government,101085,1
+V01040,C0366,F-150,2016,Diesel,Delivery,36566,10
+V01041,C0001,Maverick,2021,Diesel,Government,168593,5
+V01042,C0051,Maverick,2022,Diesel,Logistics,28798,4
+V01043,C0173,Transit,2024,Diesel,Logistics,149637,2
+V01044,C0205,Transit,2023,Gasoline,Logistics,28027,3
+V01045,C0260,Transit,2021,Diesel,Construction,10631,5
+V01046,C0446,Super Duty,2018,Electric,Government,61878,8
+V01047,C0449,Maverick,2023,Electric,Logistics,50206,3
+V01048,C0369,E-Transit,2022,Diesel,Delivery,108473,4
+V01049,C0488,F-150,2018,Electric,Construction,63334,8
+V01050,C0288,Super Duty,2024,Hybrid,Delivery,77323,2
+V01051,C0034,E-Transit,2017,Gasoline,Government,58619,9
+V01052,C0348,Maverick,2018,Gasoline,Utilities,108536,8
+V01053,C0095,Transit,2017,Diesel,Delivery,162947,9
+V01054,C0072,Maverick,2016,Diesel,Utilities,160586,10
+V01055,C0039,F-150,2019,Hybrid,Construction,158652,7
+V01056,C0154,Super Duty,2020,Diesel,Delivery,140360,6
+V01057,C0250,Super Duty,2021,Electric,Delivery,11734,5
+V01058,C0162,F-150,2020,Hybrid,Construction,44008,6
+V01059,C0438,E-Transit,2016,Electric,Construction,54349,10
+V01060,C0118,E-Transit,2018,Gasoline,Logistics,143886,8
+V01061,C0259,Super Duty,2016,Electric,Government,179226,10
+V01062,C0379,Super Duty,2020,Gasoline,Delivery,143923,6
+V01063,C0306,Transit,2020,Electric,Delivery,129478,6
+V01064,C0268,E-Transit,2021,Gasoline,Construction,137672,5
+V01065,C0449,F-150,2023,Diesel,Construction,61614,3
+V01066,C0054,E-Transit,2025,Electric,Government,8692,1
+V01067,C0236,Transit,2016,Gasoline,Construction,131745,10
+V01068,C0389,Super Duty,2019,Electric,Utilities,25373,7
+V01069,C0478,Super Duty,2025,Hybrid,Utilities,117413,1
+V01070,C0222,Transit,2016,Diesel,Utilities,19507,10
+V01071,C0251,F-150,2024,Gasoline,Utilities,67931,2
+V01072,C0313,Super Duty,2022,Hybrid,Government,80499,4
+V01073,C0401,Maverick,2022,Electric,Delivery,119362,4
+V01074,C0112,Super Duty,2020,Hybrid,Utilities,102449,6
+V01075,C0255,Maverick,2022,Electric,Construction,101819,4
+V01076,C0303,Transit,2017,Diesel,Utilities,44423,9
+V01077,C0407,Transit,2019,Hybrid,Government,108612,7
+V01078,C0207,Super Duty,2022,Diesel,Construction,91120,4
+V01079,C0229,E-Transit,2018,Gasoline,Utilities,122409,8
+V01080,C0341,Maverick,2017,Electric,Delivery,95918,9
+V01081,C0398,F-150,2025,Electric,Construction,71600,1
+V01082,C0066,Super Duty,2017,Diesel,Construction,46848,9
+V01083,C0075,F-150,2016,Diesel,Delivery,11820,10
+V01084,C0435,Super Duty,2020,Gasoline,Construction,13512,6
+V01085,C0103,E-Transit,2021,Hybrid,Utilities,172797,5
+V01086,C0422,E-Transit,2021,Electric,Construction,56534,5
+V01087,C0192,E-Transit,2024,Electric,Utilities,130191,2
+V01088,C0252,E-Transit,2019,Gasoline,Delivery,175848,7
+V01089,C0226,Transit,2016,Gasoline,Logistics,65945,10
+V01090,C0294,Transit,2021,Diesel,Delivery,88420,5
+V01091,C0306,Maverick,2020,Diesel,Utilities,88488,6
+V01092,C0098,F-150,2025,Hybrid,Government,14711,1
+V01093,C0338,Super Duty,2021,Gasoline,Delivery,91009,5
+V01094,C0286,Super Duty,2018,Hybrid,Government,14597,8
+V01095,C0335,Transit,2017,Gasoline,Government,65067,9
+V01096,C0347,Super Duty,2021,Electric,Utilities,53022,5
+V01097,C0435,Transit,2016,Gasoline,Utilities,117673,10
+V01098,C0447,Maverick,2022,Gasoline,Logistics,154854,4
+V01099,C0482,F-150,2022,Electric,Construction,56782,4
+V01100,C0308,Maverick,2025,Gasoline,Delivery,115716,1
+V01101,C0249,E-Transit,2022,Hybrid,Utilities,123030,4
+V01102,C0166,E-Transit,2025,Diesel,Delivery,77036,1
+V01103,C0481,E-Transit,2016,Diesel,Government,40342,10
+V01104,C0472,Maverick,2019,Hybrid,Construction,90745,7
+V01105,C0335,Super Duty,2022,Electric,Logistics,157049,4
+V01106,C0030,F-150,2024,Gasoline,Delivery,62396,2
+V01107,C0247,E-Transit,2020,Hybrid,Construction,119836,6
+V01108,C0106,E-Transit,2017,Diesel,Logistics,111998,9
+V01109,C0051,E-Transit,2022,Diesel,Delivery,55021,4
+V01110,C0081,F-150,2025,Hybrid,Construction,135672,1
+V01111,C0133,E-Transit,2016,Diesel,Utilities,123559,10
+V01112,C0285,F-150,2022,Hybrid,Delivery,71836,4
+V01113,C0388,E-Transit,2021,Diesel,Construction,163147,5
+V01114,C0138,Maverick,2022,Hybrid,Logistics,166874,4
+V01115,C0184,Maverick,2025,Gasoline,Construction,82017,1
+V01116,C0401,F-150,2018,Gasoline,Utilities,107689,8
+V01117,C0330,Maverick,2018,Gasoline,Delivery,85291,8
+V01118,C0273,F-150,2022,Gasoline,Delivery,95450,4
+V01119,C0340,Maverick,2017,Diesel,Delivery,171664,9
+V01120,C0472,Maverick,2016,Electric,Utilities,61006,10
+V01121,C0069,F-150,2024,Hybrid,Logistics,162341,2
+V01122,C0034,Super Duty,2024,Electric,Delivery,109268,2
+V01123,C0262,Maverick,2022,Diesel,Logistics,55138,4
+V01124,C0053,E-Transit,2022,Diesel,Construction,67398,4
+V01125,C0450,Super Duty,2018,Electric,Logistics,155946,8
+V01126,C0205,F-150,2025,Electric,Logistics,62228,1
+V01127,C0126,Super Duty,2017,Diesel,Delivery,67670,9
+V01128,C0235,Transit,2022,Diesel,Government,130613,4
+V01129,C0043,Transit,2024,Hybrid,Government,107071,2
+V01130,C0240,Maverick,2016,Gasoline,Utilities,115572,10
+V01131,C0459,Maverick,2019,Gasoline,Utilities,143997,7
+V01132,C0371,E-Transit,2021,Hybrid,Government,8107,5
+V01133,C0111,Super Duty,2022,Electric,Construction,91388,4
+V01134,C0249,Transit,2025,Diesel,Delivery,100719,1
+V01135,C0151,Maverick,2022,Electric,Delivery,123018,4
+V01136,C0183,Super Duty,2025,Gasoline,Construction,32617,1
+V01137,C0336,Maverick,2017,Gasoline,Construction,79258,9
+V01138,C0095,Maverick,2019,Electric,Government,55075,7
+V01139,C0459,Transit,2020,Gasoline,Utilities,131998,6
+V01140,C0374,Transit,2016,Diesel,Construction,27631,10
+V01141,C0400,Maverick,2016,Hybrid,Utilities,128120,10
+V01142,C0008,F-150,2025,Electric,Logistics,102158,1
+V01143,C0388,Maverick,2018,Diesel,Delivery,143955,8
+V01144,C0360,Maverick,2025,Diesel,Government,155780,1
+V01145,C0388,E-Transit,2018,Gasoline,Delivery,51221,8
+V01146,C0184,E-Transit,2023,Diesel,Government,153269,3
+V01147,C0281,E-Transit,2024,Electric,Logistics,157206,2
+V01148,C0195,F-150,2016,Diesel,Delivery,110922,10
+V01149,C0352,F-150,2017,Hybrid,Logistics,38550,9
+V01150,C0195,Maverick,2025,Diesel,Government,19642,1
+V01151,C0155,E-Transit,2017,Diesel,Construction,156511,9
+V01152,C0093,F-150,2019,Hybrid,Delivery,111093,7
+V01153,C0160,Transit,2017,Diesel,Logistics,160655,9
+V01154,C0434,Maverick,2022,Diesel,Delivery,98885,4
+V01155,C0061,Super Duty,2024,Gasoline,Delivery,84538,2
+V01156,C0122,Maverick,2022,Electric,Delivery,67014,4
+V01157,C0051,Super Duty,2021,Gasoline,Utilities,24523,5
+V01158,C0403,E-Transit,2025,Electric,Logistics,115285,1
+V01159,C0277,Super Duty,2016,Hybrid,Logistics,110879,10
+V01160,C0005,E-Transit,2025,Hybrid,Delivery,95629,1
+V01161,C0466,Transit,2024,Hybrid,Construction,81830,2
+V01162,C0092,Super Duty,2020,Electric,Delivery,50538,6
+V01163,C0170,Maverick,2020,Electric,Utilities,52310,6
+V01164,C0317,E-Transit,2021,Electric,Government,146980,5
+V01165,C0022,Maverick,2024,Hybrid,Utilities,120266,2
+V01166,C0405,F-150,2023,Electric,Construction,17699,3
+V01167,C0326,E-Transit,2023,Diesel,Delivery,71912,3
+V01168,C0001,Super Duty,2023,Gasoline,Logistics,150327,3
+V01169,C0133,E-Transit,2016,Hybrid,Delivery,84183,10
+V01170,C0233,Maverick,2016,Gasoline,Construction,65282,10
+V01171,C0012,Transit,2023,Diesel,Logistics,63249,3
+V01172,C0346,E-Transit,2020,Electric,Utilities,43176,6
+V01173,C0046,Super Duty,2024,Gasoline,Government,13163,2
+V01174,C0034,F-150,2017,Diesel,Government,59210,9
+V01175,C0433,Transit,2024,Diesel,Delivery,128844,2
+V01176,C0078,F-150,2023,Gasoline,Utilities,109587,3
+V01177,C0218,E-Transit,2024,Hybrid,Construction,76979,2
+V01178,C0301,Maverick,2019,Gasoline,Government,83860,7
+V01179,C0411,Maverick,2016,Hybrid,Utilities,157215,10
+V01180,C0073,Super Duty,2016,Electric,Delivery,9920,10
+V01181,C0282,Maverick,2020,Hybrid,Logistics,87911,6
+V01182,C0249,Transit,2017,Electric,Delivery,42996,9
+V01183,C0047,Maverick,2023,Gasoline,Delivery,147820,3
+V01184,C0121,Super Duty,2025,Electric,Utilities,99071,1
+V01185,C0214,E-Transit,2020,Diesel,Government,52252,6
+V01186,C0239,E-Transit,2020,Electric,Utilities,127734,6
+V01187,C0056,Maverick,2017,Hybrid,Logistics,142522,9
+V01188,C0350,F-150,2022,Hybrid,Utilities,57756,4
+V01189,C0107,E-Transit,2023,Hybrid,Construction,55235,3
+V01190,C0319,Maverick,2025,Electric,Delivery,95546,1
+V01191,C0048,Super Duty,2016,Hybrid,Government,136092,10
+V01192,C0061,Maverick,2017,Hybrid,Logistics,130802,9
+V01193,C0337,E-Transit,2025,Diesel,Delivery,113421,1
+V01194,C0026,Super Duty,2019,Electric,Utilities,145736,7
+V01195,C0292,Maverick,2020,Diesel,Construction,71635,6
+V01196,C0257,Transit,2017,Hybrid,Utilities,28225,9
+V01197,C0008,Super Duty,2016,Hybrid,Delivery,111885,10
+V01198,C0113,Transit,2024,Hybrid,Logistics,90333,2
+V01199,C0355,F-150,2016,Electric,Government,176297,10
+V01200,C0253,Super Duty,2019,Gasoline,Delivery,15807,7
+V01201,C0180,Transit,2017,Hybrid,Logistics,11402,9
+V01202,C0207,E-Transit,2019,Hybrid,Delivery,9521,7
+V01203,C0303,E-Transit,2023,Hybrid,Construction,119693,3
+V01204,C0127,F-150,2023,Hybrid,Utilities,13382,3
+V01205,C0056,Super Duty,2024,Electric,Government,115996,2
+V01206,C0214,Super Duty,2020,Gasoline,Logistics,20065,6
+V01207,C0014,Super Duty,2022,Gasoline,Government,90470,4
+V01208,C0474,F-150,2018,Gasoline,Government,19425,8
+V01209,C0028,Super Duty,2025,Hybrid,Government,18111,1
+V01210,C0471,E-Transit,2019,Hybrid,Logistics,176871,7
+V01211,C0078,Transit,2025,Gasoline,Logistics,58257,1
+V01212,C0216,E-Transit,2024,Gasoline,Government,128990,2
+V01213,C0386,E-Transit,2025,Hybrid,Utilities,132813,1
+V01214,C0365,Transit,2025,Hybrid,Delivery,86046,1
+V01215,C0154,E-Transit,2016,Diesel,Government,42851,10
+V01216,C0014,F-150,2017,Diesel,Construction,13816,9
+V01217,C0187,Transit,2020,Diesel,Government,7175,6
+V01218,C0312,E-Transit,2018,Gasoline,Logistics,16341,8
+V01219,C0371,Maverick,2017,Electric,Delivery,68908,9
+V01220,C0007,E-Transit,2016,Hybrid,Construction,161726,10
+V01221,C0003,F-150,2025,Diesel,Delivery,64696,1
+V01222,C0111,Super Duty,2018,Electric,Delivery,88115,8
+V01223,C0407,E-Transit,2016,Hybrid,Construction,35194,10
+V01224,C0238,Super Duty,2016,Electric,Government,170909,10
+V01225,C0363,Maverick,2016,Gasoline,Government,89358,10
+V01226,C0239,E-Transit,2023,Gasoline,Government,177648,3
+V01227,C0493,Transit,2018,Gasoline,Utilities,107548,8
+V01228,C0274,Super Duty,2016,Diesel,Government,155799,10
+V01229,C0294,Maverick,2022,Hybrid,Construction,39579,4
+V01230,C0227,Transit,2025,Gasoline,Utilities,101554,1
+V01231,C0371,Transit,2018,Diesel,Government,152627,8
+V01232,C0015,Transit,2023,Diesel,Utilities,58294,3
+V01233,C0192,Transit,2019,Diesel,Construction,54777,7
+V01234,C0473,E-Transit,2019,Diesel,Government,141978,7
+V01235,C0119,E-Transit,2020,Gasoline,Logistics,45751,6
+V01236,C0485,E-Transit,2021,Diesel,Construction,113750,5
+V01237,C0028,Maverick,2022,Gasoline,Delivery,79180,4
+V01238,C0202,Maverick,2019,Gasoline,Delivery,36644,7
+V01239,C0039,Maverick,2023,Diesel,Construction,38521,3
+V01240,C0441,F-150,2021,Gasoline,Delivery,16564,5
+V01241,C0273,Maverick,2016,Hybrid,Construction,110155,10
+V01242,C0231,E-Transit,2016,Hybrid,Logistics,163371,10
+V01243,C0086,E-Transit,2024,Electric,Construction,149493,2
+V01244,C0474,F-150,2025,Hybrid,Government,93747,1
+V01245,C0126,F-150,2021,Gasoline,Government,16202,5
+V01246,C0300,Maverick,2025,Gasoline,Utilities,114407,1
+V01247,C0025,Super Duty,2023,Hybrid,Delivery,178257,3
+V01248,C0145,F-150,2022,Diesel,Delivery,139757,4
+V01249,C0013,Transit,2021,Diesel,Construction,95197,5
+V01250,C0212,E-Transit,2019,Gasoline,Delivery,47637,7
+V01251,C0025,Transit,2022,Diesel,Government,154438,4
+V01252,C0068,E-Transit,2024,Electric,Logistics,29276,2
+V01253,C0394,E-Transit,2025,Electric,Construction,85946,1
+V01254,C0067,F-150,2025,Hybrid,Delivery,80214,1
+V01255,C0233,F-150,2022,Hybrid,Government,160647,4
+V01256,C0109,Transit,2016,Diesel,Utilities,177473,10
+V01257,C0146,E-Transit,2025,Gasoline,Delivery,46230,1
+V01258,C0111,Transit,2024,Hybrid,Logistics,129086,2
+V01259,C0228,Super Duty,2019,Electric,Logistics,134526,7
+V01260,C0111,Transit,2018,Hybrid,Delivery,159093,8
+V01261,C0470,Maverick,2019,Hybrid,Delivery,145521,7
+V01262,C0034,Transit,2019,Electric,Government,151729,7
+V01263,C0111,Maverick,2025,Gasoline,Delivery,40059,1
+V01264,C0264,Maverick,2017,Hybrid,Utilities,6532,9
+V01265,C0424,Maverick,2016,Hybrid,Government,107666,10
+V01266,C0369,Super Duty,2025,Hybrid,Construction,86551,1
+V01267,C0236,Transit,2016,Diesel,Utilities,173828,10
+V01268,C0083,Transit,2023,Hybrid,Government,76880,3
+V01269,C0042,Super Duty,2017,Electric,Government,111734,9
+V01270,C0425,E-Transit,2025,Gasoline,Logistics,118997,1
+V01271,C0101,F-150,2020,Gasoline,Government,170278,6
+V01272,C0006,Transit,2019,Electric,Utilities,57168,7
+V01273,C0180,F-150,2023,Diesel,Delivery,118123,3
+V01274,C0282,Super Duty,2017,Electric,Utilities,160622,9
+V01275,C0320,E-Transit,2025,Gasoline,Construction,142461,1
+V01276,C0226,E-Transit,2024,Electric,Government,92897,2
+V01277,C0443,E-Transit,2022,Diesel,Government,171919,4
+V01278,C0440,Super Duty,2022,Gasoline,Government,109599,4
+V01279,C0315,Maverick,2016,Diesel,Government,84239,10
+V01280,C0365,Maverick,2017,Electric,Logistics,23642,9
+V01281,C0454,F-150,2019,Hybrid,Logistics,111862,7
+V01282,C0229,Maverick,2019,Electric,Delivery,41509,7
+V01283,C0377,Maverick,2018,Diesel,Government,84417,8
+V01284,C0289,E-Transit,2022,Electric,Construction,54237,4
+V01285,C0437,E-Transit,2023,Hybrid,Delivery,151486,3
+V01286,C0150,F-150,2017,Diesel,Government,68176,9
+V01287,C0277,Transit,2019,Electric,Logistics,133633,7
+V01288,C0198,F-150,2018,Diesel,Construction,84865,8
+V01289,C0070,F-150,2017,Diesel,Delivery,122181,9
+V01290,C0112,Super Duty,2021,Gasoline,Construction,67059,5
+V01291,C0004,Super Duty,2019,Gasoline,Government,54150,7
+V01292,C0350,F-150,2021,Diesel,Utilities,93367,5
+V01293,C0331,F-150,2017,Electric,Construction,46091,9
+V01294,C0446,F-150,2019,Electric,Construction,5903,7
+V01295,C0318,Maverick,2021,Electric,Logistics,59235,5
+V01296,C0350,Super Duty,2020,Hybrid,Government,60342,6
+V01297,C0095,F-150,2018,Diesel,Construction,178795,8
+V01298,C0152,E-Transit,2023,Diesel,Government,40572,3
+V01299,C0311,E-Transit,2022,Hybrid,Logistics,22610,4
+V01300,C0137,Maverick,2018,Diesel,Government,39052,8
+V01301,C0247,Maverick,2021,Diesel,Logistics,103993,5
+V01302,C0387,Transit,2019,Hybrid,Logistics,92063,7
+V01303,C0243,Transit,2020,Gasoline,Delivery,173622,6
+V01304,C0031,Transit,2020,Diesel,Government,165083,6
+V01305,C0040,Maverick,2022,Hybrid,Utilities,170836,4
+V01306,C0229,Maverick,2020,Electric,Delivery,102540,6
+V01307,C0036,Maverick,2018,Gasoline,Logistics,58533,8
+V01308,C0408,E-Transit,2025,Electric,Utilities,160136,1
+V01309,C0223,Maverick,2020,Diesel,Construction,128989,6
+V01310,C0006,E-Transit,2022,Gasoline,Construction,125388,4
+V01311,C0322,Transit,2020,Hybrid,Delivery,33702,6
+V01312,C0468,Transit,2020,Diesel,Utilities,128482,6
+V01313,C0220,Transit,2024,Hybrid,Government,13631,2
+V01314,C0075,F-150,2018,Gasoline,Utilities,92388,8
+V01315,C0004,F-150,2021,Electric,Delivery,129798,5
+V01316,C0335,Super Duty,2016,Diesel,Government,75043,10
+V01317,C0134,Super Duty,2025,Diesel,Government,165053,1
+V01318,C0118,Super Duty,2020,Hybrid,Construction,40764,6
+V01319,C0369,F-150,2023,Gasoline,Utilities,134014,3
+V01320,C0094,F-150,2020,Hybrid,Government,118076,6
+V01321,C0486,Super Duty,2024,Gasoline,Delivery,104007,2
+V01322,C0435,Super Duty,2021,Diesel,Construction,29940,5
+V01323,C0062,Maverick,2023,Gasoline,Government,112418,3
+V01324,C0441,Super Duty,2025,Diesel,Utilities,76792,1
+V01325,C0194,Maverick,2023,Gasoline,Construction,164504,3
+V01326,C0335,E-Transit,2018,Electric,Utilities,13367,8
+V01327,C0203,F-150,2022,Gasoline,Utilities,116764,4
+V01328,C0392,Super Duty,2022,Electric,Utilities,161583,4
+V01329,C0026,F-150,2025,Gasoline,Construction,13573,1
+V01330,C0435,F-150,2021,Gasoline,Government,20582,5
+V01331,C0173,F-150,2022,Hybrid,Logistics,141450,4
+V01332,C0300,E-Transit,2017,Hybrid,Government,70296,9
+V01333,C0133,Transit,2024,Diesel,Construction,149572,2
+V01334,C0326,Super Duty,2025,Hybrid,Logistics,70841,1
+V01335,C0410,Transit,2025,Gasoline,Logistics,26881,1
+V01336,C0118,Transit,2016,Hybrid,Logistics,75233,10
+V01337,C0324,Transit,2016,Gasoline,Delivery,70285,10
+V01338,C0275,F-150,2018,Electric,Construction,64547,8
+V01339,C0212,Maverick,2018,Gasoline,Delivery,143294,8
+V01340,C0225,F-150,2016,Diesel,Logistics,12933,10
+V01341,C0020,F-150,2022,Electric,Delivery,88385,4
+V01342,C0113,Transit,2019,Diesel,Delivery,103706,7
+V01343,C0140,F-150,2025,Diesel,Construction,143012,1
+V01344,C0047,Transit,2017,Diesel,Utilities,89590,9
+V01345,C0001,Maverick,2025,Hybrid,Delivery,111399,1
+V01346,C0090,Super Duty,2020,Diesel,Delivery,64145,6
+V01347,C0142,Transit,2021,Electric,Logistics,179682,5
+V01348,C0320,Maverick,2024,Gasoline,Logistics,62520,2
+V01349,C0038,Super Duty,2019,Diesel,Logistics,9544,7
+V01350,C0293,E-Transit,2017,Electric,Government,59812,9
+V01351,C0382,Transit,2020,Diesel,Delivery,175690,6
+V01352,C0139,Transit,2018,Gasoline,Logistics,124090,8
+V01353,C0356,E-Transit,2017,Electric,Construction,104054,9
+V01354,C0333,E-Transit,2016,Electric,Government,161516,10
+V01355,C0491,Transit,2025,Gasoline,Utilities,160861,1
+V01356,C0259,E-Transit,2017,Electric,Delivery,137689,9
+V01357,C0161,F-150,2021,Gasoline,Delivery,105834,5
+V01358,C0390,Super Duty,2023,Electric,Construction,139405,3
+V01359,C0178,Super Duty,2018,Electric,Utilities,45002,8
+V01360,C0010,Super Duty,2024,Gasoline,Utilities,136583,2
+V01361,C0261,F-150,2024,Gasoline,Government,117850,2
+V01362,C0407,E-Transit,2017,Electric,Delivery,135011,9
+V01363,C0138,Maverick,2023,Electric,Logistics,173922,3
+V01364,C0172,E-Transit,2025,Gasoline,Construction,126548,1
+V01365,C0386,Transit,2020,Hybrid,Construction,36786,6
+V01366,C0013,Super Duty,2019,Gasoline,Construction,41244,7
+V01367,C0168,E-Transit,2025,Electric,Construction,72261,1
+V01368,C0130,Maverick,2020,Electric,Logistics,23477,6
+V01369,C0084,Transit,2019,Electric,Logistics,170541,7
+V01370,C0321,F-150,2023,Gasoline,Government,13496,3
+V01371,C0319,F-150,2019,Electric,Delivery,125522,7
+V01372,C0101,Maverick,2025,Hybrid,Logistics,148342,1
+V01373,C0329,Transit,2021,Diesel,Government,25724,5
+V01374,C0273,Super Duty,2017,Hybrid,Utilities,35416,9
+V01375,C0265,E-Transit,2020,Gasoline,Delivery,40575,6
+V01376,C0459,Transit,2021,Electric,Logistics,81614,5
+V01377,C0399,F-150,2020,Gasoline,Utilities,98566,6
+V01378,C0408,Maverick,2017,Diesel,Government,153480,9
+V01379,C0038,Maverick,2022,Gasoline,Logistics,132192,4
+V01380,C0419,E-Transit,2019,Electric,Logistics,24359,7
+V01381,C0094,Maverick,2023,Diesel,Utilities,144770,3
+V01382,C0095,Maverick,2022,Diesel,Logistics,175564,4
+V01383,C0305,Transit,2022,Electric,Construction,48634,4
+V01384,C0069,Super Duty,2024,Electric,Logistics,122255,2
+V01385,C0318,E-Transit,2016,Electric,Delivery,47864,10
+V01386,C0444,Transit,2025,Gasoline,Utilities,99482,1
+V01387,C0236,Super Duty,2021,Hybrid,Delivery,42355,5
+V01388,C0434,Transit,2021,Gasoline,Government,42690,5
+V01389,C0334,Transit,2021,Gasoline,Delivery,173886,5
+V01390,C0373,Maverick,2021,Hybrid,Construction,167717,5
+V01391,C0376,Super Duty,2025,Electric,Construction,61630,1
+V01392,C0459,E-Transit,2022,Electric,Delivery,26658,4
+V01393,C0137,E-Transit,2025,Hybrid,Government,20797,1
+V01394,C0418,Super Duty,2021,Hybrid,Logistics,63799,5
+V01395,C0076,Maverick,2016,Gasoline,Construction,123301,10
+V01396,C0483,F-150,2018,Diesel,Delivery,57236,8
+V01397,C0035,Transit,2017,Hybrid,Delivery,11265,9
+V01398,C0001,Maverick,2021,Gasoline,Delivery,130611,5
+V01399,C0296,Super Duty,2023,Diesel,Logistics,126754,3
+V01400,C0320,Transit,2018,Electric,Utilities,163070,8
+V01401,C0406,E-Transit,2025,Electric,Government,96426,1
+V01402,C0060,F-150,2023,Gasoline,Utilities,150378,3
+V01403,C0320,E-Transit,2023,Gasoline,Government,147957,3
+V01404,C0349,Super Duty,2020,Hybrid,Government,114681,6
+V01405,C0328,Transit,2023,Electric,Delivery,48826,3
+V01406,C0267,Super Duty,2021,Gasoline,Construction,60597,5
+V01407,C0361,Transit,2020,Electric,Delivery,143515,6
+V01408,C0229,Maverick,2024,Electric,Logistics,102375,2
+V01409,C0270,F-150,2022,Hybrid,Government,22084,4
+V01410,C0316,Maverick,2023,Diesel,Construction,94447,3
+V01411,C0286,Maverick,2016,Hybrid,Government,9383,10
+V01412,C0291,Super Duty,2017,Gasoline,Government,97313,9
+V01413,C0213,F-150,2023,Hybrid,Delivery,39361,3
+V01414,C0165,Transit,2024,Hybrid,Construction,85294,2
+V01415,C0005,Transit,2019,Electric,Construction,66331,7
+V01416,C0339,E-Transit,2025,Hybrid,Government,100057,1
+V01417,C0379,Transit,2025,Gasoline,Construction,156601,1
+V01418,C0078,Super Duty,2024,Diesel,Construction,126685,2
+V01419,C0410,Maverick,2019,Hybrid,Delivery,101917,7
+V01420,C0062,Maverick,2025,Hybrid,Utilities,35932,1
+V01421,C0132,Maverick,2025,Diesel,Logistics,6908,1
+V01422,C0089,F-150,2025,Gasoline,Utilities,166430,1
+V01423,C0237,Transit,2024,Gasoline,Construction,35412,2
+V01424,C0042,Super Duty,2022,Hybrid,Government,133319,4
+V01425,C0089,F-150,2017,Electric,Logistics,88710,9
+V01426,C0402,E-Transit,2024,Hybrid,Logistics,7928,2
+V01427,C0296,Super Duty,2019,Diesel,Government,70158,7
+V01428,C0328,Super Duty,2023,Diesel,Logistics,166704,3
+V01429,C0295,Super Duty,2022,Diesel,Government,37309,4
+V01430,C0104,Maverick,2022,Hybrid,Logistics,14280,4
+V01431,C0014,Super Duty,2023,Hybrid,Utilities,45449,3
+V01432,C0288,Transit,2016,Gasoline,Logistics,31957,10
+V01433,C0179,Super Duty,2020,Electric,Delivery,172967,6
+V01434,C0125,Maverick,2017,Hybrid,Government,75499,9
+V01435,C0422,Super Duty,2017,Gasoline,Logistics,98057,9
+V01436,C0353,E-Transit,2016,Hybrid,Government,115065,10
+V01437,C0023,E-Transit,2020,Gasoline,Delivery,157767,6
+V01438,C0063,Maverick,2017,Gasoline,Logistics,79893,9
+V01439,C0143,Transit,2019,Electric,Logistics,30176,7
+V01440,C0481,Transit,2018,Hybrid,Delivery,154481,8
+V01441,C0153,F-150,2018,Gasoline,Delivery,61967,8
+V01442,C0145,Maverick,2017,Diesel,Delivery,5987,9
+V01443,C0225,Super Duty,2021,Diesel,Government,101854,5
+V01444,C0495,Maverick,2017,Diesel,Delivery,31015,9
+V01445,C0450,F-150,2023,Electric,Government,117350,3
+V01446,C0462,Maverick,2023,Gasoline,Utilities,71404,3
+V01447,C0309,Maverick,2020,Electric,Logistics,121751,6
+V01448,C0104,F-150,2025,Hybrid,Logistics,133807,1
+V01449,C0104,Transit,2022,Hybrid,Construction,173218,4
+V01450,C0435,Super Duty,2019,Gasoline,Utilities,53231,7
+V01451,C0039,F-150,2016,Diesel,Delivery,165104,10
+V01452,C0435,E-Transit,2017,Gasoline,Delivery,33305,9
+V01453,C0198,Transit,2025,Gasoline,Utilities,59306,1
+V01454,C0134,E-Transit,2025,Gasoline,Delivery,126139,1
+V01455,C0067,Transit,2019,Electric,Construction,23318,7
+V01456,C0391,Super Duty,2016,Hybrid,Government,149318,10
+V01457,C0179,Super Duty,2023,Gasoline,Logistics,169916,3
+V01458,C0456,Maverick,2024,Gasoline,Utilities,168674,2
+V01459,C0042,E-Transit,2019,Gasoline,Logistics,26584,7
+V01460,C0448,Transit,2025,Electric,Government,20169,1
+V01461,C0500,Super Duty,2018,Electric,Utilities,30968,8
+V01462,C0015,F-150,2017,Electric,Government,142457,9
+V01463,C0111,Super Duty,2020,Gasoline,Delivery,127684,6
+V01464,C0157,F-150,2018,Diesel,Delivery,120391,8
+V01465,C0289,Transit,2025,Diesel,Delivery,30444,1
+V01466,C0500,Super Duty,2022,Diesel,Government,111081,4
+V01467,C0478,Super Duty,2021,Hybrid,Government,67497,5
+V01468,C0231,Transit,2016,Gasoline,Government,10362,10
+V01469,C0411,Super Duty,2023,Diesel,Logistics,104254,3
+V01470,C0420,F-150,2017,Diesel,Government,144322,9
+V01471,C0157,Super Duty,2020,Diesel,Delivery,73354,6
+V01472,C0038,E-Transit,2024,Gasoline,Construction,41368,2
+V01473,C0441,Maverick,2023,Diesel,Government,49109,3
+V01474,C0097,F-150,2017,Diesel,Construction,32426,9
+V01475,C0485,E-Transit,2024,Gasoline,Delivery,122632,2
+V01476,C0411,Transit,2020,Hybrid,Government,117637,6
+V01477,C0439,F-150,2025,Electric,Logistics,44023,1
+V01478,C0289,Maverick,2021,Diesel,Logistics,127268,5
+V01479,C0254,Maverick,2018,Electric,Construction,160964,8
+V01480,C0196,Transit,2018,Hybrid,Logistics,114211,8
+V01481,C0086,Transit,2025,Hybrid,Logistics,99897,1
+V01482,C0322,F-150,2023,Diesel,Logistics,152079,3
+V01483,C0010,Super Duty,2025,Gasoline,Delivery,84777,1
+V01484,C0005,Transit,2025,Hybrid,Logistics,49858,1
+V01485,C0123,Super Duty,2017,Electric,Utilities,95042,9
+V01486,C0330,E-Transit,2017,Electric,Government,88098,9
+V01487,C0353,Maverick,2020,Electric,Logistics,25239,6
+V01488,C0118,Super Duty,2021,Electric,Logistics,149137,5
+V01489,C0294,Maverick,2017,Hybrid,Logistics,115951,9
+V01490,C0397,Super Duty,2020,Diesel,Utilities,46291,6
+V01491,C0159,E-Transit,2022,Diesel,Logistics,43805,4
+V01492,C0303,Transit,2025,Electric,Logistics,103831,1
+V01493,C0228,E-Transit,2025,Diesel,Government,154515,1
+V01494,C0365,Transit,2023,Electric,Utilities,14290,3
+V01495,C0216,Transit,2022,Electric,Utilities,136283,4
+V01496,C0436,Maverick,2023,Gasoline,Logistics,88634,3
+V01497,C0184,E-Transit,2024,Hybrid,Utilities,24072,2
+V01498,C0015,Super Duty,2020,Hybrid,Construction,48290,6
+V01499,C0157,E-Transit,2020,Electric,Utilities,90186,6
+V01500,C0136,Maverick,2025,Hybrid,Utilities,20115,1
+V01501,C0261,Transit,2019,Diesel,Utilities,10149,7
+V01502,C0157,Maverick,2024,Electric,Delivery,46992,2
+V01503,C0047,F-150,2020,Gasoline,Delivery,22716,6
+V01504,C0324,F-150,2017,Diesel,Delivery,102724,9
+V01505,C0332,Super Duty,2025,Gasoline,Utilities,18621,1
+V01506,C0173,Maverick,2023,Gasoline,Construction,142892,3
+V01507,C0130,Super Duty,2022,Hybrid,Utilities,118065,4
+V01508,C0411,Super Duty,2023,Hybrid,Logistics,178872,3
+V01509,C0095,F-150,2018,Electric,Construction,35399,8
+V01510,C0115,Super Duty,2019,Hybrid,Delivery,124374,7
+V01511,C0243,F-150,2020,Gasoline,Government,150074,6
+V01512,C0420,Transit,2021,Gasoline,Construction,48098,5
+V01513,C0292,Maverick,2016,Diesel,Delivery,50511,10
+V01514,C0282,Super Duty,2019,Gasoline,Construction,58243,7
+V01515,C0299,F-150,2025,Electric,Construction,120131,1
+V01516,C0283,E-Transit,2020,Electric,Utilities,33750,6
+V01517,C0069,Super Duty,2022,Hybrid,Logistics,153382,4
+V01518,C0148,Transit,2020,Hybrid,Government,60398,6
+V01519,C0011,Transit,2016,Hybrid,Delivery,49345,10
+V01520,C0254,E-Transit,2022,Electric,Construction,98430,4
+V01521,C0330,F-150,2023,Gasoline,Government,119921,3
+V01522,C0360,Super Duty,2022,Hybrid,Construction,96729,4
+V01523,C0038,F-150,2019,Diesel,Logistics,56843,7
+V01524,C0134,Transit,2023,Hybrid,Government,146294,3
+V01525,C0200,F-150,2020,Electric,Delivery,167581,6
+V01526,C0023,Transit,2025,Hybrid,Construction,136458,1
+V01527,C0303,F-150,2024,Gasoline,Logistics,69334,2
+V01528,C0346,E-Transit,2025,Hybrid,Government,72170,1
+V01529,C0302,Maverick,2020,Electric,Construction,45878,6
+V01530,C0363,E-Transit,2016,Electric,Construction,174421,10
+V01531,C0396,E-Transit,2024,Diesel,Delivery,158024,2
+V01532,C0218,Maverick,2020,Electric,Logistics,95352,6
+V01533,C0141,Maverick,2021,Diesel,Utilities,157601,5
+V01534,C0104,Super Duty,2019,Gasoline,Construction,177593,7
+V01535,C0446,Super Duty,2021,Electric,Government,23383,5
+V01536,C0210,E-Transit,2023,Hybrid,Delivery,140973,3
+V01537,C0473,E-Transit,2018,Gasoline,Delivery,47889,8
+V01538,C0481,Transit,2020,Hybrid,Construction,19633,6
+V01539,C0111,Transit,2017,Hybrid,Construction,67244,9
+V01540,C0104,Super Duty,2017,Hybrid,Construction,134177,9
+V01541,C0316,Super Duty,2022,Gasoline,Utilities,155235,4
+V01542,C0171,Transit,2025,Gasoline,Construction,146779,1
+V01543,C0460,Transit,2025,Electric,Logistics,88597,1
+V01544,C0492,F-150,2025,Hybrid,Government,20115,1
+V01545,C0356,F-150,2021,Diesel,Construction,80379,5
+V01546,C0496,Transit,2019,Electric,Utilities,44979,7
+V01547,C0324,F-150,2020,Gasoline,Government,176713,6
+V01548,C0133,Maverick,2016,Diesel,Delivery,74377,10
+V01549,C0376,Super Duty,2022,Gasoline,Construction,11416,4
+V01550,C0293,Super Duty,2023,Diesel,Government,146705,3
+V01551,C0328,Transit,2024,Electric,Delivery,133785,2
+V01552,C0127,E-Transit,2023,Diesel,Utilities,136666,3
+V01553,C0106,Transit,2020,Electric,Logistics,150465,6
+V01554,C0497,F-150,2018,Gasoline,Construction,171452,8
+V01555,C0092,E-Transit,2025,Diesel,Logistics,135364,1
+V01556,C0287,F-150,2024,Hybrid,Utilities,102507,2
+V01557,C0378,Maverick,2021,Hybrid,Government,123243,5
+V01558,C0393,F-150,2020,Gasoline,Government,140933,6
+V01559,C0051,Maverick,2018,Diesel,Utilities,108070,8
+V01560,C0029,Maverick,2021,Hybrid,Utilities,41126,5
+V01561,C0462,F-150,2018,Electric,Construction,85382,8
+V01562,C0296,F-150,2025,Diesel,Delivery,169754,1
+V01563,C0297,Maverick,2021,Diesel,Logistics,23228,5
+V01564,C0214,E-Transit,2019,Hybrid,Logistics,29009,7
+V01565,C0267,Maverick,2017,Electric,Government,5094,9
+V01566,C0407,Super Duty,2023,Electric,Government,85636,3
+V01567,C0257,Maverick,2019,Electric,Construction,103453,7
+V01568,C0302,E-Transit,2024,Diesel,Utilities,153502,2
+V01569,C0101,Super Duty,2022,Gasoline,Logistics,171643,4
+V01570,C0405,Transit,2017,Diesel,Construction,59486,9
+V01571,C0346,Transit,2019,Diesel,Government,95510,7
+V01572,C0110,E-Transit,2020,Hybrid,Government,25860,6
+V01573,C0420,Maverick,2018,Gasoline,Logistics,77812,8
+V01574,C0182,F-150,2024,Electric,Government,71087,2
+V01575,C0471,E-Transit,2020,Hybrid,Government,144558,6
+V01576,C0313,Super Duty,2017,Diesel,Delivery,54607,9
+V01577,C0001,Super Duty,2018,Gasoline,Utilities,145817,8
+V01578,C0319,Transit,2024,Electric,Government,111664,2
+V01579,C0438,Super Duty,2022,Electric,Delivery,23330,4
+V01580,C0055,E-Transit,2017,Diesel,Construction,125803,9
+V01581,C0371,Super Duty,2024,Electric,Government,176150,2
+V01582,C0424,E-Transit,2019,Electric,Construction,48336,7
+V01583,C0399,F-150,2024,Gasoline,Government,13070,2
+V01584,C0149,Transit,2017,Hybrid,Logistics,6320,9
+V01585,C0431,Super Duty,2025,Gasoline,Delivery,94043,1
+V01586,C0457,E-Transit,2019,Hybrid,Delivery,43921,7
+V01587,C0309,Maverick,2020,Hybrid,Logistics,11589,6
+V01588,C0137,Transit,2017,Hybrid,Utilities,97995,9
+V01589,C0202,F-150,2025,Electric,Delivery,20589,1
+V01590,C0436,E-Transit,2016,Gasoline,Construction,41375,10
+V01591,C0313,F-150,2022,Electric,Delivery,48085,4
+V01592,C0117,F-150,2025,Diesel,Utilities,65840,1
+V01593,C0154,Super Duty,2016,Gasoline,Construction,179272,10
+V01594,C0425,Super Duty,2023,Hybrid,Construction,103704,3
+V01595,C0291,E-Transit,2018,Electric,Logistics,162804,8
+V01596,C0063,Maverick,2025,Electric,Government,102047,1
+V01597,C0244,E-Transit,2021,Gasoline,Logistics,158498,5
+V01598,C0025,Maverick,2022,Gasoline,Government,35982,4
+V01599,C0090,F-150,2025,Hybrid,Logistics,64720,1
+V01600,C0075,Transit,2016,Hybrid,Government,152818,10
+V01601,C0294,E-Transit,2021,Diesel,Delivery,33514,5
+V01602,C0386,E-Transit,2022,Hybrid,Construction,139923,4
+V01603,C0391,Maverick,2021,Electric,Government,155868,5
+V01604,C0210,F-150,2019,Diesel,Delivery,81034,7
+V01605,C0475,F-150,2016,Diesel,Utilities,103388,10
+V01606,C0418,Maverick,2024,Diesel,Logistics,170664,2
+V01607,C0347,F-150,2019,Gasoline,Utilities,49845,7
+V01608,C0017,Super Duty,2022,Hybrid,Delivery,152002,4
+V01609,C0128,Transit,2022,Diesel,Utilities,115853,4
+V01610,C0427,E-Transit,2017,Gasoline,Utilities,113417,9
+V01611,C0443,Transit,2016,Gasoline,Delivery,118436,10
+V01612,C0364,E-Transit,2023,Diesel,Construction,26159,3
+V01613,C0251,Super Duty,2023,Diesel,Government,94788,3
+V01614,C0179,F-150,2022,Electric,Logistics,29003,4
+V01615,C0182,Maverick,2023,Diesel,Government,110722,3
+V01616,C0152,Super Duty,2018,Electric,Logistics,40139,8
+V01617,C0025,Transit,2017,Diesel,Government,57452,9
+V01618,C0455,Maverick,2022,Diesel,Utilities,27205,4
+V01619,C0180,F-150,2023,Hybrid,Construction,61955,3
+V01620,C0198,Super Duty,2016,Diesel,Utilities,12464,10
+V01621,C0344,Maverick,2025,Diesel,Construction,14840,1
+V01622,C0161,Super Duty,2024,Electric,Delivery,45768,2
+V01623,C0177,Super Duty,2019,Electric,Logistics,145533,7
+V01624,C0285,F-150,2019,Hybrid,Logistics,25927,7
+V01625,C0063,E-Transit,2018,Diesel,Delivery,103622,8
+V01626,C0491,Maverick,2021,Diesel,Government,20329,5
+V01627,C0150,F-150,2016,Electric,Delivery,20791,10
+V01628,C0154,Super Duty,2021,Gasoline,Delivery,57627,5
+V01629,C0156,F-150,2017,Gasoline,Construction,133885,9
+V01630,C0370,E-Transit,2024,Gasoline,Delivery,150444,2
+V01631,C0469,Maverick,2017,Electric,Logistics,114554,9
+V01632,C0049,E-Transit,2022,Electric,Utilities,135436,4
+V01633,C0455,Transit,2016,Gasoline,Construction,92073,10
+V01634,C0337,Maverick,2022,Gasoline,Construction,39370,4
+V01635,C0084,E-Transit,2020,Diesel,Government,56408,6
+V01636,C0361,Super Duty,2023,Electric,Utilities,95941,3
+V01637,C0177,Maverick,2019,Electric,Construction,159775,7
+V01638,C0148,Maverick,2025,Gasoline,Delivery,151306,1
+V01639,C0118,F-150,2022,Gasoline,Construction,143604,4
+V01640,C0342,Super Duty,2021,Hybrid,Construction,40416,5
+V01641,C0476,Transit,2020,Electric,Construction,77439,6
+V01642,C0063,E-Transit,2019,Hybrid,Government,23242,7
+V01643,C0189,F-150,2022,Diesel,Construction,84324,4
+V01644,C0360,E-Transit,2020,Hybrid,Construction,40249,6
+V01645,C0049,Transit,2020,Gasoline,Government,105124,6
+V01646,C0327,Transit,2016,Electric,Utilities,100049,10
+V01647,C0257,Maverick,2017,Electric,Logistics,90078,9
+V01648,C0224,Transit,2020,Hybrid,Government,37294,6
+V01649,C0141,E-Transit,2018,Hybrid,Government,139756,8
+V01650,C0478,Super Duty,2017,Diesel,Construction,159867,9
+V01651,C0215,Super Duty,2019,Diesel,Construction,146503,7
+V01652,C0435,Maverick,2019,Gasoline,Logistics,94627,7
+V01653,C0379,E-Transit,2019,Gasoline,Construction,95381,7
+V01654,C0440,E-Transit,2019,Gasoline,Delivery,95027,7
+V01655,C0211,Transit,2018,Hybrid,Construction,75366,8
+V01656,C0318,E-Transit,2022,Hybrid,Construction,99176,4
+V01657,C0032,F-150,2024,Electric,Delivery,124667,2
+V01658,C0158,Transit,2020,Gasoline,Logistics,77870,6
+V01659,C0285,F-150,2019,Hybrid,Delivery,52387,7
+V01660,C0305,Maverick,2017,Electric,Government,14304,9
+V01661,C0429,Super Duty,2017,Gasoline,Delivery,22032,9
+V01662,C0477,Maverick,2020,Diesel,Utilities,96291,6
+V01663,C0286,Super Duty,2022,Diesel,Government,117889,4
+V01664,C0144,Maverick,2025,Hybrid,Construction,64486,1
+V01665,C0424,E-Transit,2025,Electric,Government,70552,1
+V01666,C0019,F-150,2024,Diesel,Logistics,165726,2
+V01667,C0018,Super Duty,2022,Electric,Logistics,44244,4
+V01668,C0257,Transit,2020,Electric,Delivery,142014,6
+V01669,C0078,F-150,2025,Diesel,Government,55697,1
+V01670,C0371,Transit,2025,Electric,Construction,131031,1
+V01671,C0175,F-150,2025,Diesel,Logistics,7693,1
+V01672,C0498,F-150,2021,Hybrid,Construction,86098,5
+V01673,C0194,Maverick,2018,Gasoline,Utilities,11259,8
+V01674,C0476,Super Duty,2020,Gasoline,Logistics,124746,6
+V01675,C0113,Super Duty,2023,Hybrid,Delivery,112772,3
+V01676,C0114,F-150,2016,Diesel,Utilities,122928,10
+V01677,C0222,E-Transit,2016,Diesel,Government,141014,10
+V01678,C0166,E-Transit,2022,Diesel,Construction,52419,4
+V01679,C0435,Transit,2020,Diesel,Logistics,107092,6
+V01680,C0319,Transit,2020,Hybrid,Utilities,61105,6
+V01681,C0132,Maverick,2016,Gasoline,Utilities,163455,10
+V01682,C0385,F-150,2024,Electric,Logistics,28404,2
+V01683,C0264,Transit,2016,Electric,Government,77656,10
+V01684,C0413,Transit,2020,Gasoline,Government,141774,6
+V01685,C0055,F-150,2025,Hybrid,Delivery,105965,1
+V01686,C0359,Maverick,2024,Electric,Government,61332,2
+V01687,C0131,Transit,2019,Gasoline,Delivery,175491,7
+V01688,C0288,Maverick,2023,Hybrid,Utilities,108182,3
+V01689,C0266,Super Duty,2021,Electric,Logistics,116395,5
+V01690,C0458,Maverick,2018,Diesel,Government,107619,8
+V01691,C0467,E-Transit,2019,Diesel,Delivery,113269,7
+V01692,C0366,E-Transit,2017,Hybrid,Utilities,78844,9
+V01693,C0162,Maverick,2016,Diesel,Government,175314,10
+V01694,C0380,E-Transit,2023,Hybrid,Construction,129983,3
+V01695,C0481,Super Duty,2016,Gasoline,Utilities,39142,10
+V01696,C0087,F-150,2016,Gasoline,Government,114699,10
+V01697,C0055,E-Transit,2019,Electric,Utilities,101226,7
+V01698,C0476,E-Transit,2025,Hybrid,Logistics,12393,1
+V01699,C0288,Maverick,2025,Electric,Logistics,107281,1
+V01700,C0178,Super Duty,2021,Electric,Logistics,164965,5
+V01701,C0391,F-150,2024,Gasoline,Construction,14388,2
+V01702,C0349,Maverick,2016,Electric,Logistics,67969,10
+V01703,C0008,Maverick,2022,Diesel,Construction,41660,4
+V01704,C0321,Super Duty,2025,Electric,Logistics,94244,1
+V01705,C0313,F-150,2020,Hybrid,Utilities,160798,6
+V01706,C0247,Super Duty,2023,Diesel,Government,84544,3
+V01707,C0323,F-150,2022,Gasoline,Government,136183,4
+V01708,C0472,Super Duty,2019,Hybrid,Logistics,120370,7
+V01709,C0471,Maverick,2019,Diesel,Government,22545,7
+V01710,C0443,Maverick,2021,Hybrid,Logistics,176240,5
+V01711,C0255,Transit,2021,Diesel,Logistics,138451,5
+V01712,C0328,E-Transit,2024,Hybrid,Delivery,92346,2
+V01713,C0054,Super Duty,2020,Hybrid,Delivery,177192,6
+V01714,C0249,Transit,2023,Diesel,Delivery,22809,3
+V01715,C0239,E-Transit,2020,Gasoline,Construction,32967,6
+V01716,C0229,Super Duty,2017,Gasoline,Delivery,145820,9
+V01717,C0067,F-150,2021,Hybrid,Logistics,28424,5
+V01718,C0051,E-Transit,2024,Hybrid,Utilities,159986,2
+V01719,C0097,Maverick,2018,Gasoline,Delivery,113411,8
+V01720,C0092,Transit,2016,Gasoline,Delivery,155563,10
+V01721,C0495,E-Transit,2016,Electric,Utilities,75069,10
+V01722,C0264,E-Transit,2018,Gasoline,Logistics,94119,8
+V01723,C0418,Maverick,2025,Hybrid,Construction,42049,1
+V01724,C0291,Super Duty,2020,Diesel,Delivery,32821,6
+V01725,C0096,F-150,2018,Gasoline,Utilities,100797,8
+V01726,C0088,Maverick,2024,Electric,Logistics,166017,2
+V01727,C0078,F-150,2023,Electric,Government,153456,3
+V01728,C0288,Super Duty,2018,Electric,Construction,164482,8
+V01729,C0120,E-Transit,2024,Diesel,Utilities,82734,2
+V01730,C0302,F-150,2021,Gasoline,Utilities,143241,5
+V01731,C0491,Transit,2022,Gasoline,Utilities,176201,4
+V01732,C0400,Transit,2019,Gasoline,Delivery,102445,7
+V01733,C0452,Maverick,2019,Diesel,Government,8830,7
+V01734,C0500,Super Duty,2017,Diesel,Construction,91940,9
+V01735,C0165,Maverick,2020,Hybrid,Logistics,163829,6
+V01736,C0182,Maverick,2023,Electric,Logistics,68867,3
+V01737,C0469,Maverick,2022,Electric,Government,171722,4
+V01738,C0398,Transit,2022,Gasoline,Utilities,169838,4
+V01739,C0223,Transit,2021,Diesel,Utilities,37419,5
+V01740,C0311,Maverick,2018,Diesel,Utilities,21668,8
+V01741,C0432,Transit,2020,Gasoline,Utilities,152318,6
+V01742,C0466,Super Duty,2016,Gasoline,Utilities,29996,10
+V01743,C0007,Maverick,2022,Hybrid,Government,56312,4
+V01744,C0330,Transit,2024,Electric,Delivery,139137,2
+V01745,C0263,F-150,2016,Electric,Construction,15467,10
+V01746,C0161,Maverick,2017,Electric,Utilities,157079,9
+V01747,C0151,Maverick,2018,Hybrid,Delivery,33702,8
+V01748,C0085,Super Duty,2018,Gasoline,Logistics,99369,8
+V01749,C0147,E-Transit,2023,Gasoline,Government,80569,3
+V01750,C0112,E-Transit,2022,Electric,Delivery,58952,4
+V01751,C0381,Super Duty,2021,Electric,Utilities,39169,5
+V01752,C0403,Super Duty,2025,Hybrid,Utilities,21829,1
+V01753,C0036,Super Duty,2025,Diesel,Utilities,9522,1
+V01754,C0285,E-Transit,2019,Diesel,Delivery,90687,7
+V01755,C0188,Super Duty,2024,Electric,Utilities,171391,2
+V01756,C0082,Transit,2016,Hybrid,Delivery,125334,10
+V01757,C0002,Maverick,2017,Electric,Utilities,162615,9
+V01758,C0385,Maverick,2019,Diesel,Logistics,123576,7
+V01759,C0303,F-150,2018,Electric,Logistics,122419,8
+V01760,C0197,F-150,2016,Diesel,Construction,166545,10
+V01761,C0404,Maverick,2020,Diesel,Utilities,12699,6
+V01762,C0011,Transit,2022,Diesel,Utilities,73165,4
+V01763,C0234,E-Transit,2017,Gasoline,Delivery,176527,9
+V01764,C0386,E-Transit,2020,Gasoline,Delivery,80692,6
+V01765,C0195,Transit,2021,Electric,Utilities,22441,5
+V01766,C0471,E-Transit,2022,Diesel,Construction,35716,4
+V01767,C0119,Super Duty,2016,Gasoline,Utilities,67175,10
+V01768,C0396,Maverick,2022,Electric,Delivery,11834,4
+V01769,C0020,Maverick,2019,Electric,Utilities,23179,7
+V01770,C0261,Transit,2023,Electric,Delivery,31219,3
+V01771,C0293,E-Transit,2019,Electric,Utilities,108153,7
+V01772,C0422,F-150,2021,Electric,Government,151854,5
+V01773,C0256,F-150,2024,Hybrid,Delivery,79967,2
+V01774,C0222,E-Transit,2020,Diesel,Construction,107454,6
+V01775,C0393,F-150,2019,Electric,Government,14496,7
+V01776,C0226,Transit,2023,Hybrid,Utilities,175310,3
+V01777,C0053,Transit,2024,Diesel,Delivery,51025,2
+V01778,C0428,E-Transit,2019,Gasoline,Government,64886,7
+V01779,C0355,F-150,2018,Electric,Construction,159635,8
+V01780,C0500,Transit,2023,Hybrid,Delivery,8712,3
+V01781,C0342,Transit,2020,Gasoline,Government,99067,6
+V01782,C0364,Super Duty,2017,Hybrid,Government,50489,9
+V01783,C0280,Super Duty,2025,Diesel,Government,37664,1
+V01784,C0081,Transit,2024,Diesel,Logistics,148492,2
+V01785,C0202,E-Transit,2018,Gasoline,Utilities,10315,8
+V01786,C0158,Maverick,2017,Hybrid,Delivery,80033,9
+V01787,C0120,Maverick,2016,Electric,Delivery,122862,10
+V01788,C0059,Transit,2023,Electric,Delivery,84030,3
+V01789,C0494,Transit,2018,Gasoline,Government,68910,8
+V01790,C0215,Transit,2022,Gasoline,Utilities,126075,4
+V01791,C0128,E-Transit,2016,Gasoline,Construction,60919,10
+V01792,C0224,Super Duty,2016,Hybrid,Delivery,140204,10
+V01793,C0209,Transit,2024,Electric,Utilities,132153,2
+V01794,C0370,Transit,2023,Electric,Utilities,46598,3
+V01795,C0115,F-150,2018,Electric,Logistics,156623,8
+V01796,C0209,E-Transit,2021,Gasoline,Delivery,73206,5
+V01797,C0014,Transit,2018,Electric,Government,79900,8
+V01798,C0009,F-150,2019,Diesel,Utilities,31296,7
+V01799,C0040,Maverick,2016,Gasoline,Utilities,154138,10
+V01800,C0450,Transit,2020,Electric,Construction,164964,6
+V01801,C0237,Transit,2016,Hybrid,Logistics,80577,10
+V01802,C0281,F-150,2016,Gasoline,Utilities,82173,10
+V01803,C0359,E-Transit,2025,Diesel,Utilities,69771,1
+V01804,C0201,Transit,2022,Diesel,Government,163556,4
+V01805,C0246,Maverick,2021,Hybrid,Government,82865,5
+V01806,C0278,Transit,2017,Hybrid,Construction,104074,9
+V01807,C0235,Maverick,2017,Gasoline,Construction,163187,9
+V01808,C0494,Super Duty,2022,Gasoline,Construction,162110,4
+V01809,C0004,Super Duty,2016,Diesel,Government,41622,10
+V01810,C0154,Maverick,2017,Hybrid,Government,40886,9
+V01811,C0442,E-Transit,2023,Gasoline,Logistics,145973,3
+V01812,C0029,Transit,2021,Diesel,Delivery,61377,5
+V01813,C0109,Transit,2017,Hybrid,Delivery,87910,9
+V01814,C0098,Super Duty,2022,Diesel,Logistics,123992,4
+V01815,C0215,Maverick,2019,Electric,Delivery,168878,7
+V01816,C0293,Transit,2017,Hybrid,Government,153731,9
+V01817,C0075,Transit,2021,Gasoline,Delivery,159525,5
+V01818,C0326,E-Transit,2024,Gasoline,Government,166570,2
+V01819,C0146,F-150,2024,Electric,Logistics,21312,2
+V01820,C0128,Super Duty,2023,Hybrid,Construction,6436,3
+V01821,C0341,Super Duty,2018,Diesel,Logistics,32569,8
+V01822,C0042,F-150,2018,Gasoline,Delivery,121787,8
+V01823,C0356,Transit,2017,Electric,Government,95485,9
+V01824,C0041,E-Transit,2020,Electric,Delivery,107555,6
+V01825,C0422,E-Transit,2019,Hybrid,Delivery,145377,7
+V01826,C0034,Super Duty,2022,Hybrid,Construction,37646,4
+V01827,C0017,E-Transit,2019,Gasoline,Delivery,81126,7
+V01828,C0165,F-150,2024,Electric,Construction,122922,2
+V01829,C0153,Transit,2017,Diesel,Government,45430,9
+V01830,C0486,F-150,2021,Electric,Government,127238,5
+V01831,C0378,Maverick,2022,Diesel,Construction,73659,4
+V01832,C0076,Super Duty,2019,Diesel,Logistics,120341,7
+V01833,C0087,E-Transit,2021,Gasoline,Government,9158,5
+V01834,C0117,Maverick,2022,Electric,Logistics,79236,4
+V01835,C0362,E-Transit,2019,Diesel,Government,81067,7
+V01836,C0342,Transit,2023,Hybrid,Government,163810,3
+V01837,C0469,Transit,2024,Diesel,Utilities,14879,2
+V01838,C0027,Transit,2016,Hybrid,Delivery,141615,10
+V01839,C0313,E-Transit,2022,Hybrid,Delivery,117284,4
+V01840,C0287,Maverick,2024,Electric,Logistics,178420,2
+V01841,C0134,Transit,2025,Hybrid,Delivery,89117,1
+V01842,C0219,Maverick,2020,Diesel,Logistics,172751,6
+V01843,C0168,E-Transit,2017,Hybrid,Government,48888,9
+V01844,C0098,Maverick,2025,Electric,Utilities,35276,1
+V01845,C0268,E-Transit,2021,Gasoline,Utilities,9799,5
+V01846,C0237,E-Transit,2022,Diesel,Government,117529,4
+V01847,C0309,Super Duty,2017,Diesel,Construction,129713,9
+V01848,C0455,E-Transit,2017,Electric,Construction,95141,9
+V01849,C0394,E-Transit,2025,Electric,Delivery,120013,1
+V01850,C0173,F-150,2025,Electric,Logistics,172606,1
+V01851,C0401,Transit,2016,Electric,Utilities,36668,10
+V01852,C0410,Super Duty,2019,Diesel,Delivery,140183,7
+V01853,C0469,Super Duty,2022,Gasoline,Government,160758,4
+V01854,C0476,Super Duty,2024,Hybrid,Utilities,77392,2
+V01855,C0190,F-150,2018,Hybrid,Logistics,21490,8
+V01856,C0122,E-Transit,2022,Gasoline,Logistics,171266,4
+V01857,C0046,Transit,2022,Gasoline,Construction,150569,4
+V01858,C0064,Maverick,2022,Gasoline,Delivery,122219,4
+V01859,C0130,E-Transit,2017,Electric,Government,49104,9
+V01860,C0310,F-150,2021,Diesel,Utilities,10316,5
+V01861,C0363,E-Transit,2017,Diesel,Logistics,43130,9
+V01862,C0193,E-Transit,2021,Diesel,Utilities,112294,5
+V01863,C0307,F-150,2025,Electric,Government,34954,1
+V01864,C0181,Super Duty,2018,Diesel,Utilities,118437,8
+V01865,C0292,Super Duty,2017,Electric,Delivery,157724,9
+V01866,C0371,Transit,2021,Diesel,Construction,150250,5
+V01867,C0282,Transit,2017,Gasoline,Utilities,150823,9
+V01868,C0029,Super Duty,2020,Hybrid,Construction,139116,6
+V01869,C0149,Maverick,2017,Hybrid,Government,68165,9
+V01870,C0267,E-Transit,2018,Electric,Construction,147552,8
+V01871,C0296,Maverick,2018,Diesel,Utilities,179946,8
+V01872,C0011,E-Transit,2021,Hybrid,Utilities,71775,5
+V01873,C0164,Super Duty,2021,Gasoline,Logistics,142638,5
+V01874,C0113,Transit,2025,Gasoline,Utilities,90311,1
+V01875,C0187,Transit,2018,Gasoline,Construction,58149,8
+V01876,C0295,Maverick,2018,Electric,Logistics,139078,8
+V01877,C0232,Transit,2016,Electric,Utilities,77561,10
+V01878,C0227,Super Duty,2022,Diesel,Utilities,155495,4
+V01879,C0310,Maverick,2023,Gasoline,Government,95710,3
+V01880,C0098,E-Transit,2017,Diesel,Logistics,97199,9
+V01881,C0055,Transit,2019,Diesel,Government,170024,7
+V01882,C0111,F-150,2025,Gasoline,Government,32326,1
+V01883,C0152,Transit,2022,Diesel,Government,122272,4
+V01884,C0246,E-Transit,2023,Hybrid,Delivery,36139,3
+V01885,C0406,Maverick,2016,Electric,Government,78638,10
+V01886,C0069,E-Transit,2019,Diesel,Construction,77652,7
+V01887,C0312,F-150,2021,Gasoline,Utilities,17937,5
+V01888,C0289,Super Duty,2018,Electric,Delivery,35161,8
+V01889,C0250,Transit,2020,Electric,Government,140455,6
+V01890,C0036,Maverick,2025,Diesel,Utilities,90856,1
+V01891,C0239,Super Duty,2024,Hybrid,Logistics,75043,2
+V01892,C0148,E-Transit,2018,Diesel,Logistics,150807,8
+V01893,C0467,Maverick,2020,Hybrid,Utilities,64919,6
+V01894,C0227,Super Duty,2023,Electric,Construction,87055,3
+V01895,C0244,Maverick,2021,Diesel,Utilities,90455,5
+V01896,C0491,F-150,2019,Gasoline,Utilities,173694,7
+V01897,C0337,F-150,2023,Diesel,Delivery,43135,3
+V01898,C0446,Transit,2018,Hybrid,Logistics,171730,8
+V01899,C0365,Transit,2018,Hybrid,Logistics,89677,8
+V01900,C0491,F-150,2019,Diesel,Government,34696,7
+V01901,C0482,Maverick,2024,Hybrid,Utilities,139845,2
+V01902,C0201,F-150,2020,Electric,Utilities,29956,6
+V01903,C0154,Transit,2023,Diesel,Construction,20819,3
+V01904,C0450,F-150,2021,Hybrid,Logistics,6528,5
+V01905,C0073,F-150,2018,Diesel,Construction,132781,8
+V01906,C0201,Maverick,2023,Diesel,Delivery,91491,3
+V01907,C0296,Super Duty,2024,Gasoline,Government,49588,2
+V01908,C0017,Transit,2023,Diesel,Construction,104152,3
+V01909,C0129,Maverick,2019,Gasoline,Logistics,132872,7
+V01910,C0217,F-150,2021,Hybrid,Delivery,156583,5
+V01911,C0061,F-150,2016,Gasoline,Utilities,15119,10
+V01912,C0427,Super Duty,2019,Gasoline,Delivery,80893,7
+V01913,C0104,Transit,2023,Gasoline,Construction,21167,3
+V01914,C0042,Transit,2016,Electric,Logistics,115782,10
+V01915,C0025,E-Transit,2018,Gasoline,Construction,135775,8
+V01916,C0039,Transit,2016,Diesel,Utilities,39889,10
+V01917,C0291,Super Duty,2024,Gasoline,Utilities,50678,2
+V01918,C0131,E-Transit,2017,Diesel,Logistics,65262,9
+V01919,C0498,E-Transit,2024,Gasoline,Government,140753,2
+V01920,C0229,F-150,2019,Electric,Delivery,85291,7
+V01921,C0108,F-150,2017,Hybrid,Delivery,71008,9
+V01922,C0172,Transit,2019,Gasoline,Utilities,149762,7
+V01923,C0435,E-Transit,2025,Gasoline,Construction,30912,1
+V01924,C0478,F-150,2021,Electric,Construction,11473,5
+V01925,C0102,Super Duty,2022,Gasoline,Government,177370,4
+V01926,C0354,F-150,2018,Diesel,Construction,154741,8
+V01927,C0012,F-150,2018,Gasoline,Delivery,104500,8
+V01928,C0275,E-Transit,2025,Gasoline,Construction,157015,1
+V01929,C0101,E-Transit,2023,Hybrid,Government,43785,3
+V01930,C0044,Maverick,2020,Hybrid,Delivery,105956,6
+V01931,C0443,Super Duty,2019,Gasoline,Construction,124006,7
+V01932,C0305,E-Transit,2022,Electric,Delivery,15832,4
+V01933,C0445,Transit,2022,Hybrid,Utilities,141457,4
+V01934,C0017,Super Duty,2024,Gasoline,Utilities,150780,2
+V01935,C0330,Super Duty,2024,Hybrid,Utilities,159510,2
+V01936,C0057,E-Transit,2020,Gasoline,Construction,87747,6
+V01937,C0311,Super Duty,2023,Hybrid,Government,85107,3
+V01938,C0497,E-Transit,2025,Hybrid,Delivery,70428,1
+V01939,C0303,F-150,2016,Diesel,Logistics,91843,10
+V01940,C0012,Maverick,2024,Gasoline,Utilities,16002,2
+V01941,C0318,F-150,2023,Gasoline,Utilities,172225,3
+V01942,C0080,E-Transit,2021,Gasoline,Logistics,158512,5
+V01943,C0216,E-Transit,2018,Gasoline,Logistics,72501,8
+V01944,C0339,F-150,2018,Hybrid,Construction,37556,8
+V01945,C0264,Transit,2023,Diesel,Delivery,72963,3
+V01946,C0479,Transit,2020,Diesel,Utilities,11563,6
+V01947,C0149,Transit,2025,Electric,Government,10840,1
+V01948,C0081,E-Transit,2022,Gasoline,Construction,20154,4
+V01949,C0215,Super Duty,2020,Electric,Construction,29194,6
+V01950,C0485,E-Transit,2023,Hybrid,Government,158520,3
+V01951,C0374,Super Duty,2025,Electric,Government,28528,1
+V01952,C0464,F-150,2025,Gasoline,Government,165474,1
+V01953,C0198,Maverick,2019,Diesel,Logistics,9352,7
+V01954,C0200,Super Duty,2017,Diesel,Utilities,5184,9
+V01955,C0025,Transit,2018,Gasoline,Logistics,146456,8
+V01956,C0466,E-Transit,2023,Hybrid,Utilities,19319,3
+V01957,C0089,F-150,2022,Gasoline,Logistics,125497,4
+V01958,C0268,Transit,2017,Hybrid,Delivery,156521,9
+V01959,C0143,F-150,2021,Diesel,Utilities,61333,5
+V01960,C0059,Maverick,2024,Hybrid,Construction,46205,2
+V01961,C0410,E-Transit,2019,Gasoline,Utilities,15426,7
+V01962,C0489,E-Transit,2024,Gasoline,Utilities,12504,2
+V01963,C0365,Maverick,2017,Gasoline,Utilities,121775,9
+V01964,C0026,E-Transit,2017,Hybrid,Delivery,38368,9
+V01965,C0047,Super Duty,2024,Hybrid,Logistics,108841,2
+V01966,C0288,F-150,2022,Hybrid,Construction,121744,4
+V01967,C0266,Transit,2022,Diesel,Logistics,13724,4
+V01968,C0016,Maverick,2016,Electric,Logistics,141156,10
+V01969,C0199,Super Duty,2021,Electric,Government,170882,5
+V01970,C0401,Transit,2022,Gasoline,Delivery,87297,4
+V01971,C0407,Transit,2021,Diesel,Government,130099,5
+V01972,C0282,Maverick,2021,Hybrid,Delivery,83872,5
+V01973,C0469,Super Duty,2017,Gasoline,Logistics,156944,9
+V01974,C0086,Transit,2021,Diesel,Logistics,75333,5
+V01975,C0250,Transit,2019,Gasoline,Delivery,7596,7
+V01976,C0391,Super Duty,2024,Diesel,Logistics,22167,2
+V01977,C0270,E-Transit,2016,Diesel,Logistics,92844,10
+V01978,C0335,Transit,2023,Electric,Construction,94751,3
+V01979,C0117,F-150,2020,Gasoline,Government,134817,6
+V01980,C0007,Super Duty,2016,Hybrid,Government,85520,10
+V01981,C0137,Transit,2019,Electric,Government,63326,7
+V01982,C0371,Maverick,2016,Electric,Utilities,82670,10
+V01983,C0176,F-150,2021,Hybrid,Construction,146854,5
+V01984,C0328,Transit,2017,Diesel,Government,178074,9
+V01985,C0498,F-150,2020,Hybrid,Government,29022,6
+V01986,C0315,F-150,2022,Gasoline,Construction,89458,4
+V01987,C0215,E-Transit,2017,Hybrid,Logistics,150690,9
+V01988,C0477,F-150,2021,Diesel,Government,153317,5
+V01989,C0082,E-Transit,2021,Hybrid,Logistics,88796,5
+V01990,C0223,Super Duty,2020,Diesel,Government,146099,6
+V01991,C0478,E-Transit,2020,Diesel,Delivery,150058,6
+V01992,C0372,Maverick,2018,Gasoline,Utilities,115704,8
+V01993,C0423,Transit,2025,Hybrid,Government,139598,1
+V01994,C0483,Super Duty,2025,Hybrid,Delivery,49361,1
+V01995,C0402,Super Duty,2017,Gasoline,Construction,43286,9
+V01996,C0443,Maverick,2022,Diesel,Delivery,34533,4
+V01997,C0490,E-Transit,2016,Hybrid,Construction,154388,10
+V01998,C0103,Transit,2021,Gasoline,Government,144771,5
+V01999,C0273,E-Transit,2021,Diesel,Construction,132441,5
+V02000,C0014,F-150,2018,Gasoline,Delivery,102079,8
+V02001,C0159,E-Transit,2017,Hybrid,Utilities,105960,9
+V02002,C0152,Super Duty,2017,Gasoline,Logistics,63465,9
+V02003,C0483,Transit,2024,Electric,Logistics,152745,2
+V02004,C0108,E-Transit,2020,Diesel,Utilities,28395,6
+V02005,C0188,Transit,2022,Electric,Logistics,109162,4
+V02006,C0301,Transit,2020,Electric,Government,135704,6
+V02007,C0098,F-150,2022,Diesel,Government,159779,4
+V02008,C0131,F-150,2019,Diesel,Delivery,80937,7
+V02009,C0293,Super Duty,2023,Gasoline,Delivery,134647,3
+V02010,C0171,Maverick,2025,Diesel,Construction,125650,1
+V02011,C0424,Transit,2025,Electric,Delivery,135744,1
+V02012,C0474,Maverick,2022,Electric,Government,96512,4
+V02013,C0183,Super Duty,2025,Hybrid,Delivery,144830,1
+V02014,C0471,Transit,2020,Diesel,Logistics,72009,6
+V02015,C0364,Transit,2021,Electric,Construction,149353,5
+V02016,C0039,Maverick,2020,Hybrid,Construction,37548,6
+V02017,C0015,E-Transit,2022,Hybrid,Government,23371,4
+V02018,C0376,F-150,2017,Gasoline,Delivery,110977,9
+V02019,C0497,E-Transit,2020,Electric,Logistics,155716,6
+V02020,C0004,Maverick,2025,Gasoline,Delivery,159946,1
+V02021,C0349,F-150,2018,Electric,Utilities,19281,8
+V02022,C0470,E-Transit,2024,Gasoline,Delivery,158361,2
+V02023,C0409,F-150,2021,Gasoline,Government,141126,5
+V02024,C0397,Transit,2025,Diesel,Delivery,105020,1
+V02025,C0210,E-Transit,2018,Gasoline,Construction,112508,8
+V02026,C0161,F-150,2022,Diesel,Logistics,71846,4
+V02027,C0016,F-150,2019,Hybrid,Government,99682,7
+V02028,C0493,F-150,2018,Electric,Utilities,34312,8
+V02029,C0426,E-Transit,2023,Hybrid,Logistics,119186,3
+V02030,C0108,Super Duty,2019,Electric,Logistics,9257,7
+V02031,C0382,E-Transit,2016,Hybrid,Construction,151918,10
+V02032,C0450,Maverick,2021,Electric,Construction,158555,5
+V02033,C0311,E-Transit,2025,Gasoline,Construction,31558,1
+V02034,C0227,F-150,2016,Electric,Government,48188,10
+V02035,C0170,Transit,2020,Electric,Delivery,149084,6
+V02036,C0034,E-Transit,2022,Hybrid,Logistics,38236,4
+V02037,C0414,E-Transit,2021,Hybrid,Delivery,50076,5
+V02038,C0251,F-150,2017,Hybrid,Delivery,53402,9
+V02039,C0247,Transit,2019,Diesel,Construction,99467,7
+V02040,C0269,Transit,2017,Diesel,Delivery,168148,9
+V02041,C0141,Maverick,2016,Electric,Logistics,85337,10
+V02042,C0274,E-Transit,2018,Electric,Logistics,120827,8
+V02043,C0416,Transit,2018,Gasoline,Utilities,79264,8
+V02044,C0096,Transit,2022,Gasoline,Government,22335,4
+V02045,C0227,Super Duty,2016,Electric,Delivery,48773,10
+V02046,C0379,Super Duty,2024,Diesel,Government,33570,2
+V02047,C0039,Transit,2021,Electric,Government,92995,5
+V02048,C0302,Maverick,2019,Gasoline,Government,45658,7
+V02049,C0500,Transit,2018,Diesel,Government,125640,8
+V02050,C0029,F-150,2018,Diesel,Logistics,77613,8
+V02051,C0446,E-Transit,2017,Gasoline,Delivery,63194,9
+V02052,C0497,Maverick,2017,Electric,Utilities,116872,9
+V02053,C0477,F-150,2025,Hybrid,Government,170031,1
+V02054,C0318,Maverick,2020,Electric,Utilities,176605,6
+V02055,C0245,F-150,2024,Electric,Logistics,113558,2
+V02056,C0236,E-Transit,2017,Gasoline,Logistics,73582,9
+V02057,C0185,E-Transit,2017,Diesel,Construction,148775,9
+V02058,C0272,Super Duty,2021,Gasoline,Government,54456,5
+V02059,C0440,F-150,2025,Electric,Construction,60491,1
+V02060,C0236,Super Duty,2017,Hybrid,Utilities,13043,9
+V02061,C0239,F-150,2019,Hybrid,Delivery,108212,7
+V02062,C0377,Super Duty,2021,Hybrid,Construction,73340,5
+V02063,C0266,E-Transit,2020,Gasoline,Logistics,146248,6
+V02064,C0414,Maverick,2016,Diesel,Government,140008,10
+V02065,C0409,Super Duty,2021,Gasoline,Utilities,36174,5
+V02066,C0359,F-150,2016,Hybrid,Logistics,87632,10
+V02067,C0340,F-150,2018,Electric,Delivery,93768,8
+V02068,C0389,E-Transit,2025,Diesel,Government,130775,1
+V02069,C0065,F-150,2020,Gasoline,Delivery,113177,6
+V02070,C0478,Transit,2025,Gasoline,Delivery,30909,1
+V02071,C0177,Maverick,2020,Diesel,Government,49158,6
+V02072,C0003,Super Duty,2025,Diesel,Government,144438,1
+V02073,C0429,Maverick,2021,Electric,Delivery,129296,5
+V02074,C0142,E-Transit,2025,Diesel,Utilities,64331,1
+V02075,C0376,Super Duty,2023,Electric,Government,164914,3
+V02076,C0158,Super Duty,2020,Hybrid,Logistics,153530,6
+V02077,C0498,Transit,2016,Hybrid,Construction,92367,10
+V02078,C0324,E-Transit,2020,Gasoline,Utilities,70382,6
+V02079,C0146,F-150,2018,Hybrid,Government,79319,8
+V02080,C0446,Transit,2019,Hybrid,Government,16170,7
+V02081,C0293,Transit,2023,Electric,Utilities,124952,3
+V02082,C0153,Maverick,2022,Gasoline,Construction,85145,4
+V02083,C0432,Maverick,2020,Diesel,Delivery,110626,6
+V02084,C0193,Maverick,2017,Gasoline,Logistics,21208,9
+V02085,C0437,Transit,2021,Hybrid,Government,171250,5
+V02086,C0494,F-150,2021,Diesel,Construction,145111,5
+V02087,C0463,Super Duty,2025,Gasoline,Logistics,19990,1
+V02088,C0073,Maverick,2025,Gasoline,Utilities,142513,1
+V02089,C0399,F-150,2021,Gasoline,Government,134327,5
+V02090,C0305,E-Transit,2024,Gasoline,Delivery,84314,2
+V02091,C0377,Maverick,2023,Electric,Utilities,31862,3
+V02092,C0344,Super Duty,2023,Gasoline,Government,163345,3
+V02093,C0452,E-Transit,2016,Hybrid,Construction,98949,10
+V02094,C0140,E-Transit,2020,Hybrid,Logistics,178572,6
+V02095,C0187,Super Duty,2022,Electric,Logistics,135223,4
+V02096,C0293,Maverick,2021,Diesel,Government,8956,5
+V02097,C0061,Transit,2020,Diesel,Utilities,93789,6
+V02098,C0485,Super Duty,2023,Hybrid,Delivery,94451,3
+V02099,C0427,Super Duty,2018,Hybrid,Construction,122782,8
+V02100,C0380,Super Duty,2021,Electric,Government,7365,5
+V02101,C0198,E-Transit,2020,Diesel,Construction,77204,6
+V02102,C0295,F-150,2023,Diesel,Logistics,141072,3
+V02103,C0440,Transit,2019,Gasoline,Delivery,62072,7
+V02104,C0319,Maverick,2023,Gasoline,Construction,57499,3
+V02105,C0302,Maverick,2025,Gasoline,Government,74211,1
+V02106,C0344,F-150,2017,Electric,Delivery,148979,9
+V02107,C0011,Super Duty,2024,Hybrid,Utilities,153408,2
+V02108,C0062,Transit,2024,Electric,Government,90220,2
+V02109,C0333,Maverick,2025,Diesel,Construction,98847,1
+V02110,C0226,Maverick,2025,Hybrid,Delivery,114459,1
+V02111,C0153,Super Duty,2021,Gasoline,Government,82755,5
+V02112,C0199,F-150,2019,Electric,Delivery,73783,7
+V02113,C0052,Transit,2019,Electric,Delivery,132851,7
+V02114,C0260,F-150,2021,Gasoline,Delivery,11472,5
+V02115,C0059,F-150,2020,Electric,Construction,158452,6
+V02116,C0072,Transit,2021,Gasoline,Government,108152,5
+V02117,C0148,Transit,2022,Diesel,Logistics,163352,4
+V02118,C0349,Maverick,2022,Hybrid,Logistics,157931,4
+V02119,C0063,Maverick,2024,Diesel,Construction,144334,2
+V02120,C0310,Transit,2023,Diesel,Construction,147138,3
+V02121,C0373,E-Transit,2021,Gasoline,Delivery,151626,5
+V02122,C0243,Maverick,2021,Electric,Government,12008,5
+V02123,C0493,E-Transit,2020,Diesel,Government,92851,6
+V02124,C0366,Transit,2016,Diesel,Utilities,85799,10
+V02125,C0330,Maverick,2024,Diesel,Utilities,21238,2
+V02126,C0107,F-150,2024,Electric,Logistics,22153,2
+V02127,C0226,Transit,2024,Electric,Utilities,64353,2
+V02128,C0313,Super Duty,2023,Gasoline,Utilities,57092,3
+V02129,C0218,E-Transit,2025,Diesel,Logistics,179224,1
+V02130,C0425,Transit,2018,Hybrid,Logistics,54104,8
+V02131,C0241,Transit,2016,Electric,Utilities,160355,10
+V02132,C0259,Maverick,2023,Gasoline,Government,33887,3
+V02133,C0376,Maverick,2022,Diesel,Utilities,9355,4
+V02134,C0262,Maverick,2020,Hybrid,Delivery,38701,6
+V02135,C0005,Super Duty,2025,Electric,Delivery,177606,1
+V02136,C0261,Maverick,2022,Hybrid,Delivery,76442,4
+V02137,C0054,Transit,2025,Electric,Construction,17279,1
+V02138,C0047,Maverick,2019,Gasoline,Delivery,179563,7
+V02139,C0215,F-150,2024,Hybrid,Government,125738,2
+V02140,C0177,Maverick,2025,Diesel,Construction,144333,1
+V02141,C0009,Super Duty,2017,Diesel,Construction,140546,9
+V02142,C0099,F-150,2024,Electric,Delivery,96414,2
+V02143,C0020,Transit,2024,Diesel,Utilities,33390,2
+V02144,C0378,Transit,2020,Hybrid,Logistics,162997,6
+V02145,C0241,E-Transit,2016,Gasoline,Utilities,87174,10
+V02146,C0061,F-150,2022,Electric,Utilities,9787,4
+V02147,C0379,E-Transit,2025,Hybrid,Construction,48724,1
+V02148,C0490,F-150,2025,Electric,Construction,15663,1
+V02149,C0419,F-150,2019,Gasoline,Construction,152192,7
+V02150,C0178,Super Duty,2024,Electric,Government,158812,2
+V02151,C0338,E-Transit,2021,Diesel,Government,138107,5
+V02152,C0062,Super Duty,2018,Diesel,Logistics,105271,8
+V02153,C0145,F-150,2021,Electric,Construction,72388,5
+V02154,C0216,Transit,2025,Gasoline,Delivery,57335,1
+V02155,C0003,F-150,2021,Gasoline,Construction,48315,5
+V02156,C0160,Super Duty,2020,Diesel,Government,109922,6
+V02157,C0227,E-Transit,2017,Gasoline,Construction,51627,9
+V02158,C0486,E-Transit,2025,Electric,Government,144375,1
+V02159,C0269,Super Duty,2025,Hybrid,Construction,54334,1
+V02160,C0120,E-Transit,2017,Electric,Delivery,70700,9
+V02161,C0381,Maverick,2022,Diesel,Logistics,44726,4
+V02162,C0495,Transit,2017,Diesel,Delivery,35694,9
+V02163,C0089,Transit,2021,Diesel,Government,167325,5
+V02164,C0329,Transit,2020,Gasoline,Utilities,160302,6
+V02165,C0068,E-Transit,2019,Electric,Delivery,68545,7
+V02166,C0398,E-Transit,2022,Hybrid,Construction,152997,4
+V02167,C0357,F-150,2023,Electric,Logistics,11033,3
+V02168,C0098,F-150,2019,Hybrid,Construction,67461,7
+V02169,C0267,Transit,2016,Electric,Construction,7665,10
+V02170,C0105,Maverick,2016,Diesel,Delivery,32025,10
+V02171,C0440,F-150,2016,Hybrid,Logistics,159605,10
+V02172,C0323,F-150,2016,Electric,Utilities,82661,10
+V02173,C0123,E-Transit,2020,Gasoline,Construction,125473,6
+V02174,C0476,Maverick,2019,Gasoline,Logistics,25998,7
+V02175,C0029,Transit,2024,Electric,Utilities,66248,2
+V02176,C0137,F-150,2018,Diesel,Construction,109493,8
+V02177,C0195,Maverick,2022,Hybrid,Logistics,28057,4
+V02178,C0409,Maverick,2023,Electric,Delivery,84244,3
+V02179,C0226,Transit,2021,Gasoline,Construction,102031,5
+V02180,C0332,Maverick,2025,Hybrid,Construction,117713,1
+V02181,C0170,Maverick,2016,Gasoline,Logistics,110887,10
+V02182,C0009,Maverick,2023,Gasoline,Construction,72173,3
+V02183,C0463,F-150,2025,Electric,Utilities,43734,1
+V02184,C0040,Transit,2018,Gasoline,Construction,67072,8
+V02185,C0025,Maverick,2023,Hybrid,Government,99194,3
+V02186,C0261,Maverick,2019,Diesel,Utilities,144741,7
+V02187,C0395,F-150,2023,Electric,Logistics,118272,3
+V02188,C0443,Transit,2016,Hybrid,Utilities,72902,10
+V02189,C0226,E-Transit,2018,Electric,Government,127247,8
+V02190,C0472,F-150,2021,Gasoline,Government,154982,5
+V02191,C0124,Transit,2024,Gasoline,Construction,61959,2
+V02192,C0463,Maverick,2017,Hybrid,Construction,101623,9
+V02193,C0038,Transit,2016,Hybrid,Delivery,136438,10
+V02194,C0328,Transit,2025,Diesel,Utilities,53415,1
+V02195,C0251,Transit,2018,Hybrid,Delivery,129716,8
+V02196,C0389,E-Transit,2019,Hybrid,Government,126209,7
+V02197,C0176,Transit,2020,Electric,Construction,14907,6
+V02198,C0090,E-Transit,2018,Gasoline,Construction,100825,8
+V02199,C0402,Maverick,2025,Hybrid,Construction,37780,1
+V02200,C0454,E-Transit,2017,Diesel,Logistics,40085,9
+V02201,C0037,Maverick,2017,Hybrid,Government,25426,9
+V02202,C0316,Maverick,2022,Gasoline,Construction,12485,4
+V02203,C0176,E-Transit,2024,Hybrid,Government,54527,2
+V02204,C0461,F-150,2025,Electric,Construction,129604,1
+V02205,C0284,Super Duty,2017,Gasoline,Utilities,96005,9
+V02206,C0453,Transit,2022,Hybrid,Government,63528,4
+V02207,C0461,Super Duty,2022,Electric,Delivery,125631,4
+V02208,C0081,Transit,2022,Gasoline,Logistics,32799,4
+V02209,C0114,Transit,2018,Hybrid,Delivery,152159,8
+V02210,C0040,Maverick,2022,Electric,Government,143518,4
+V02211,C0301,Transit,2016,Diesel,Construction,99817,10
+V02212,C0224,Transit,2025,Electric,Government,63260,1
+V02213,C0318,E-Transit,2016,Diesel,Logistics,150949,10
+V02214,C0349,Super Duty,2020,Hybrid,Government,160795,6
+V02215,C0115,E-Transit,2017,Electric,Construction,17943,9
+V02216,C0186,Transit,2024,Diesel,Delivery,146378,2
+V02217,C0323,Maverick,2022,Gasoline,Utilities,172856,4
+V02218,C0056,E-Transit,2019,Electric,Delivery,126401,7
+V02219,C0040,E-Transit,2019,Hybrid,Construction,156527,7
+V02220,C0354,F-150,2017,Gasoline,Construction,166046,9
+V02221,C0040,Transit,2020,Diesel,Logistics,32371,6
+V02222,C0347,Maverick,2019,Electric,Government,103746,7
+V02223,C0461,E-Transit,2016,Electric,Government,106248,10
+V02224,C0237,E-Transit,2023,Hybrid,Delivery,140008,3
+V02225,C0289,Maverick,2018,Gasoline,Utilities,169238,8
+V02226,C0262,Transit,2021,Electric,Utilities,30727,5
+V02227,C0216,F-150,2019,Electric,Logistics,119000,7
+V02228,C0147,E-Transit,2024,Gasoline,Construction,68969,2
+V02229,C0336,F-150,2022,Electric,Logistics,164440,4
+V02230,C0168,Super Duty,2024,Gasoline,Government,73531,2
+V02231,C0092,Transit,2025,Gasoline,Construction,44097,1
+V02232,C0353,Super Duty,2018,Gasoline,Logistics,171056,8
+V02233,C0059,Super Duty,2016,Hybrid,Delivery,55859,10
+V02234,C0059,Super Duty,2020,Gasoline,Government,158222,6
+V02235,C0304,Transit,2018,Gasoline,Utilities,158133,8
+V02236,C0169,Transit,2021,Diesel,Logistics,165250,5
+V02237,C0269,Maverick,2023,Diesel,Government,61790,3
+V02238,C0363,F-150,2019,Hybrid,Government,70696,7
+V02239,C0045,F-150,2020,Gasoline,Utilities,20648,6
+V02240,C0345,Maverick,2020,Diesel,Utilities,66779,6
+V02241,C0181,Maverick,2019,Diesel,Utilities,111371,7
+V02242,C0170,Super Duty,2019,Electric,Logistics,41672,7
+V02243,C0356,Maverick,2019,Gasoline,Utilities,74109,7
+V02244,C0191,E-Transit,2019,Diesel,Delivery,39593,7
+V02245,C0155,F-150,2019,Hybrid,Government,149858,7
+V02246,C0422,Maverick,2020,Electric,Utilities,14815,6
+V02247,C0188,E-Transit,2017,Electric,Government,158038,9
+V02248,C0007,E-Transit,2017,Gasoline,Construction,149866,9
+V02249,C0133,E-Transit,2024,Gasoline,Construction,167495,2
+V02250,C0235,E-Transit,2017,Electric,Utilities,26302,9
+V02251,C0045,Super Duty,2021,Hybrid,Government,90140,5
+V02252,C0314,E-Transit,2017,Gasoline,Construction,163907,9
+V02253,C0249,Super Duty,2020,Gasoline,Utilities,78356,6
+V02254,C0499,Super Duty,2019,Electric,Government,54282,7
+V02255,C0031,E-Transit,2022,Electric,Utilities,133451,4
+V02256,C0023,F-150,2022,Gasoline,Government,126347,4
+V02257,C0426,E-Transit,2021,Diesel,Construction,28814,5
+V02258,C0394,E-Transit,2025,Gasoline,Utilities,160161,1
+V02259,C0160,E-Transit,2020,Diesel,Construction,168818,6
+V02260,C0363,F-150,2016,Electric,Utilities,86673,10
+V02261,C0437,Transit,2018,Diesel,Logistics,56940,8
+V02262,C0158,Transit,2024,Hybrid,Construction,91796,2
+V02263,C0039,Super Duty,2016,Electric,Construction,41476,10
+V02264,C0415,Super Duty,2020,Gasoline,Delivery,162355,6
+V02265,C0082,F-150,2017,Gasoline,Construction,137841,9
+V02266,C0356,Maverick,2019,Electric,Government,47278,7
+V02267,C0258,Transit,2016,Electric,Utilities,20634,10
+V02268,C0206,Super Duty,2018,Hybrid,Logistics,131259,8
+V02269,C0077,Transit,2025,Electric,Government,147037,1
+V02270,C0477,F-150,2022,Gasoline,Government,163638,4
+V02271,C0012,F-150,2025,Hybrid,Government,57196,1
+V02272,C0295,Maverick,2018,Gasoline,Government,103679,8
+V02273,C0450,Maverick,2019,Diesel,Logistics,135861,7
+V02274,C0224,F-150,2017,Electric,Delivery,24420,9
+V02275,C0013,Super Duty,2018,Diesel,Construction,161308,8
+V02276,C0046,Transit,2024,Gasoline,Government,11218,2
+V02277,C0155,E-Transit,2018,Diesel,Construction,129283,8
+V02278,C0113,Maverick,2020,Diesel,Construction,69057,6
+V02279,C0233,E-Transit,2017,Gasoline,Government,83609,9
+V02280,C0017,Super Duty,2019,Gasoline,Delivery,147298,7
+V02281,C0360,Maverick,2022,Electric,Construction,128108,4
+V02282,C0223,E-Transit,2022,Diesel,Utilities,15046,4
+V02283,C0354,Super Duty,2018,Hybrid,Construction,122462,8
+V02284,C0188,Transit,2020,Hybrid,Government,114345,6
+V02285,C0448,Super Duty,2016,Gasoline,Logistics,42117,10
+V02286,C0344,Maverick,2025,Gasoline,Construction,134980,1
+V02287,C0365,F-150,2025,Diesel,Delivery,141037,1
+V02288,C0163,Transit,2025,Gasoline,Utilities,22373,1
+V02289,C0496,E-Transit,2016,Hybrid,Utilities,50452,10
+V02290,C0326,Maverick,2020,Electric,Logistics,11654,6
+V02291,C0467,F-150,2025,Electric,Logistics,167352,1
+V02292,C0414,Super Duty,2024,Diesel,Construction,128319,2
+V02293,C0455,F-150,2016,Electric,Government,110646,10
+V02294,C0074,Maverick,2016,Gasoline,Delivery,31583,10
+V02295,C0233,Maverick,2019,Gasoline,Utilities,99242,7
+V02296,C0224,F-150,2019,Gasoline,Logistics,142432,7
+V02297,C0482,Super Duty,2017,Gasoline,Delivery,58968,9
+V02298,C0319,F-150,2024,Diesel,Government,139815,2
+V02299,C0412,Maverick,2024,Electric,Utilities,143231,2
+V02300,C0060,Maverick,2017,Hybrid,Utilities,168223,9
+V02301,C0335,E-Transit,2024,Electric,Government,136590,2
+V02302,C0222,E-Transit,2021,Gasoline,Utilities,21652,5
+V02303,C0037,Transit,2023,Hybrid,Government,118114,3
+V02304,C0477,Maverick,2025,Diesel,Utilities,107489,1
+V02305,C0278,E-Transit,2019,Gasoline,Construction,178420,7
+V02306,C0196,F-150,2017,Gasoline,Government,82001,9
+V02307,C0404,Super Duty,2017,Hybrid,Delivery,129269,9
+V02308,C0352,F-150,2024,Diesel,Construction,81757,2
+V02309,C0484,Super Duty,2016,Hybrid,Delivery,29395,10
+V02310,C0242,E-Transit,2022,Diesel,Utilities,138407,4
+V02311,C0324,Transit,2018,Gasoline,Delivery,106978,8
+V02312,C0219,F-150,2018,Electric,Construction,136572,8
+V02313,C0192,F-150,2017,Gasoline,Government,129541,9
+V02314,C0017,F-150,2025,Electric,Logistics,13083,1
+V02315,C0012,Super Duty,2021,Electric,Delivery,111598,5
+V02316,C0406,E-Transit,2025,Diesel,Logistics,141615,1
+V02317,C0401,F-150,2017,Hybrid,Delivery,101171,9
+V02318,C0394,F-150,2025,Diesel,Delivery,125423,1
+V02319,C0374,Transit,2019,Gasoline,Government,11613,7
+V02320,C0193,Transit,2025,Hybrid,Utilities,115033,1
+V02321,C0022,E-Transit,2024,Electric,Construction,176612,2
+V02322,C0474,E-Transit,2024,Electric,Construction,81202,2
+V02323,C0120,Maverick,2021,Gasoline,Construction,162327,5
+V02324,C0210,Transit,2019,Hybrid,Utilities,90666,7
+V02325,C0306,Maverick,2022,Gasoline,Logistics,27068,4
+V02326,C0270,Super Duty,2016,Gasoline,Construction,54057,10
+V02327,C0192,Maverick,2019,Diesel,Logistics,23946,7
+V02328,C0175,F-150,2020,Gasoline,Utilities,156619,6
+V02329,C0285,Maverick,2023,Hybrid,Utilities,90237,3
+V02330,C0204,E-Transit,2017,Gasoline,Government,10769,9
+V02331,C0164,Super Duty,2020,Hybrid,Construction,160955,6
+V02332,C0251,F-150,2021,Electric,Government,66340,5
+V02333,C0227,Maverick,2020,Gasoline,Construction,84199,6
+V02334,C0436,Super Duty,2024,Hybrid,Utilities,109222,2
+V02335,C0381,Super Duty,2025,Electric,Utilities,171234,1
+V02336,C0460,F-150,2016,Hybrid,Delivery,38434,10
+V02337,C0007,Maverick,2018,Electric,Delivery,27102,8
+V02338,C0029,Super Duty,2017,Diesel,Utilities,26536,9
+V02339,C0395,Super Duty,2018,Gasoline,Utilities,109639,8
+V02340,C0033,Transit,2025,Gasoline,Logistics,55775,1
+V02341,C0134,Super Duty,2024,Electric,Logistics,36147,2
+V02342,C0367,Transit,2024,Diesel,Government,55526,2
+V02343,C0079,Maverick,2025,Hybrid,Delivery,159731,1
+V02344,C0416,Maverick,2017,Diesel,Delivery,109663,9
+V02345,C0435,Maverick,2018,Hybrid,Utilities,117180,8
+V02346,C0459,E-Transit,2019,Hybrid,Utilities,129233,7
+V02347,C0058,Maverick,2024,Gasoline,Government,28088,2
+V02348,C0471,Super Duty,2018,Electric,Delivery,73464,8
+V02349,C0026,F-150,2022,Gasoline,Logistics,110921,4
+V02350,C0482,Transit,2018,Gasoline,Construction,64998,8
+V02351,C0430,E-Transit,2022,Gasoline,Government,45382,4
+V02352,C0226,Maverick,2022,Hybrid,Construction,33184,4
+V02353,C0285,Maverick,2024,Gasoline,Logistics,156171,2
+V02354,C0004,F-150,2017,Hybrid,Logistics,42739,9
+V02355,C0465,F-150,2021,Electric,Construction,132937,5
+V02356,C0099,E-Transit,2024,Hybrid,Government,144461,2
+V02357,C0397,Transit,2017,Hybrid,Construction,22352,9
+V02358,C0489,Maverick,2017,Diesel,Government,131788,9
+V02359,C0039,E-Transit,2020,Gasoline,Government,122843,6
+V02360,C0271,Super Duty,2025,Gasoline,Utilities,157220,1
+V02361,C0375,Super Duty,2025,Gasoline,Delivery,36828,1
+V02362,C0285,E-Transit,2025,Gasoline,Delivery,73040,1
+V02363,C0157,Maverick,2023,Diesel,Logistics,99279,3
+V02364,C0075,E-Transit,2024,Diesel,Utilities,99430,2
+V02365,C0372,Maverick,2017,Diesel,Delivery,176783,9
+V02366,C0288,F-150,2020,Diesel,Government,120957,6
+V02367,C0130,E-Transit,2022,Gasoline,Government,22748,4
+V02368,C0175,Maverick,2021,Hybrid,Construction,93636,5
+V02369,C0462,E-Transit,2021,Electric,Construction,169763,5
+V02370,C0084,E-Transit,2022,Diesel,Government,120158,4
+V02371,C0022,Maverick,2018,Hybrid,Government,15246,8
+V02372,C0459,Maverick,2018,Diesel,Construction,64395,8
+V02373,C0027,Transit,2025,Gasoline,Delivery,168558,1
+V02374,C0195,E-Transit,2024,Gasoline,Logistics,166412,2
+V02375,C0337,Super Duty,2023,Hybrid,Construction,55300,3
+V02376,C0382,E-Transit,2020,Hybrid,Delivery,139158,6
+V02377,C0236,E-Transit,2021,Hybrid,Delivery,19860,5
+V02378,C0440,Maverick,2025,Gasoline,Delivery,22013,1
+V02379,C0092,E-Transit,2016,Gasoline,Utilities,143479,10
+V02380,C0477,E-Transit,2025,Electric,Utilities,38542,1
+V02381,C0021,Super Duty,2016,Hybrid,Delivery,29935,10
+V02382,C0303,Maverick,2019,Electric,Government,54079,7
+V02383,C0464,E-Transit,2017,Diesel,Utilities,39111,9
+V02384,C0357,F-150,2022,Electric,Construction,61550,4
+V02385,C0443,Transit,2017,Diesel,Utilities,81955,9
+V02386,C0084,Super Duty,2025,Diesel,Government,45565,1
+V02387,C0262,E-Transit,2017,Electric,Logistics,24283,9
+V02388,C0147,F-150,2020,Hybrid,Utilities,71470,6
+V02389,C0441,E-Transit,2019,Diesel,Delivery,91916,7
+V02390,C0453,E-Transit,2023,Hybrid,Delivery,84552,3
+V02391,C0387,Maverick,2019,Gasoline,Delivery,43233,7
+V02392,C0257,Maverick,2021,Diesel,Logistics,27695,5
+V02393,C0058,Maverick,2020,Gasoline,Government,131440,6
+V02394,C0380,F-150,2017,Electric,Construction,178806,9
+V02395,C0422,E-Transit,2023,Hybrid,Government,86257,3
+V02396,C0015,Transit,2017,Electric,Logistics,6505,9
+V02397,C0162,Super Duty,2024,Diesel,Delivery,141435,2
+V02398,C0445,Maverick,2024,Gasoline,Government,48614,2
+V02399,C0163,Maverick,2018,Diesel,Construction,6010,8
+V02400,C0320,E-Transit,2019,Electric,Delivery,135560,7
+V02401,C0497,E-Transit,2023,Hybrid,Construction,155933,3
+V02402,C0281,F-150,2024,Hybrid,Utilities,160197,2
+V02403,C0280,F-150,2018,Diesel,Construction,145441,8
+V02404,C0012,Maverick,2020,Diesel,Delivery,74393,6
+V02405,C0274,E-Transit,2023,Gasoline,Utilities,162743,3
+V02406,C0271,Transit,2018,Electric,Delivery,69512,8
+V02407,C0492,Super Duty,2022,Diesel,Delivery,103026,4
+V02408,C0208,E-Transit,2023,Gasoline,Utilities,80656,3
+V02409,C0027,E-Transit,2025,Diesel,Construction,102686,1
+V02410,C0072,F-150,2018,Hybrid,Logistics,20489,8
+V02411,C0060,Super Duty,2017,Gasoline,Logistics,64789,9
+V02412,C0430,Maverick,2025,Gasoline,Logistics,74925,1
+V02413,C0473,E-Transit,2022,Diesel,Logistics,54703,4
+V02414,C0145,Maverick,2024,Electric,Government,81625,2
+V02415,C0093,E-Transit,2016,Hybrid,Logistics,112535,10
+V02416,C0309,Maverick,2018,Electric,Utilities,8051,8
+V02417,C0008,Super Duty,2020,Gasoline,Logistics,174162,6
+V02418,C0079,F-150,2018,Electric,Delivery,33805,8
+V02419,C0027,Super Duty,2016,Gasoline,Logistics,99978,10
+V02420,C0174,Transit,2022,Electric,Construction,49557,4
+V02421,C0050,F-150,2022,Diesel,Utilities,138627,4
+V02422,C0500,Super Duty,2025,Electric,Utilities,55241,1
+V02423,C0199,Transit,2023,Gasoline,Government,132838,3
+V02424,C0387,E-Transit,2020,Hybrid,Delivery,70994,6
+V02425,C0349,E-Transit,2025,Hybrid,Utilities,119005,1
+V02426,C0448,Maverick,2020,Hybrid,Construction,21066,6
+V02427,C0428,F-150,2020,Gasoline,Logistics,140793,6
+V02428,C0181,E-Transit,2016,Electric,Utilities,82982,10
+V02429,C0024,F-150,2025,Hybrid,Construction,11304,1
+V02430,C0316,E-Transit,2020,Hybrid,Logistics,47967,6
+V02431,C0378,Maverick,2021,Hybrid,Government,83763,5
+V02432,C0387,Super Duty,2016,Diesel,Utilities,45462,10
+V02433,C0404,Maverick,2022,Gasoline,Utilities,125356,4
+V02434,C0046,Transit,2016,Gasoline,Construction,76834,10
+V02435,C0015,E-Transit,2017,Gasoline,Delivery,116023,9
+V02436,C0153,Transit,2017,Gasoline,Government,122771,9
+V02437,C0222,Transit,2020,Gasoline,Delivery,80842,6
+V02438,C0206,F-150,2025,Diesel,Utilities,7589,1
+V02439,C0455,E-Transit,2022,Electric,Delivery,130023,4
+V02440,C0273,Transit,2016,Diesel,Logistics,173150,10
+V02441,C0382,Super Duty,2025,Hybrid,Government,59918,1
+V02442,C0236,Transit,2016,Diesel,Delivery,149673,10
+V02443,C0340,Super Duty,2016,Gasoline,Logistics,12711,10
+V02444,C0228,F-150,2021,Diesel,Construction,64430,5
+V02445,C0009,Transit,2017,Gasoline,Delivery,107605,9
+V02446,C0166,Maverick,2016,Diesel,Government,8970,10
+V02447,C0432,F-150,2021,Gasoline,Logistics,74535,5
+V02448,C0444,Super Duty,2017,Hybrid,Delivery,91570,9
+V02449,C0319,F-150,2021,Gasoline,Construction,126315,5
+V02450,C0214,Transit,2025,Diesel,Delivery,172248,1
+V02451,C0117,E-Transit,2023,Hybrid,Logistics,117111,3
+V02452,C0386,E-Transit,2017,Diesel,Delivery,46730,9
+V02453,C0344,Super Duty,2024,Hybrid,Government,149457,2
+V02454,C0072,Super Duty,2023,Electric,Utilities,128252,3
+V02455,C0395,E-Transit,2025,Electric,Logistics,142022,1
+V02456,C0064,Super Duty,2016,Electric,Logistics,159470,10
+V02457,C0205,F-150,2022,Diesel,Logistics,161349,4
+V02458,C0209,Maverick,2025,Diesel,Logistics,162833,1
+V02459,C0072,Maverick,2021,Hybrid,Delivery,68944,5
+V02460,C0277,F-150,2021,Hybrid,Government,167605,5
+V02461,C0274,Maverick,2021,Hybrid,Construction,112437,5
+V02462,C0478,Transit,2021,Hybrid,Government,131794,5
+V02463,C0320,F-150,2025,Gasoline,Logistics,77123,1
+V02464,C0338,Super Duty,2022,Electric,Delivery,27880,4
+V02465,C0366,F-150,2018,Gasoline,Delivery,177825,8
+V02466,C0495,E-Transit,2021,Gasoline,Logistics,92829,5
+V02467,C0095,Super Duty,2018,Gasoline,Delivery,137633,8
+V02468,C0166,E-Transit,2022,Gasoline,Logistics,58205,4
+V02469,C0032,Super Duty,2022,Electric,Government,111948,4
+V02470,C0011,Maverick,2023,Gasoline,Utilities,64810,3
+V02471,C0301,F-150,2017,Hybrid,Delivery,118089,9
+V02472,C0217,Transit,2024,Diesel,Logistics,69482,2
+V02473,C0289,Super Duty,2020,Hybrid,Logistics,74192,6
+V02474,C0102,Super Duty,2024,Diesel,Delivery,92154,2
+V02475,C0425,E-Transit,2025,Hybrid,Construction,91066,1
+V02476,C0392,Maverick,2020,Hybrid,Logistics,164402,6
+V02477,C0267,E-Transit,2022,Diesel,Delivery,152211,4
+V02478,C0214,E-Transit,2024,Electric,Logistics,133514,2
+V02479,C0179,Maverick,2019,Gasoline,Construction,37977,7
+V02480,C0088,Transit,2017,Hybrid,Utilities,9983,9
+V02481,C0041,E-Transit,2024,Electric,Construction,175981,2
+V02482,C0401,E-Transit,2017,Gasoline,Government,54029,9
+V02483,C0076,Super Duty,2018,Electric,Delivery,157401,8
+V02484,C0377,Maverick,2025,Electric,Construction,127668,1
+V02485,C0046,F-150,2017,Gasoline,Utilities,172806,9
+V02486,C0160,Transit,2018,Hybrid,Logistics,47837,8
+V02487,C0463,Transit,2021,Electric,Delivery,122512,5
+V02488,C0080,Maverick,2018,Hybrid,Construction,71786,8
+V02489,C0310,Super Duty,2025,Hybrid,Utilities,9758,1
+V02490,C0086,Super Duty,2023,Hybrid,Construction,107667,3
+V02491,C0092,Maverick,2021,Gasoline,Government,113119,5
+V02492,C0148,Super Duty,2022,Diesel,Delivery,105157,4
+V02493,C0161,Transit,2016,Hybrid,Logistics,87673,10
+V02494,C0202,Transit,2018,Diesel,Utilities,102639,8
+V02495,C0424,F-150,2018,Diesel,Construction,157904,8
+V02496,C0416,Maverick,2017,Electric,Delivery,137940,9
+V02497,C0242,E-Transit,2022,Hybrid,Construction,119869,4
+V02498,C0353,E-Transit,2024,Hybrid,Delivery,177934,2
+V02499,C0002,F-150,2019,Hybrid,Government,24728,7
+V02500,C0225,F-150,2020,Diesel,Construction,108542,6
+V02501,C0289,Super Duty,2018,Gasoline,Government,98565,8
+V02502,C0233,F-150,2024,Diesel,Utilities,175929,2
+V02503,C0461,F-150,2019,Hybrid,Government,164255,7
+V02504,C0414,E-Transit,2020,Hybrid,Delivery,155012,6
+V02505,C0417,Super Duty,2016,Hybrid,Utilities,130019,10
+V02506,C0077,F-150,2017,Diesel,Construction,141352,9
+V02507,C0116,F-150,2024,Hybrid,Construction,107548,2
+V02508,C0154,Super Duty,2017,Electric,Delivery,138236,9
+V02509,C0406,Maverick,2020,Hybrid,Logistics,126289,6
+V02510,C0103,Super Duty,2023,Gasoline,Logistics,134068,3
+V02511,C0194,E-Transit,2018,Electric,Construction,84624,8
+V02512,C0166,Maverick,2021,Hybrid,Delivery,154477,5
+V02513,C0359,Transit,2019,Electric,Logistics,7821,7
+V02514,C0090,Super Duty,2022,Hybrid,Government,60090,4
+V02515,C0174,E-Transit,2025,Gasoline,Construction,158588,1
+V02516,C0122,Maverick,2018,Hybrid,Government,146545,8
+V02517,C0498,Super Duty,2021,Electric,Delivery,51454,5
+V02518,C0143,F-150,2025,Gasoline,Government,178602,1
+V02519,C0482,Super Duty,2024,Diesel,Logistics,109273,2
+V02520,C0106,Transit,2025,Gasoline,Logistics,109472,1
+V02521,C0375,Super Duty,2016,Gasoline,Utilities,160870,10
+V02522,C0428,Maverick,2018,Gasoline,Construction,136935,8
+V02523,C0305,Maverick,2017,Electric,Delivery,21148,9
+V02524,C0360,Super Duty,2023,Gasoline,Construction,91545,3
+V02525,C0459,Maverick,2022,Hybrid,Government,59459,4
+V02526,C0317,F-150,2017,Gasoline,Delivery,89224,9
+V02527,C0451,Super Duty,2021,Gasoline,Delivery,71189,5
+V02528,C0123,F-150,2018,Hybrid,Logistics,144201,8
+V02529,C0390,F-150,2023,Hybrid,Government,96954,3
+V02530,C0009,E-Transit,2025,Diesel,Logistics,28118,1
+V02531,C0262,Super Duty,2018,Gasoline,Logistics,136515,8
+V02532,C0073,Maverick,2025,Electric,Utilities,163113,1
+V02533,C0359,F-150,2024,Gasoline,Logistics,94379,2
+V02534,C0223,E-Transit,2016,Gasoline,Construction,26053,10
+V02535,C0416,Super Duty,2020,Hybrid,Delivery,101384,6
+V02536,C0041,Super Duty,2018,Diesel,Logistics,173276,8
+V02537,C0370,Transit,2021,Gasoline,Construction,122545,5
+V02538,C0204,Transit,2025,Electric,Government,178312,1
+V02539,C0264,F-150,2017,Gasoline,Delivery,131675,9
+V02540,C0328,Transit,2024,Electric,Government,98749,2
+V02541,C0178,F-150,2021,Hybrid,Construction,144363,5
+V02542,C0348,Maverick,2022,Diesel,Government,21285,4
+V02543,C0318,F-150,2020,Gasoline,Government,66589,6
+V02544,C0084,Transit,2024,Diesel,Government,18944,2
+V02545,C0318,Maverick,2016,Gasoline,Logistics,106041,10
+V02546,C0111,Transit,2020,Electric,Logistics,93876,6
+V02547,C0251,F-150,2025,Diesel,Logistics,100561,1
+V02548,C0383,E-Transit,2021,Gasoline,Delivery,59391,5
+V02549,C0007,Super Duty,2022,Hybrid,Construction,6607,4
+V02550,C0459,Transit,2019,Electric,Logistics,7953,7
+V02551,C0084,F-150,2016,Diesel,Government,49941,10
+V02552,C0208,Maverick,2023,Gasoline,Government,66683,3
+V02553,C0388,Transit,2025,Diesel,Government,114588,1
+V02554,C0390,Transit,2019,Gasoline,Government,127080,7
+V02555,C0314,Super Duty,2018,Electric,Utilities,16154,8
+V02556,C0022,F-150,2022,Hybrid,Delivery,130542,4
+V02557,C0410,E-Transit,2017,Electric,Construction,145119,9
+V02558,C0383,Maverick,2023,Diesel,Construction,93529,3
+V02559,C0003,F-150,2021,Diesel,Logistics,19323,5
+V02560,C0127,Maverick,2022,Gasoline,Utilities,42693,4
+V02561,C0297,Transit,2020,Electric,Construction,94170,6
+V02562,C0188,Super Duty,2024,Gasoline,Delivery,162364,2
+V02563,C0362,Super Duty,2020,Electric,Government,50111,6
+V02564,C0014,E-Transit,2020,Diesel,Logistics,44491,6
+V02565,C0459,Super Duty,2018,Gasoline,Delivery,54336,8
+V02566,C0466,Transit,2016,Gasoline,Construction,21905,10
+V02567,C0012,E-Transit,2017,Electric,Utilities,35273,9
+V02568,C0087,F-150,2023,Hybrid,Logistics,130191,3
+V02569,C0012,Super Duty,2016,Electric,Construction,120936,10
+V02570,C0397,E-Transit,2022,Hybrid,Logistics,162306,4
+V02571,C0025,Transit,2020,Electric,Construction,71538,6
+V02572,C0301,Maverick,2018,Diesel,Government,109570,8
+V02573,C0243,Maverick,2022,Gasoline,Utilities,168645,4
+V02574,C0122,Transit,2024,Electric,Government,98339,2
+V02575,C0147,Transit,2017,Diesel,Construction,126132,9
+V02576,C0055,Maverick,2023,Electric,Delivery,133993,3
+V02577,C0238,E-Transit,2024,Gasoline,Government,16330,2
+V02578,C0356,Maverick,2018,Electric,Delivery,77553,8
+V02579,C0173,Transit,2017,Hybrid,Construction,177425,9
+V02580,C0392,Super Duty,2022,Gasoline,Utilities,152083,4
+V02581,C0221,F-150,2020,Hybrid,Delivery,88537,6
+V02582,C0119,Super Duty,2020,Diesel,Construction,65985,6
+V02583,C0309,Super Duty,2025,Diesel,Delivery,22044,1
+V02584,C0183,Transit,2020,Electric,Government,174364,6
+V02585,C0288,Maverick,2019,Hybrid,Construction,127304,7
+V02586,C0307,E-Transit,2020,Hybrid,Government,141322,6
+V02587,C0300,Super Duty,2019,Gasoline,Logistics,28289,7
+V02588,C0082,Maverick,2021,Hybrid,Construction,38087,5
+V02589,C0454,E-Transit,2019,Hybrid,Delivery,80952,7
+V02590,C0402,Super Duty,2017,Gasoline,Logistics,41368,9
+V02591,C0211,E-Transit,2024,Gasoline,Government,125648,2
+V02592,C0150,Maverick,2017,Hybrid,Government,75815,9
+V02593,C0037,F-150,2024,Electric,Delivery,95693,2
+V02594,C0352,Maverick,2025,Gasoline,Logistics,63900,1
+V02595,C0312,Transit,2021,Gasoline,Utilities,20494,5
+V02596,C0361,E-Transit,2024,Hybrid,Delivery,121486,2
+V02597,C0059,F-150,2024,Hybrid,Government,161405,2
+V02598,C0131,E-Transit,2018,Gasoline,Construction,38050,8
+V02599,C0412,E-Transit,2016,Hybrid,Logistics,102799,10
+V02600,C0202,Super Duty,2016,Gasoline,Utilities,136016,10
+V02601,C0243,Transit,2018,Electric,Construction,93257,8
+V02602,C0035,E-Transit,2020,Electric,Logistics,53070,6
+V02603,C0445,Maverick,2018,Gasoline,Delivery,10166,8
+V02604,C0093,Maverick,2024,Gasoline,Delivery,143193,2
+V02605,C0438,Super Duty,2024,Diesel,Logistics,150749,2
+V02606,C0447,Transit,2018,Diesel,Utilities,92409,8
+V02607,C0207,Transit,2018,Hybrid,Logistics,42664,8
+V02608,C0353,Maverick,2020,Hybrid,Construction,134926,6
+V02609,C0391,F-150,2017,Gasoline,Construction,6293,9
+V02610,C0332,Super Duty,2021,Gasoline,Delivery,158515,5
+V02611,C0305,Super Duty,2022,Diesel,Logistics,54212,4
+V02612,C0350,Maverick,2024,Diesel,Delivery,80276,2
+V02613,C0213,Maverick,2021,Gasoline,Utilities,17559,5
+V02614,C0159,F-150,2018,Electric,Construction,70231,8
+V02615,C0442,F-150,2020,Electric,Government,113277,6
+V02616,C0445,Transit,2019,Hybrid,Government,175116,7
+V02617,C0024,Super Duty,2020,Gasoline,Logistics,26747,6
+V02618,C0404,Super Duty,2023,Gasoline,Logistics,166201,3
+V02619,C0293,Maverick,2023,Hybrid,Government,5037,3
+V02620,C0004,Transit,2021,Diesel,Logistics,109294,5
+V02621,C0220,Super Duty,2016,Diesel,Construction,102847,10
+V02622,C0364,Transit,2023,Electric,Utilities,108742,3
+V02623,C0382,Transit,2023,Gasoline,Utilities,53503,3
+V02624,C0020,Maverick,2017,Diesel,Delivery,33207,9
+V02625,C0444,Transit,2019,Electric,Construction,38241,7
+V02626,C0152,F-150,2017,Electric,Logistics,136130,9
+V02627,C0050,F-150,2019,Electric,Logistics,101171,7
+V02628,C0177,E-Transit,2025,Diesel,Delivery,150906,1
+V02629,C0435,Maverick,2022,Diesel,Delivery,122302,4
+V02630,C0096,E-Transit,2024,Gasoline,Logistics,163262,2
+V02631,C0105,F-150,2023,Gasoline,Logistics,77832,3
+V02632,C0420,E-Transit,2024,Electric,Construction,26383,2
+V02633,C0250,Maverick,2023,Electric,Delivery,129291,3
+V02634,C0117,Maverick,2017,Diesel,Construction,160732,9
+V02635,C0354,Transit,2022,Diesel,Logistics,7674,4
+V02636,C0228,Super Duty,2017,Gasoline,Government,119100,9
+V02637,C0066,Transit,2017,Gasoline,Government,114369,9
+V02638,C0335,Maverick,2019,Hybrid,Logistics,27820,7
+V02639,C0418,F-150,2016,Gasoline,Delivery,161738,10
+V02640,C0420,F-150,2020,Diesel,Government,48794,6
+V02641,C0262,Transit,2021,Electric,Delivery,138148,5
+V02642,C0295,Maverick,2024,Hybrid,Government,133544,2
+V02643,C0426,F-150,2025,Gasoline,Delivery,42555,1
+V02644,C0243,Maverick,2023,Gasoline,Government,37406,3
+V02645,C0371,F-150,2017,Diesel,Delivery,45262,9
+V02646,C0186,Maverick,2016,Hybrid,Construction,96320,10
+V02647,C0246,E-Transit,2017,Gasoline,Delivery,159288,9
+V02648,C0125,Maverick,2022,Electric,Construction,35284,4
+V02649,C0268,Maverick,2019,Diesel,Construction,156243,7
+V02650,C0131,Transit,2025,Hybrid,Logistics,95627,1
+V02651,C0237,E-Transit,2020,Gasoline,Construction,150405,6
+V02652,C0018,Super Duty,2022,Gasoline,Utilities,166607,4
+V02653,C0040,Transit,2018,Hybrid,Construction,94023,8
+V02654,C0021,Super Duty,2025,Diesel,Delivery,169772,1
+V02655,C0399,F-150,2017,Hybrid,Construction,46516,9
+V02656,C0225,Super Duty,2022,Hybrid,Delivery,20577,4
+V02657,C0355,Maverick,2020,Diesel,Delivery,20015,6
+V02658,C0282,Super Duty,2016,Gasoline,Utilities,96104,10
+V02659,C0008,Transit,2016,Electric,Construction,119412,10
+V02660,C0100,Transit,2024,Diesel,Construction,96740,2
+V02661,C0240,Super Duty,2020,Electric,Government,157308,6
+V02662,C0478,Transit,2016,Gasoline,Government,71640,10
+V02663,C0087,Transit,2022,Hybrid,Logistics,88190,4
+V02664,C0298,Super Duty,2024,Electric,Delivery,134516,2
+V02665,C0428,E-Transit,2016,Gasoline,Utilities,178441,10
+V02666,C0014,E-Transit,2025,Gasoline,Government,139718,1
+V02667,C0334,F-150,2019,Hybrid,Construction,92007,7
+V02668,C0002,Transit,2018,Hybrid,Logistics,161978,8
+V02669,C0375,Super Duty,2020,Gasoline,Utilities,52728,6
+V02670,C0293,Transit,2022,Gasoline,Construction,19878,4
+V02671,C0325,Maverick,2023,Electric,Construction,133925,3
+V02672,C0422,Transit,2017,Gasoline,Delivery,14145,9
+V02673,C0493,Transit,2022,Gasoline,Delivery,93578,4
+V02674,C0041,E-Transit,2016,Electric,Government,23226,10
+V02675,C0318,Super Duty,2022,Diesel,Government,7802,4
+V02676,C0316,Transit,2023,Electric,Construction,29119,3
+V02677,C0381,E-Transit,2017,Electric,Construction,68560,9
+V02678,C0111,F-150,2024,Hybrid,Government,62353,2
+V02679,C0014,E-Transit,2016,Electric,Government,128001,10
+V02680,C0231,E-Transit,2021,Gasoline,Construction,76641,5
+V02681,C0473,E-Transit,2016,Gasoline,Utilities,56712,10
+V02682,C0084,Transit,2018,Gasoline,Construction,135085,8
+V02683,C0130,Transit,2021,Diesel,Utilities,73285,5
+V02684,C0231,F-150,2018,Gasoline,Utilities,120278,8
+V02685,C0326,Maverick,2023,Diesel,Construction,179021,3
+V02686,C0145,Maverick,2020,Gasoline,Logistics,170201,6
+V02687,C0379,Maverick,2017,Electric,Government,29512,9
+V02688,C0345,F-150,2019,Hybrid,Delivery,107077,7
+V02689,C0028,Maverick,2024,Gasoline,Construction,7064,2
+V02690,C0066,Maverick,2019,Diesel,Utilities,100614,7
+V02691,C0163,E-Transit,2025,Diesel,Construction,122639,1
+V02692,C0229,Transit,2025,Hybrid,Government,35011,1
+V02693,C0261,Transit,2023,Gasoline,Utilities,76152,3
+V02694,C0449,E-Transit,2020,Electric,Delivery,15960,6
+V02695,C0424,E-Transit,2025,Gasoline,Delivery,126789,1
+V02696,C0460,E-Transit,2016,Gasoline,Delivery,63920,10
+V02697,C0440,Transit,2022,Hybrid,Logistics,26387,4
+V02698,C0164,Maverick,2018,Gasoline,Utilities,151396,8
+V02699,C0301,E-Transit,2025,Electric,Utilities,68960,1
+V02700,C0407,F-150,2023,Diesel,Logistics,127994,3
+V02701,C0303,E-Transit,2018,Hybrid,Utilities,37628,8
+V02702,C0287,Super Duty,2016,Electric,Logistics,126269,10
+V02703,C0395,E-Transit,2020,Diesel,Construction,52452,6
+V02704,C0010,Transit,2017,Hybrid,Government,46098,9
+V02705,C0195,E-Transit,2019,Hybrid,Delivery,175307,7
+V02706,C0118,Super Duty,2016,Diesel,Logistics,91861,10
+V02707,C0270,F-150,2024,Diesel,Logistics,32949,2
+V02708,C0080,Maverick,2021,Electric,Logistics,158893,5
+V02709,C0458,E-Transit,2023,Gasoline,Construction,158104,3
+V02710,C0093,Super Duty,2019,Gasoline,Logistics,78537,7
+V02711,C0266,Super Duty,2024,Gasoline,Government,151375,2
+V02712,C0332,F-150,2017,Gasoline,Government,121003,9
+V02713,C0350,Transit,2024,Gasoline,Delivery,148375,2
+V02714,C0361,E-Transit,2020,Electric,Construction,55701,6
+V02715,C0257,Super Duty,2021,Hybrid,Government,55511,5
+V02716,C0133,F-150,2018,Electric,Utilities,85664,8
+V02717,C0276,Maverick,2019,Electric,Utilities,154352,7
+V02718,C0264,Super Duty,2021,Electric,Utilities,44427,5
+V02719,C0171,F-150,2022,Hybrid,Logistics,102180,4
+V02720,C0460,Transit,2016,Electric,Logistics,108550,10
+V02721,C0001,Transit,2022,Electric,Utilities,143039,4
+V02722,C0313,Super Duty,2016,Hybrid,Delivery,142733,10
+V02723,C0064,Super Duty,2020,Electric,Delivery,82952,6
+V02724,C0374,E-Transit,2021,Gasoline,Logistics,71046,5
+V02725,C0468,F-150,2017,Diesel,Utilities,111918,9
+V02726,C0284,Super Duty,2025,Electric,Delivery,40200,1
+V02727,C0121,E-Transit,2024,Diesel,Logistics,72442,2
+V02728,C0107,E-Transit,2025,Electric,Utilities,96070,1
+V02729,C0421,Super Duty,2021,Electric,Construction,63168,5
+V02730,C0175,Transit,2022,Gasoline,Utilities,53322,4
+V02731,C0485,F-150,2025,Hybrid,Utilities,173768,1
+V02732,C0204,F-150,2023,Diesel,Government,75246,3
+V02733,C0165,Transit,2025,Hybrid,Government,174964,1
+V02734,C0305,Super Duty,2016,Gasoline,Construction,20583,10
+V02735,C0497,F-150,2023,Gasoline,Construction,87720,3
+V02736,C0120,Super Duty,2019,Diesel,Utilities,160925,7
+V02737,C0044,Super Duty,2025,Hybrid,Delivery,142181,1
+V02738,C0312,E-Transit,2023,Gasoline,Construction,64757,3
+V02739,C0156,Transit,2021,Electric,Utilities,11659,5
+V02740,C0367,Super Duty,2024,Electric,Logistics,6238,2
+V02741,C0207,Maverick,2019,Electric,Government,126270,7
+V02742,C0390,Transit,2017,Hybrid,Delivery,124211,9
+V02743,C0108,F-150,2017,Electric,Utilities,20064,9
+V02744,C0251,E-Transit,2020,Electric,Logistics,167187,6
+V02745,C0445,F-150,2025,Gasoline,Government,168024,1
+V02746,C0404,F-150,2024,Gasoline,Logistics,141692,2
+V02747,C0370,Transit,2018,Electric,Utilities,104790,8
+V02748,C0334,F-150,2023,Electric,Construction,107985,3
+V02749,C0130,Super Duty,2019,Gasoline,Government,49258,7
+V02750,C0457,F-150,2021,Diesel,Logistics,140542,5
+V02751,C0293,E-Transit,2025,Hybrid,Construction,158075,1
+V02752,C0020,E-Transit,2021,Hybrid,Delivery,163643,5
+V02753,C0282,Maverick,2018,Gasoline,Utilities,29668,8
+V02754,C0285,E-Transit,2020,Hybrid,Utilities,82259,6
+V02755,C0001,F-150,2018,Gasoline,Government,117192,8
+V02756,C0119,E-Transit,2016,Gasoline,Logistics,101576,10
+V02757,C0035,Transit,2022,Gasoline,Delivery,110481,4
+V02758,C0198,E-Transit,2019,Gasoline,Government,116505,7
+V02759,C0485,Super Duty,2022,Diesel,Government,168118,4
+V02760,C0245,Transit,2018,Electric,Logistics,10397,8
+V02761,C0059,Maverick,2020,Electric,Delivery,104925,6
+V02762,C0325,Super Duty,2020,Diesel,Logistics,88481,6
+V02763,C0161,F-150,2017,Hybrid,Utilities,158305,9
+V02764,C0497,F-150,2025,Hybrid,Construction,65308,1
+V02765,C0179,F-150,2017,Electric,Utilities,6130,9
+V02766,C0206,Super Duty,2019,Hybrid,Utilities,129293,7
+V02767,C0012,Super Duty,2019,Electric,Government,19071,7
+V02768,C0490,Super Duty,2019,Electric,Utilities,90517,7
+V02769,C0276,Transit,2021,Diesel,Delivery,115240,5
+V02770,C0181,Transit,2017,Hybrid,Utilities,7118,9
+V02771,C0242,F-150,2021,Diesel,Delivery,136735,5
+V02772,C0216,E-Transit,2022,Electric,Logistics,67408,4
+V02773,C0251,F-150,2025,Electric,Government,56786,1
+V02774,C0299,Maverick,2018,Electric,Delivery,86271,8
+V02775,C0126,Transit,2023,Gasoline,Utilities,24158,3
+V02776,C0482,Super Duty,2017,Gasoline,Government,36087,9
+V02777,C0217,Transit,2023,Gasoline,Government,93114,3
+V02778,C0306,Super Duty,2020,Diesel,Delivery,24874,6
+V02779,C0285,Maverick,2017,Electric,Delivery,88443,9
+V02780,C0185,Maverick,2022,Hybrid,Construction,45821,4
+V02781,C0039,Transit,2017,Diesel,Construction,120675,9
+V02782,C0223,Super Duty,2021,Diesel,Government,65582,5
+V02783,C0184,Maverick,2025,Diesel,Construction,127603,1
+V02784,C0495,F-150,2018,Hybrid,Utilities,158859,8
+V02785,C0427,F-150,2024,Electric,Logistics,157777,2
+V02786,C0178,Super Duty,2018,Gasoline,Government,74381,8
+V02787,C0407,Transit,2018,Electric,Logistics,116800,8
+V02788,C0428,Maverick,2020,Electric,Construction,135805,6
+V02789,C0294,Transit,2022,Diesel,Delivery,87018,4
+V02790,C0340,F-150,2023,Diesel,Government,105592,3
+V02791,C0151,Maverick,2022,Diesel,Construction,96626,4
+V02792,C0384,Transit,2024,Gasoline,Utilities,91217,2
+V02793,C0126,E-Transit,2020,Gasoline,Government,168324,6
+V02794,C0301,Super Duty,2025,Gasoline,Government,77799,1
+V02795,C0308,Super Duty,2018,Electric,Delivery,67185,8
+V02796,C0336,E-Transit,2021,Diesel,Government,46538,5
+V02797,C0434,F-150,2020,Hybrid,Delivery,25343,6
+V02798,C0234,Maverick,2019,Electric,Construction,177304,7
+V02799,C0380,Super Duty,2017,Gasoline,Utilities,125026,9
+V02800,C0375,E-Transit,2022,Hybrid,Utilities,58106,4
+V02801,C0008,E-Transit,2020,Hybrid,Government,119322,6
+V02802,C0498,F-150,2019,Diesel,Government,86227,7
+V02803,C0341,F-150,2023,Hybrid,Construction,161100,3
+V02804,C0129,Transit,2024,Gasoline,Delivery,47135,2
+V02805,C0264,Super Duty,2024,Diesel,Utilities,167138,2
+V02806,C0157,Transit,2018,Hybrid,Delivery,124599,8
+V02807,C0352,E-Transit,2018,Diesel,Construction,88470,8
+V02808,C0358,Maverick,2020,Hybrid,Utilities,25910,6
+V02809,C0005,Maverick,2020,Electric,Utilities,143213,6
+V02810,C0495,F-150,2025,Electric,Logistics,50950,1
+V02811,C0086,Maverick,2017,Gasoline,Construction,21225,9
+V02812,C0175,Maverick,2016,Electric,Construction,37959,10
+V02813,C0290,Maverick,2023,Electric,Logistics,54192,3
+V02814,C0193,E-Transit,2018,Electric,Delivery,84711,8
+V02815,C0311,Maverick,2016,Hybrid,Logistics,146123,10
+V02816,C0119,Maverick,2016,Hybrid,Construction,8449,10
+V02817,C0218,Maverick,2017,Diesel,Delivery,177167,9
+V02818,C0427,Transit,2021,Hybrid,Utilities,109213,5
+V02819,C0458,E-Transit,2021,Electric,Logistics,165262,5
+V02820,C0414,F-150,2018,Hybrid,Delivery,105245,8
+V02821,C0114,Transit,2019,Gasoline,Delivery,102069,7
+V02822,C0466,Super Duty,2017,Diesel,Delivery,162213,9
+V02823,C0145,E-Transit,2017,Diesel,Logistics,28908,9
+V02824,C0026,E-Transit,2022,Hybrid,Utilities,109847,4
+V02825,C0136,Super Duty,2016,Electric,Delivery,125910,10
+V02826,C0303,Super Duty,2022,Diesel,Logistics,168394,4
+V02827,C0232,Super Duty,2016,Gasoline,Construction,19012,10
+V02828,C0369,F-150,2021,Gasoline,Logistics,170961,5
+V02829,C0076,Maverick,2018,Diesel,Logistics,22412,8
+V02830,C0475,E-Transit,2023,Electric,Logistics,115030,3
+V02831,C0328,Maverick,2021,Electric,Delivery,29657,5
+V02832,C0345,Maverick,2017,Hybrid,Logistics,10656,9
+V02833,C0302,Super Duty,2023,Hybrid,Construction,145039,3
+V02834,C0452,F-150,2020,Diesel,Delivery,151836,6
+V02835,C0289,Transit,2023,Hybrid,Construction,20873,3
+V02836,C0001,F-150,2023,Hybrid,Government,99485,3
+V02837,C0147,Maverick,2021,Hybrid,Logistics,114383,5
+V02838,C0287,F-150,2017,Gasoline,Delivery,6607,9
+V02839,C0464,Super Duty,2023,Hybrid,Delivery,155595,3
+V02840,C0142,Transit,2021,Diesel,Logistics,53447,5
+V02841,C0053,Super Duty,2021,Electric,Utilities,54757,5
+V02842,C0304,Transit,2023,Hybrid,Utilities,74201,3
+V02843,C0069,Maverick,2016,Electric,Construction,133765,10
+V02844,C0361,Transit,2017,Hybrid,Logistics,10462,9
+V02845,C0090,Transit,2024,Diesel,Logistics,121832,2
+V02846,C0446,Transit,2023,Gasoline,Government,167867,3
+V02847,C0220,F-150,2022,Diesel,Utilities,53465,4
+V02848,C0450,F-150,2022,Gasoline,Utilities,95027,4
+V02849,C0498,Maverick,2020,Hybrid,Logistics,55528,6
+V02850,C0192,Transit,2017,Hybrid,Construction,41230,9
+V02851,C0454,E-Transit,2021,Gasoline,Logistics,53242,5
+V02852,C0063,Maverick,2025,Diesel,Construction,119688,1
+V02853,C0073,Transit,2018,Diesel,Utilities,6783,8
+V02854,C0161,Transit,2019,Gasoline,Government,33390,7
+V02855,C0169,F-150,2025,Hybrid,Delivery,144489,1
+V02856,C0089,Maverick,2017,Gasoline,Utilities,77102,9
+V02857,C0176,Transit,2017,Hybrid,Construction,22426,9
+V02858,C0269,Transit,2023,Gasoline,Logistics,35750,3
+V02859,C0073,Maverick,2023,Hybrid,Utilities,63188,3
+V02860,C0245,E-Transit,2025,Gasoline,Government,15872,1
+V02861,C0077,Maverick,2021,Electric,Construction,99231,5
+V02862,C0159,Maverick,2020,Hybrid,Logistics,134860,6
+V02863,C0489,E-Transit,2023,Diesel,Delivery,71770,3
+V02864,C0459,Maverick,2019,Gasoline,Construction,129158,7
+V02865,C0324,Transit,2019,Diesel,Logistics,88514,7
+V02866,C0098,Maverick,2020,Gasoline,Delivery,97663,6
+V02867,C0381,E-Transit,2016,Diesel,Logistics,170792,10
+V02868,C0102,Super Duty,2016,Diesel,Delivery,154151,10
+V02869,C0494,Maverick,2017,Gasoline,Delivery,153410,9
+V02870,C0132,F-150,2023,Gasoline,Delivery,139363,3
+V02871,C0102,Transit,2022,Diesel,Logistics,117808,4
+V02872,C0019,Transit,2025,Diesel,Delivery,115091,1
+V02873,C0454,F-150,2024,Diesel,Construction,104272,2
+V02874,C0482,F-150,2020,Hybrid,Government,54393,6
+V02875,C0082,Maverick,2017,Hybrid,Government,98558,9
+V02876,C0397,F-150,2022,Electric,Delivery,74770,4
+V02877,C0489,Super Duty,2023,Hybrid,Government,31720,3
+V02878,C0279,E-Transit,2022,Hybrid,Government,18368,4
+V02879,C0339,F-150,2022,Gasoline,Delivery,52969,4
+V02880,C0365,F-150,2020,Electric,Delivery,53838,6
+V02881,C0331,Super Duty,2017,Electric,Construction,13734,9
+V02882,C0129,Transit,2021,Hybrid,Utilities,112187,5
+V02883,C0344,Transit,2019,Gasoline,Logistics,104329,7
+V02884,C0310,Maverick,2025,Gasoline,Delivery,148269,1
+V02885,C0455,Super Duty,2017,Electric,Delivery,73895,9
+V02886,C0089,E-Transit,2024,Gasoline,Government,125424,2
+V02887,C0213,E-Transit,2022,Diesel,Construction,106255,4
+V02888,C0143,Super Duty,2021,Hybrid,Government,63073,5
+V02889,C0065,E-Transit,2020,Diesel,Delivery,20624,6
+V02890,C0076,Transit,2018,Electric,Delivery,29315,8
+V02891,C0199,E-Transit,2025,Electric,Government,22422,1
+V02892,C0143,E-Transit,2025,Gasoline,Delivery,175209,1
+V02893,C0405,Super Duty,2019,Gasoline,Utilities,77663,7
+V02894,C0403,Super Duty,2018,Electric,Logistics,106216,8
+V02895,C0316,E-Transit,2023,Electric,Logistics,37743,3
+V02896,C0093,F-150,2018,Diesel,Logistics,151708,8
+V02897,C0473,Super Duty,2022,Diesel,Utilities,15108,4
+V02898,C0417,Maverick,2022,Gasoline,Delivery,41180,4
+V02899,C0305,Maverick,2022,Diesel,Government,23883,4
+V02900,C0224,Transit,2022,Gasoline,Construction,49400,4
+V02901,C0497,E-Transit,2017,Gasoline,Delivery,52951,9
+V02902,C0291,F-150,2025,Hybrid,Utilities,143232,1
+V02903,C0428,Transit,2018,Gasoline,Utilities,60262,8
+V02904,C0102,E-Transit,2025,Diesel,Logistics,156001,1
+V02905,C0474,Super Duty,2024,Electric,Delivery,88133,2
+V02906,C0267,Maverick,2018,Electric,Logistics,147195,8
+V02907,C0355,F-150,2017,Diesel,Construction,120106,9
+V02908,C0456,Maverick,2024,Electric,Logistics,164429,2
+V02909,C0110,Super Duty,2025,Gasoline,Construction,75496,1
+V02910,C0462,E-Transit,2024,Electric,Utilities,169628,2
+V02911,C0330,Super Duty,2019,Diesel,Logistics,66934,7
+V02912,C0450,Super Duty,2024,Electric,Logistics,83886,2
+V02913,C0430,Maverick,2018,Gasoline,Government,35881,8
+V02914,C0265,F-150,2022,Gasoline,Utilities,23409,4
+V02915,C0003,Super Duty,2022,Diesel,Government,103171,4
+V02916,C0085,Maverick,2023,Diesel,Construction,166729,3
+V02917,C0282,F-150,2025,Diesel,Construction,53951,1
+V02918,C0328,E-Transit,2019,Hybrid,Utilities,13752,7
+V02919,C0304,E-Transit,2018,Hybrid,Construction,122339,8
+V02920,C0450,Transit,2018,Gasoline,Utilities,149512,8
+V02921,C0454,Maverick,2020,Hybrid,Construction,49864,6
+V02922,C0412,F-150,2016,Hybrid,Delivery,77035,10
+V02923,C0117,Super Duty,2025,Electric,Logistics,91675,1
+V02924,C0221,E-Transit,2018,Hybrid,Delivery,27343,8
+V02925,C0154,F-150,2021,Electric,Utilities,24673,5
+V02926,C0153,Maverick,2018,Diesel,Utilities,100024,8
+V02927,C0012,Transit,2020,Electric,Delivery,31520,6
+V02928,C0133,E-Transit,2024,Electric,Logistics,20784,2
+V02929,C0482,F-150,2017,Diesel,Logistics,122446,9
+V02930,C0304,F-150,2017,Diesel,Government,43079,9
+V02931,C0293,F-150,2021,Gasoline,Construction,49220,5
+V02932,C0463,Maverick,2021,Gasoline,Government,156563,5
+V02933,C0300,Maverick,2023,Gasoline,Logistics,117878,3
+V02934,C0228,Maverick,2017,Gasoline,Delivery,121583,9
+V02935,C0271,Super Duty,2024,Electric,Construction,53720,2
+V02936,C0043,F-150,2017,Electric,Delivery,19718,9
+V02937,C0432,E-Transit,2016,Gasoline,Government,171669,10
+V02938,C0343,Maverick,2025,Hybrid,Utilities,66217,1
+V02939,C0326,Maverick,2017,Gasoline,Delivery,105668,9
+V02940,C0302,F-150,2022,Hybrid,Government,162904,4
+V02941,C0498,Maverick,2023,Diesel,Government,148936,3
+V02942,C0364,Super Duty,2020,Electric,Government,93378,6
+V02943,C0379,Super Duty,2021,Electric,Utilities,13177,5
+V02944,C0427,Maverick,2016,Hybrid,Utilities,127318,10
+V02945,C0493,F-150,2021,Gasoline,Utilities,116145,5
+V02946,C0021,F-150,2023,Electric,Construction,147916,3
+V02947,C0407,F-150,2018,Hybrid,Utilities,18418,8
+V02948,C0107,Transit,2016,Diesel,Utilities,170926,10
+V02949,C0336,Maverick,2019,Diesel,Utilities,93075,7
+V02950,C0303,F-150,2016,Electric,Delivery,70227,10
+V02951,C0117,Super Duty,2023,Gasoline,Utilities,148907,3
+V02952,C0124,E-Transit,2020,Hybrid,Construction,22533,6
+V02953,C0399,E-Transit,2016,Electric,Government,106457,10
+V02954,C0281,F-150,2023,Diesel,Delivery,112504,3
+V02955,C0292,E-Transit,2024,Gasoline,Logistics,146295,2
+V02956,C0203,E-Transit,2025,Hybrid,Utilities,129202,1
+V02957,C0051,Transit,2017,Electric,Government,15273,9
+V02958,C0271,Super Duty,2024,Hybrid,Government,38519,2
+V02959,C0324,Super Duty,2023,Gasoline,Delivery,160232,3
+V02960,C0277,Transit,2022,Gasoline,Logistics,132024,4
+V02961,C0141,Transit,2018,Diesel,Construction,129540,8
+V02962,C0470,E-Transit,2017,Gasoline,Government,146420,9
+V02963,C0275,Maverick,2022,Electric,Government,88460,4
+V02964,C0290,E-Transit,2020,Hybrid,Government,109471,6
+V02965,C0334,Transit,2021,Gasoline,Government,109668,5
+V02966,C0381,Super Duty,2019,Gasoline,Delivery,72519,7
+V02967,C0452,E-Transit,2017,Electric,Logistics,95426,9
+V02968,C0496,Maverick,2024,Hybrid,Government,19629,2
+V02969,C0373,E-Transit,2018,Hybrid,Construction,54056,8
+V02970,C0052,F-150,2022,Diesel,Construction,16273,4
+V02971,C0494,E-Transit,2023,Diesel,Utilities,125484,3
+V02972,C0027,Transit,2017,Hybrid,Government,102275,9
+V02973,C0157,Super Duty,2021,Electric,Government,176488,5
+V02974,C0239,Super Duty,2023,Electric,Government,143966,3
+V02975,C0156,Transit,2022,Diesel,Government,51073,4
+V02976,C0291,F-150,2018,Gasoline,Government,50693,8
+V02977,C0136,Transit,2016,Electric,Construction,29343,10
+V02978,C0144,E-Transit,2021,Gasoline,Logistics,48095,5
+V02979,C0106,Transit,2023,Electric,Logistics,167246,3
+V02980,C0420,Transit,2021,Hybrid,Utilities,127388,5
+V02981,C0158,F-150,2020,Diesel,Construction,119441,6
+V02982,C0146,E-Transit,2023,Gasoline,Government,105782,3
+V02983,C0002,Maverick,2017,Gasoline,Logistics,178998,9
+V02984,C0433,Maverick,2016,Hybrid,Delivery,77590,10
+V02985,C0077,Super Duty,2016,Electric,Delivery,174899,10
+V02986,C0132,Transit,2019,Gasoline,Delivery,113263,7
+V02987,C0090,Super Duty,2021,Electric,Government,177273,5
+V02988,C0345,F-150,2024,Hybrid,Government,34373,2
+V02989,C0350,Maverick,2016,Diesel,Utilities,32525,10
+V02990,C0459,Transit,2016,Gasoline,Utilities,132716,10
+V02991,C0263,F-150,2020,Electric,Utilities,109513,6
+V02992,C0351,F-150,2025,Gasoline,Delivery,134401,1
+V02993,C0108,Transit,2020,Electric,Government,101643,6
+V02994,C0074,F-150,2020,Electric,Delivery,166558,6
+V02995,C0039,Transit,2025,Electric,Utilities,154712,1
+V02996,C0397,Transit,2021,Hybrid,Government,102694,5
+V02997,C0159,E-Transit,2023,Diesel,Construction,41136,3
+V02998,C0071,Super Duty,2018,Gasoline,Logistics,61539,8
+V02999,C0447,F-150,2024,Diesel,Logistics,161014,2
+V03000,C0312,F-150,2016,Electric,Utilities,73363,10
