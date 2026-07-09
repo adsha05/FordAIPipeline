@@ -1,14 +1,16 @@
 # Ford Fleet AI Copilot
 
-Ford Fleet AI Copilot is a data science and AI application for fleet health monitoring. The project combines vehicle telematics, service history, failure labels, support tickets, and maintenance documentation to support exploratory analysis, predictive maintenance modeling, retrieval augmented generation, and a Streamlit user interface.
+Ford Fleet AI Copilot is an end-to-end predictive maintenance project for fleet health monitoring. It uses vehicle telematics, service history, failure labels, support tickets, and maintenance documents to predict 30-day failure risk and support maintenance prioritization through notebooks, a trained model, a FastAPI service, a Streamlit dashboard, and a RAG document retrieval workflow.
 
-## Project Goals
+## What This Project Does
 
-- Analyze fleet telematics and service data for maintenance patterns.
-- Build features for vehicle health, usage, and failure risk.
-- Train models that predict likely vehicle failures or maintenance needs.
-- Use maintenance manuals and support documents for RAG-based explanations.
-- Provide an interactive Streamlit app for fleet insights and decision support.
+- Generates and analyzes synthetic fleet operations data.
+- Builds vehicle-level features from telematics, service, ticket, and failure data.
+- Trains an XGBoost-based failure risk model.
+- Saves model artifacts for repeatable inference.
+- Exposes vehicle risk predictions through a FastAPI API.
+- Provides a Streamlit app for selecting vehicles and ranking high-risk assets.
+- Builds a vector store from maintenance manuals for future RAG-based support.
 
 ## Repository Structure
 
@@ -20,6 +22,10 @@ ford-fleet-ai-copilot/
 │   ├── docs/
 │   ├── processed/
 │   └── raw/
+├── models/
+│   ├── failure_risk_model.pkl
+│   ├── feature_columns.pkl
+│   └── xgb_explainability_model.pkl
 ├── notebooks/
 │   ├── 01_data_generation.ipynb
 │   ├── 02_eda.ipynb
@@ -28,53 +34,63 @@ ford-fleet-ai-copilot/
 │   └── 05_model_evaluation.ipynb
 ├── src/
 │   ├── api/
+│   │   └── main.py
 │   ├── data/
 │   ├── features/
 │   ├── models/
 │   ├── monitoring/
 │   └── rag/
+│       └── build_vector_store.py
 ├── requirements.txt
 ├── README.md
 └── .gitignore
 ```
 
-## Data
+## Data Assets
 
-Raw project data lives in `data/raw/`:
+Raw data lives in `data/raw/`:
 
-- `vehicles.csv`: vehicle metadata.
-- `telematics.csv`: operational telemetry and sensor readings.
-- `service_history.csv`: historical maintenance events.
-- `failure_labels.csv`: target labels for model training.
-- `support_tickets.csv`: user-reported issues and service requests.
+- `vehicles.csv`: fleet vehicle metadata.
+- `telematics.csv`: vehicle telemetry and operating signals.
+- `service_history.csv`: historical maintenance activity.
+- `failure_labels.csv`: supervised learning target labels.
+- `support_tickets.csv`: driver or support-reported issues.
 
-Reference documents live in `data/docs/`:
+Processed data lives in `data/processed/`:
 
-- `battery_manual.txt`
-- `brake_manual.txt`
-- `engine_manual.txt`
-- `oil_pressure_manual.txt`
-- `transmission_manual.txt`
+- `eda_vehicle_level.csv`: vehicle-level dataset for exploration.
+- `model_training_table.csv`: feature table used for training and inference.
+- `model_comparison.csv`: model evaluation comparison output.
+- `test_predictions.csv`: test-set prediction results.
+- `vehicle_risk_explanations.csv`: vehicle-level explanation and recommendation output.
 
-Processed datasets should be written to `data/processed/`.
+Maintenance documents live in `data/docs/` and are used by the RAG vector-store builder.
+
+## Model Artifacts
+
+The trained model files are stored in `models/`:
+
+- `failure_risk_model.pkl`: primary failure risk classifier used by the API.
+- `feature_columns.pkl`: ordered feature list required during inference.
+- `xgb_explainability_model.pkl`: XGBoost model artifact used for explainability workflows.
 
 ## Notebook Workflow
 
-Use the notebooks in order:
+Run the notebooks in order:
 
-1. `01_data_generation.ipynb`: create or refresh sample project data.
-2. `02_eda.ipynb`: inspect distributions, missing values, relationships, and failure trends.
-3. `03_feature_engineering.ipynb`: create model-ready features.
-4. `04_model_training.ipynb`: train predictive maintenance models.
-5. `05_model_evaluation.ipynb`: evaluate model quality and explain results.
+1. `01_data_generation.ipynb`: generate raw fleet, telematics, service, ticket, and failure data.
+2. `02_eda.ipynb`: perform exploratory data analysis.
+3. `03_feature_engineering.ipynb`: create model-ready vehicle-level features.
+4. `04_model_training.ipynb`: train and save failure risk models.
+5. `05_model_evaluation.ipynb`: evaluate predictions and generate model explanations.
 
 ## Setup
 
 Create and activate a virtual environment from the project root:
 
 ```bash
-python3 -m venv .venv
-source .venv/bin/activate
+python3 -m venv venv
+source venv/bin/activate
 ```
 
 Install dependencies:
@@ -83,39 +99,94 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
-If you are using VS Code or Jupyter, select the project environment as your notebook kernel:
+For VS Code or Jupyter, select this notebook kernel:
 
 ```text
-ford-fleet-ai-copilot/.venv/bin/python
+ford-fleet-ai-copilot/venv/bin/python
 ```
 
-## Running the App
+## Running the API
 
-Start the Streamlit app from the project root:
+Start the FastAPI service from the project root:
 
 ```bash
-streamlit run app/streamlit_app.py
+venv/bin/uvicorn src.api.main:app --reload
+```
+
+The API will run at:
+
+```text
+http://127.0.0.1:8000
+```
+
+Useful endpoints:
+
+- `GET /`: API status and available endpoints.
+- `GET /health`: model and data health check.
+- `POST /predict/vehicle`: predict risk for a known `vehicle_id`.
+- `POST /predict/features`: predict risk from a custom feature payload.
+
+Example request:
+
+```bash
+curl -X POST "http://127.0.0.1:8000/predict/vehicle" \
+  -H "Content-Type: application/json" \
+  -d '{"vehicle_id": "V0001"}'
+```
+
+## Running the Streamlit App
+
+Start the API first, then run Streamlit in a second terminal:
+
+```bash
+venv/bin/streamlit run app/streamlit_app.py
+```
+
+The app lets you:
+
+- Select a vehicle and request a failure risk prediction.
+- View failure probability and risk level.
+- Scan a subset of the fleet.
+- Rank vehicles by predicted risk.
+- Visualize risk level counts and probability distribution.
+
+## Building the RAG Vector Store
+
+The RAG builder reads text files from `data/docs/`, embeds them with `all-MiniLM-L6-v2`, and saves a FAISS vector index plus document metadata under `rag_store/`.
+
+Run:
+
+```bash
+venv/bin/python src/rag/build_vector_store.py
+```
+
+Expected outputs:
+
+```text
+rag_store/maintenance_docs.index
+rag_store/documents.pkl
 ```
 
 ## Core Dependencies
 
-- `pandas` and `numpy` for data processing.
+- `pandas`, `numpy`, and `scikit-learn` for data processing and modeling.
+- `xgboost` for failure risk modeling.
 - `matplotlib` and `seaborn` for visualization.
-- `scikit-learn` for machine learning.
-- `jupyter` for notebook development.
-- `streamlit` for the app interface.
+- `jupyter` for notebook workflows.
+- `fastapi`, `uvicorn`, and `pydantic` for the prediction API.
+- `streamlit` for the dashboard.
 
-## Development Notes
-
-- Keep raw source files in `data/raw/`.
-- Save cleaned and model-ready files in `data/processed/`.
-- Put reusable data loading code in `src/data/`.
-- Put feature transformations in `src/features/`.
-- Put model training and inference utilities in `src/models/`.
-- Put retrieval and document search logic in `src/rag/`.
-- Put API or service endpoints in `src/api/`.
-- Put drift checks, health metrics, and operational monitoring in `src/monitoring/`.
+The RAG vector-store workflow also uses FAISS and Sentence Transformers.
 
 ## Current Status
 
-This project is in the early build stage. The folder architecture, starter notebooks, raw data files, document files, dependencies, and Streamlit entrypoint are in place.
+The project now includes the full local prototype workflow:
+
+- Raw and processed fleet datasets.
+- Completed notebook workflow through model evaluation.
+- Saved model artifacts.
+- FastAPI prediction service.
+- Streamlit dashboard connected to the API.
+- Initial RAG vector-store builder for maintenance documentation.
+
+Next likely work includes adding API tests, improving model monitoring, wiring RAG retrieval into the app or API, and adding deployment configuration.

@@ -6,3 +6,10 @@ jupyter
 matplotlib
 seaborn
 xgboost
+fastapi
+uvicorn
+pydantic
+requests
+joblib
+faiss-cpu
+sentence-transformers
